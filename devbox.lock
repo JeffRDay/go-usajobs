@@ -1,0 +1,197 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "cobra-cli@1.3.0": {
+      "last_modified": "2024-06-12T20:55:33Z",
+      "resolved": "github:NixOS/nixpkgs/a9858885e197f984d92d7fe64e9fff6b2e488d40#cobra-cli",
+      "source": "devbox-search",
+      "version": "1.3.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/w9x05z0src12xv9ycim4gs40jrgjf62r-cobra-cli-1.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/w9x05z0src12xv9ycim4gs40jrgjf62r-cobra-cli-1.3.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/lnj2kcrcdv0gl9kf33g88vjxpr57v10h-cobra-cli-1.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/lnj2kcrcdv0gl9kf33g88vjxpr57v10h-cobra-cli-1.3.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/3kz46avvd6bjs6yxing2nv576wm58nf8-cobra-cli-1.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/3kz46avvd6bjs6yxing2nv576wm58nf8-cobra-cli-1.3.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ckfn5nhk1xm3d0ni20m5n9dg4l1dy7pa-cobra-cli-1.3.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ckfn5nhk1xm3d0ni20m5n9dg4l1dy7pa-cobra-cli-1.3.0"
+        }
+      }
+    },
+    "go-task@3.37.2": {
+      "last_modified": "2024-05-29T10:04:41Z",
+      "resolved": "github:NixOS/nixpkgs/ac82a513e55582291805d6f09d35b6d8b60637a1#go-task",
+      "source": "devbox-search",
+      "version": "3.37.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/sxx5qi67pni1188alq2a8vxnyliy4mpk-go-task-3.37.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/sxx5qi67pni1188alq2a8vxnyliy4mpk-go-task-3.37.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/6ji3xndcf45yrsrvbv3rkp789bz6rcby-go-task-3.37.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/6ji3xndcf45yrsrvbv3rkp789bz6rcby-go-task-3.37.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gf9ygvd2m7v2hv3349k6q3jgk0bfqr9z-go-task-3.37.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gf9ygvd2m7v2hv3349k6q3jgk0bfqr9z-go-task-3.37.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/9bswbbgd0fdbqa40yrj7f595303zbrnj-go-task-3.37.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/9bswbbgd0fdbqa40yrj7f595303zbrnj-go-task-3.37.2"
+        }
+      }
+    },
+    "go@1.22.3": {
+      "last_modified": "2024-05-29T10:04:41Z",
+      "resolved": "github:NixOS/nixpkgs/ac82a513e55582291805d6f09d35b6d8b60637a1#go",
+      "source": "devbox-search",
+      "version": "1.22.3",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/i04a1a6qgxhjw6c0ld2b3x1v815sbxjc-go-1.22.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/i04a1a6qgxhjw6c0ld2b3x1v815sbxjc-go-1.22.3"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/d68f2iblysnl0r4qcfdacmdpmvvy86kf-go-1.22.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/d68f2iblysnl0r4qcfdacmdpmvvy86kf-go-1.22.3"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/1p6vr83cgyfwm8517jhfmf6lypzhy3q2-go-1.22.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/1p6vr83cgyfwm8517jhfmf6lypzhy3q2-go-1.22.3"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/00mg4vlhzmm7gi9bd5v5ydjlgrywpc3n-go-1.22.3",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/00mg4vlhzmm7gi9bd5v5ydjlgrywpc3n-go-1.22.3"
+        }
+      }
+    },
+    "goreleaser@2.0.1": {
+      "last_modified": "2024-06-11T23:38:24Z",
+      "resolved": "github:NixOS/nixpkgs/e913ae340076bbb73d9f4d3d065c2bca7caafb16#goreleaser",
+      "source": "devbox-search",
+      "version": "2.0.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/q7m5pjg8qcjyi4z003l3nynzl0q8z1qz-goreleaser-2.0.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/q7m5pjg8qcjyi4z003l3nynzl0q8z1qz-goreleaser-2.0.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/54sicp6plrdbzp50fbwrmzqimss1kd13-goreleaser-2.0.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/54sicp6plrdbzp50fbwrmzqimss1kd13-goreleaser-2.0.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/l0366an09r4c9g64m53gyp9020z4bs91-goreleaser-2.0.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/l0366an09r4c9g64m53gyp9020z4bs91-goreleaser-2.0.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/44ydwc19jnc06prf3j1002hm5bvfdbms-goreleaser-2.0.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/44ydwc19jnc06prf3j1002hm5bvfdbms-goreleaser-2.0.1"
+        }
+      }
+    }
+  }
+}
