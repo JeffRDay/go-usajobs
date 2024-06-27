@@ -19,14 +19,13 @@ jobs:
       - name: Get Go version from go.mod
         id: get-go-version
         run: |
-          GO_VERSION=$(grep '^go ' go.mod | awk '{print $2}')
-          echo "Go version: $GO_VERSION"
-          echo "::set-output name=go_version::$GO_VERSION"
-
+          version_go=$(grep '^go ' go.mod | awk '{print $2}')
+          echo "version_go=$version_go" >> "$GITHUB_ENV"
+      
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
-          go-version: {{ steps.get-go-version.outputs.go_version }}
+          go-version: $version_go
    
       - name: Install taskfile
         run: |
