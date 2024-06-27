@@ -3,8 +3,10 @@ version: '3'
 tasks:
   test:
     cmds:
+      - go test $(go list ./... | grep -v /examples) -coverprofile=coverage.out && go tool cover -func=coverage.out
+  test-display:
+    cmds:
       - go test $(go list ./... | grep -v /examples) -coverprofile=coverage.out && go tool cover -func=coverage.out && go tool cover -html=coverage.out
-
   fmt:
     desc: format all golang files within the repository
     cmds:

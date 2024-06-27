@@ -40,7 +40,7 @@ available to users of the website via the API.
 
 Links:
 Obtain a USAJobs API Token here: https://developer.usajobs.gov/apirequest/
-You can view this project at: 
+You can view this project at: https://github.com/JeffRDay/go-usajobs 
 
 Support:
 Bugfix and feature requests should be submitted as an issue to the GitHub 

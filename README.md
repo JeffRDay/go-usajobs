@@ -6,7 +6,7 @@ An unoffocial golang http client library and CLI for the usajobs api.
 
 Software Engineers, Platform Engineers, and other folks in the IT community live
 closer to the command-line interface and/or within developer environments. The 
-goal for this project is to help bring government jobs announced on USAJobs
+goal for this project is to help bring US Government jobs announced on USAJobs
 closer to this group of people while providing a minor contribution to the open 
 source community to enable others to further expand the reach of these job
 announcements.

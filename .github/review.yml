@@ -1,0 +1,37 @@
+name: review
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  build:
+    
+    runs-on: ubuntu-latest
+    
+    steps:
+    
+      - uses: actions/checkout@v4
+
+      - name: Get Go version from go.mod
+        id: get-go-version
+        run: |
+          GO_VERSION=$(grep '^go ' go.mod | awk '{print $2}')
+          echo "Go version: $GO_VERSION"
+          echo "::set-output name=go_version::$GO_VERSION"
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: {{ steps.get-go-version.outputs.go_version }}
+   
+      - name: Install taskfile
+        run: |
+          sh -c "$(curl --location https://taskfile.dev/install.sh)" -- -d
+          task --version
+
+      - name: Run unit tests
+        run: task test
