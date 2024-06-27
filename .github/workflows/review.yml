@@ -11,6 +11,9 @@ jobs:
   build:
     
     runs-on: ubuntu-latest
+
+    outputs:
+      output1: ${{ steps.step1.outputs.go_version }}
     
     steps:
     
@@ -19,13 +22,14 @@ jobs:
       - name: Get Go version from go.mod
         id: get-go-version
         run: |
-          version_go=$(grep '^go ' go.mod | awk '{print $2}')
-          echo "version_go=$version_go" >> "$GITHUB_ENV"
+          go_version=$(grep '^go ' go.mod | awk '{print $2}')
+          echo "go_version=$go_version" >> "$GITHUB_OUTPUT"
       
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
-          go-version: $version_go
+          go-version: ${{ steps.step1.outputs.go_version }}
+
    
       - name: Install taskfile
         run: |
