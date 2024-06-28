@@ -12,9 +12,6 @@ jobs:
     
     runs-on: ubuntu-latest
 
-    outputs:
-      output1: ${{ steps.step1.outputs.go_version }}
-    
     steps:
     
       - uses: actions/checkout@v4
