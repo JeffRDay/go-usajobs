@@ -1,3 +1,7 @@
+<p align="center">
+    ![GitHub Release](https://img.shields.io/github/v/release/jeffrday/go-usajobs)
+</p>
+
 # go-usajobs
 
 An unoffocial golang http client library and CLI for the usajobs api.
