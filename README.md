@@ -1,5 +1,5 @@
 <p align="center">
-    ![GitHub Release](https://img.shields.io/github/v/release/jeffrday/go-usajobs)
+[![go-github release (latest SemVer)](https://img.shields.io/github/v/release/jeffrday/go-usajobs?sort=semver)](https://github.com/jeffrday/go-usajobs/releases)
 </p>
 
 # go-usajobs
