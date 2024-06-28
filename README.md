@@ -2,6 +2,8 @@
 
 ![Latest Release](https://img.shields.io/github/v/release/JeffRDay/go-usajobs)
 
+<img alt="Release" src="https://img.shields.io/github/v/release/jeffrday/go-usajobs">
+
 
 </p>
 
