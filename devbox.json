@@ -13,6 +13,9 @@
     "scripts": {
       "test": [
         "task test"
+      ],
+      "build": [
+          "task build"
       ]
     }
   }
