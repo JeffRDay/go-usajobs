@@ -69,8 +69,4 @@ var (
 )
 
 func init() {
-	rootCmd.PersistentFlags().StringVar(&userAgent, "user-agent", "", "email address used when obtaining a usajobs api token (required)")
-	rootCmd.PersistentFlags().StringVar(&apiToken, "token", "", "usajobs api token (required)")
-	rootCmd.MarkPersistentFlagRequired("user-agent")
-	rootCmd.MarkPersistentFlagRequired("token")
 }

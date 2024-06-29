@@ -18,6 +18,7 @@ package usajobs
 import (
 	"encoding/json"
 	"fmt"
+	"net/http"
 
 	"github.com/google/go-querystring/query"
 )
@@ -205,7 +206,7 @@ func NewSearchService(c *Client) *SearchService {
 
 // WithOptions executes a request to the usajobs /search endpoint with the
 // provided search options. Pass nil if no search options desired.
-func (s *SearchService) WithOptions(opt *SearchOptions) (SearchResponse, error) {
+func (s *SearchService) WithOptions(opt *SearchOptions) (*http.Response, SearchResponse, error) {
 
 	usajobsEndpoint := "/search"
 	sr := SearchResponse{}
@@ -214,26 +215,26 @@ func (s *SearchService) WithOptions(opt *SearchOptions) (SearchResponse, error) 
 	if opt != nil {
 		qs, err := query.Values(opt)
 		if err != nil {
-			return sr, err
+			return nil, sr, err
 		}
 		requestURL = fmt.Sprintf("%s?%s", usajobsEndpoint, qs.Encode())
 	}
 
 	req, err := s.Client.NewRequest("GET", requestURL)
 	if err != nil {
-		return sr, err
+		return nil, sr, err
 	}
 
 	response, err := s.Client.Client.Do(req)
 	if err != nil {
-		return sr, err
+		return response, sr, err
 	}
 	defer response.Body.Close()
 
 	err = json.NewDecoder(response.Body).Decode(&sr)
 	if err != nil {
-		return sr, err
+		return response, sr, err
 	}
 
-	return sr, nil
+	return response, sr, nil
 }

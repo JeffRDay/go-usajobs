@@ -16,7 +16,10 @@ limitations under the License.
 package cmd
 
 import (
+	"errors"
 	"fmt"
+	"net/http"
+	"os"
 	"strings"
 
 	usajobs "github.com/JeffRDay/go-usajobs/client"
@@ -40,7 +43,11 @@ Example Usage:
     `,
 	Run: func(cmd *cobra.Command, args []string) {
 		opt := setSearchOptions()
-		r := executeSearch(&opt)
+		r, err := executeSearch(&opt)
+		if err != nil {
+			fmt.Printf("Error: %s\n", err.Error())
+			os.Exit(1)
+		}
 
 		for _, job := range r {
 			fmt.Println(job)
@@ -82,6 +89,10 @@ var (
 
 func init() {
 	rootCmd.AddCommand(searchCmd)
+	searchCmd.PersistentFlags().StringVar(&userAgent, "user-agent", "", "[required] email address used when obtaining a usajobs api token")
+	searchCmd.PersistentFlags().StringVar(&apiToken, "token", "", "[required] usajobs api token")
+	searchCmd.MarkPersistentFlagRequired("user-agent")
+	searchCmd.MarkPersistentFlagRequired("token")
 	searchCmd.PersistentFlags().StringVarP(&Keyword, "keyword", "k", "", "[optional] Words used to refine search (ex., Army Software Factory)")
 	searchCmd.PersistentFlags().StringVar(&PositionTitle, "title", "", "[optional] filter jobs by position title (ex., IT Specialist)")
 	searchCmd.PersistentFlags().StringVar(&RemunerationMinimumAmount, "min-salary", "", "[optional] Sets the lower limit for filtering jobs by salary (ex., 80,000)")
@@ -223,19 +234,23 @@ func setSearchOptions() usajobs.SearchOptions {
 	return opt
 }
 
-func executeSearch(opt *usajobs.SearchOptions) []string {
+func executeSearch(opt *usajobs.SearchOptions) ([]string, error) {
 
 	var err error
-    if Client == nil {
+	if Client == nil {
 		Client, err = usajobs.NewClient(userAgent, apiToken)
 		if err != nil {
-			panic(err.Error())
+			return nil, err
 		}
 	}
 
-	r, err := Client.Search.WithOptions(opt)
+	response, r, err := Client.Search.WithOptions(opt)
 	if err != nil {
-		panic(err.Error())
+		return nil, err
+	}
+
+	if response.StatusCode != http.StatusOK {
+		return nil, errors.New(response.Status)
 	}
 
 	fmt.Printf(
@@ -264,5 +279,5 @@ func executeSearch(opt *usajobs.SearchOptions) []string {
 		results = append(results, result)
 	}
 
-	return results
+	return results, nil
 }

@@ -1,5 +1,5 @@
 /*
-Copyright © 2024 Jeff Day jeffrey.day33@gmail.com
+	Copyright © 2024 Jeff Day jeffrey.day33@gmail.com
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -17,7 +17,6 @@ package usajobs
 
 import (
 	"encoding/json"
-	"errors"
 	"fmt"
 	"net/http"
 
@@ -61,7 +60,7 @@ type AgencySubelementsResponse struct {
 
 // WithOptions executes a request to the usajobs /codelist/agencysubelements endpoint
 // with the provided options. Pass nil if no options desired.
-func (as *AgencySubelementsService) WithOptions(opt *AgencySubelementsOptions) (*AgencySubelementsResponse, error) {
+func (as *AgencySubelementsService) WithOptions(opt *AgencySubelementsOptions) (*http.Response, *AgencySubelementsResponse, error) {
 
 	usajobsEndpoint := "/codelist/agencysubelements"
 
@@ -71,30 +70,26 @@ func (as *AgencySubelementsService) WithOptions(opt *AgencySubelementsOptions) (
 	if opt != nil {
 		qs, err := query.Values(opt)
 		if err != nil {
-			return asr, err
+			return nil, asr, err
 		}
 		requestURL = fmt.Sprintf("%s?%s", usajobsEndpoint, qs.Encode())
 	}
 
 	req, err := as.Client.NewRequest("GET", requestURL)
 	if err != nil {
-		return asr, err
+		return nil, asr, err
 	}
 
 	response, err := as.Client.Client.Do(req)
 	if err != nil {
-		return asr, err
+		return nil, asr, err
 	}
 	defer response.Body.Close()
 
-	if response.StatusCode != http.StatusOK {
-		return asr, errors.New("failed to get agency subelements (non-200 http response code): " + response.Status)
-	}
-
 	err = json.NewDecoder(response.Body).Decode(&asr)
 	if err != nil {
-		return asr, err
+		return response, asr, err
 	}
 
-	return asr, nil
+	return response, asr, nil
 }

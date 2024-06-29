@@ -11,9 +11,9 @@ import (
 	usajobs "github.com/JeffRDay/go-usajobs/client"
 )
 
-var searchTestDataPath = "../../testdata/search-testdata.json"
+var agneciesTestDataPath = "../../testdata/agencysubelements-testdata.json"
 
-func TestSearch(t *testing.T) {
+func TestListAgencies(t *testing.T) {
 	// Read the JSON file from testdata directory
 	file, err := os.Open(searchTestDataPath)
 	if err != nil {
@@ -46,23 +46,9 @@ func TestSearch(t *testing.T) {
 	}
 	Client.BaseURL = u
 
-	opt := usajobs.SearchOptions{
-		Keyword: "Immigration and Customs Enforcement",
-	}
-
-	results, err := executeSearch(&opt)
+    results, err := executeListAgencies(nil)
 	if err != nil {
 		t.Fatal(err.Error())
 	}
-	t.Log(results[0])
-}
-
-func TestSetSearchOpts(t *testing.T) {
-
-	Keyword = "Army"
-	opt := setSearchOptions()
-
-	if opt.Keyword != "Army" {
-		t.Fatalf("expected %s, got %s", "Army", opt.Keyword)
-	}
+    t.Log(results)
 }

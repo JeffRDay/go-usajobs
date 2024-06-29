@@ -66,7 +66,7 @@ func TestSearch(t *testing.T) {
 		Keyword: "Immigration and Customs Enforcement",
 	}
 
-	res, err := c.Search.WithOptions(&opt)
+	_, res, err := c.Search.WithOptions(&opt)
 	if err != nil {
 		t.Fatalf("failed to execute search request: %v", err.Error())
 	}

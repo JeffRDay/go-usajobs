@@ -70,7 +70,7 @@ func TestAgency(t *testing.T) {
 
 	c.BaseURL = u
 
-	_, err = c.Agency.WithOptions(nil)
+	_, _, err = c.Agency.WithOptions(nil)
 	if err != nil {
 		t.Fatalf("failed to execute search request: %v", err.Error())
 	}
