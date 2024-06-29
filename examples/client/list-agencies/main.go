@@ -17,7 +17,7 @@ func main() {
 		panic(err.Error())
 	}
 
-	r, err := c.Agency.WithOptions(nil)
+	_, r, err := c.Agency.WithOptions(nil)
 	if err != nil {
 		panic(err.Error())
 	}

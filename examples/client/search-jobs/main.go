@@ -22,7 +22,7 @@ func main() {
 		JobCategoryCode: []string{"2210", "0854"},
 	}
 
-	r, err := c.Search.WithOptions(&opt)
+	_, r, err := c.Search.WithOptions(&opt)
 	if err != nil {
 		panic(err.Error())
 	}

@@ -11,7 +11,8 @@
   ],
   "shell": {
     "init_hook": [
-      "echo 'Welcome to devbox!' > /dev/null"
+      "go install github.com/mattn/goveralls@latest",  
+      "echo 'Welcome to devbox!'"
     ],
     "scripts": {
       "test": [
