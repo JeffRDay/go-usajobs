@@ -1,0 +1,28 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "Cum Laude",
+          "Value": "Cum Laude",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "Magna Cum Laude",
+          "Value": "Magna Cum Laude",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "Summa Cum Laude",
+          "Value": "Summa Cum Laude",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "AcademicHonors"
+    }
+  ],
+  "DateGenerated": "2024-06-29T16:29:45.3049447Z"
+}

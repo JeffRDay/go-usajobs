@@ -11,11 +11,11 @@ import (
 	usajobs "github.com/JeffRDay/go-usajobs/client"
 )
 
-var agenciesTestDataPath = "../../testdata/agencysubelements-testdata.json"
+var academichonorsTestData = "../../testdata/academichonors-testdata.json"
 
-func TestListAgencies(t *testing.T) {
+func TestListAcademicHonors(t *testing.T) {
 	// Read the JSON file from testdata directory
-	file, err := os.Open(agenciesTestDataPath)
+	file, err := os.Open(academichonorsTestData)
 	if err != nil {
 		t.Fatalf("could not open test data: %v", err)
 	}
@@ -46,7 +46,7 @@ func TestListAgencies(t *testing.T) {
 	}
 	Client.BaseURL = u
 
-    results, err := executeListAgencies(nil)
+    results, err := executeListAcademicHonors(nil)
 	if err != nil {
 		t.Fatal(err.Error())
 	}

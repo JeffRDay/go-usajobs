@@ -27,11 +27,11 @@ import (
 	usajobs "github.com/JeffRDay/go-usajobs/client"
 )
 
-var agencyTestDataPath = "../testdata/agencysubelements-testdata.json"
+var academichonorsTestDataPath = "../testdata/academichonors-testdata.json"
 
-func TestAgency(t *testing.T) {
+func TestAcademicHonors(t *testing.T) {
 	// Read the JSON file from testdata directory
-	file, err := os.Open(agencyTestDataPath)
+	file, err := os.Open(academichonorsTestDataPath)
 	if err != nil {
 		t.Fatalf("could not open test data: %v", err)
 	}
@@ -46,7 +46,7 @@ func TestAgency(t *testing.T) {
 	mockServer := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		t.Log(r.URL.String())
 
-		if strings.Contains(r.URL.String(), "/codelist/agencysubelements") {
+		if strings.Contains(r.URL.String(), "/codelist/academichonors") {
 			// Return status OK for the specific URL
 			w.Header().Set("Content-Type", "application/json")
 			w.WriteHeader(http.StatusOK)
@@ -70,7 +70,7 @@ func TestAgency(t *testing.T) {
 
 	c.BaseURL = u
 
-	_, _, err = c.Agency.WithOptions(nil)
+	_, _, err = c.AcademicHonors.WithOptions(nil)
 	if err != nil {
 		t.Fatalf("failed to execute search request: %v", err.Error())
 	}

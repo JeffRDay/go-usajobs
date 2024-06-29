@@ -94,7 +94,7 @@ func main() {
 
 - [X] /search
 - [ ] /historicjoa (usajobs needs to fix)
-- [ ] /codelist/academichonors
+- [X] /codelist/academichonors
 - [ ] /codelist/academiclevels
 - [X] /codelist/agencysubelements
 - [ ] /codelist/announcementclosingtype

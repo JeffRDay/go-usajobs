@@ -53,6 +53,7 @@ type Client struct {
 	// usajobs api.
 	Search *SearchService
 	Agency *AgencySubelementsService
+    AcademicHonors *AcademicHonorsService
 }
 
 // NewClient requires a user agent and api token string variables and returns
@@ -80,6 +81,7 @@ func NewClient(userAgent, apiToken string) (*Client, error) {
 
 	c.Search = NewSearchService(&c)
 	c.Agency = NewAgencySubelementsService(&c)
+    c.AcademicHonors = NewAcademicHonorsService(&c)
 
 	return &c, nil
 }
