@@ -1,0 +1,328 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Value": "Data Analyst",
+          "Code": "422",
+          "LastModified": "2021-01-22T12:13:13.29",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Database Administrator",
+          "Code": "421",
+          "LastModified": "2021-01-22T12:13:13.323",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Enterprise Architect",
+          "Code": "651",
+          "LastModified": "2021-01-22T12:13:13.337",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Knowledge Manager",
+          "Code": "431",
+          "LastModified": "2021-01-22T12:13:13.353",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Network Ops Specialist",
+          "Code": "441",
+          "LastModified": "2021-01-22T12:13:13.37",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Requirements Planner",
+          "Code": "641",
+          "LastModified": "2021-01-22T12:13:13.387",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "R&D Specialist",
+          "Code": "661",
+          "LastModified": "2021-01-22T12:13:13.4",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Software Developer",
+          "Code": "621",
+          "LastModified": "2021-01-22T12:13:13.417",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "System Administrator",
+          "Code": "451",
+          "LastModified": "2021-01-22T12:13:13.433",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Systems Developer",
+          "Code": "632",
+          "LastModified": "2021-01-22T12:13:13.447",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Tech Support Specialist",
+          "Code": "411",
+          "LastModified": "2021-01-22T12:13:13.463",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Sys T&E Specialist",
+          "Code": "671",
+          "LastModified": "2021-01-22T12:13:13.48",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Authorizing Official",
+          "Code": "611",
+          "LastModified": "2021-01-22T12:13:13.493",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "COMSEC Manager",
+          "Code": "723",
+          "LastModified": "2021-01-22T12:13:13.51",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Defense Analyst",
+          "Code": "511",
+          "LastModified": "2021-01-22T12:13:13.527",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Def. Forensics Analyst",
+          "Code": "212",
+          "LastModified": "2021-01-22T12:13:13.54",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Def. Incident Res.",
+          "Code": "531",
+          "LastModified": "2021-01-22T12:13:13.557",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Def. Infra. Spt. Spec.",
+          "Code": "521",
+          "LastModified": "2021-01-22T12:13:13.573",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Info Sys. Sec. Developer",
+          "Code": "631",
+          "LastModified": "2021-01-22T12:13:13.587",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Info Sys. Sec. Mgr.",
+          "Code": "722",
+          "LastModified": "2021-01-22T12:13:13.603",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Secure SW Assessor",
+          "Code": "622",
+          "LastModified": "2021-01-22T12:13:13.62",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Security Architect",
+          "Code": "652",
+          "LastModified": "2021-01-22T12:13:13.62",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Security Control Assessor",
+          "Code": "612",
+          "LastModified": "2021-01-22T12:13:13.62",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Systems Security Analyst",
+          "Code": "461",
+          "LastModified": "2021-01-22T12:13:13.637",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Vulnerability Analyst",
+          "Code": "541",
+          "LastModified": "2021-01-22T12:13:13.637",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Operator",
+          "Code": "321",
+          "LastModified": "2021-01-22T12:13:13.65",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Ops. Planner",
+          "Code": "332",
+          "LastModified": "2021-01-22T12:13:13.667",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Exploitation Analyst",
+          "Code": "121",
+          "LastModified": "2021-01-22T12:13:13.683",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Partner Integr. Planner",
+          "Code": "333",
+          "LastModified": "2021-01-22T12:13:13.697",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Mission Assess. Spec.",
+          "Code": "112",
+          "LastModified": "2021-01-22T12:13:13.697",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Target Network Analyst",
+          "Code": "132",
+          "LastModified": "2021-01-22T12:13:13.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Target Developer",
+          "Code": "131",
+          "LastModified": "2021-01-22T12:13:13.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Threat/Warning Analyst",
+          "Code": "141",
+          "LastModified": "2021-01-22T12:13:13.76",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "All Source Analyst",
+          "Code": "111",
+          "LastModified": "2021-01-22T12:13:13.777",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "All Source Collection Mgr.",
+          "Code": "311",
+          "LastModified": "2021-01-22T12:13:13.79",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "All Source Collection Reqs. Mgr.",
+          "Code": "312",
+          "LastModified": "2021-01-22T12:13:13.807",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Intelligence Planner",
+          "Code": "331",
+          "LastModified": "2021-01-22T12:13:13.823",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Multi Disc. Language Analyst",
+          "Code": "151",
+          "LastModified": "2021-01-22T12:13:13.837",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "IT Invest/Portfolio Mgr.",
+          "Code": "804",
+          "LastModified": "2021-01-22T12:13:13.853",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "IT Project Mgr.",
+          "Code": "802",
+          "LastModified": "2021-01-22T12:13:13.853",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Program Mgr.",
+          "Code": "801",
+          "LastModified": "2021-01-22T12:13:13.87",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Product Support Mgr.",
+          "Code": "803",
+          "LastModified": "2021-01-22T12:13:13.9",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "IT Program Auditor",
+          "Code": "805",
+          "LastModified": "2021-01-22T12:13:13.917",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Instructor",
+          "Code": "712",
+          "LastModified": "2021-01-22T12:13:13.947",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Instr./Curriculum Dev.",
+          "Code": "711",
+          "LastModified": "2021-01-22T12:13:13.963",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber WF Developer & Mgr.",
+          "Code": "751",
+          "LastModified": "2021-01-22T12:13:13.98",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Policy/Strat Planner",
+          "Code": "752",
+          "LastModified": "2021-01-22T12:13:13.993",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Executive Cyber Leadership",
+          "Code": "901",
+          "LastModified": "2021-01-22T12:13:13.993",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Privacy Compliance Mgr.",
+          "Code": "732",
+          "LastModified": "2021-01-22T12:13:13.993",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Legal Advisor",
+          "Code": "731",
+          "LastModified": "2021-01-22T12:13:13.993",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Cyber Crime Investigator",
+          "Code": "221",
+          "LastModified": "2021-01-22T12:13:13.993",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Forensics Analyst",
+          "Code": "211",
+          "LastModified": "2021-01-22T12:13:13.993",
+          "IsDisabled": "No"
+        },
+        {
+          "Value": "Not Applicable",
+          "Code": "000",
+          "LastModified": "2021-01-22T12:13:13.993",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "CyberWorkRole"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:04.0346599Z"
+}

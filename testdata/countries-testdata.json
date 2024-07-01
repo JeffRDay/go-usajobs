@@ -1,0 +1,1558 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "99",
+          "Value": "Undefined",
+          "LastModified": "2011-07-08T21:18:19.46",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AA",
+          "Value": "Aruba",
+          "LastModified": "2011-08-30T13:37:33.81",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AC",
+          "Value": "Antigua and Barbuda",
+          "LastModified": "2011-08-30T13:37:33.873",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AE",
+          "Value": "United Arab Emirates",
+          "LastModified": "2011-08-30T13:37:33.873",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AF",
+          "Value": "Afghanistan",
+          "LastModified": "2011-08-30T13:37:33.877",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AG",
+          "Value": "Algeria",
+          "LastModified": "2011-08-30T13:37:33.877",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AJ",
+          "Value": "Azerbaijan",
+          "LastModified": "2011-08-30T13:37:33.877",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AL",
+          "Value": "Albania",
+          "LastModified": "2011-08-30T13:37:33.877",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AM",
+          "Value": "Armenia",
+          "LastModified": "2011-08-30T13:37:33.877",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AN",
+          "Value": "Andorra",
+          "LastModified": "2011-08-30T13:37:33.88",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AO",
+          "Value": "Angola",
+          "LastModified": "2011-08-30T13:37:33.88",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AR",
+          "Value": "Argentina",
+          "LastModified": "2011-08-30T13:37:33.88",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AS",
+          "Value": "Australia",
+          "LastModified": "2011-08-30T13:37:33.88",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AT",
+          "Value": "Ashmore and Cartier Islands",
+          "LastModified": "2011-08-30T13:37:33.88",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AU",
+          "Value": "Austria",
+          "LastModified": "2011-08-30T13:37:33.913",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AV",
+          "Value": "Anguilla",
+          "LastModified": "2011-08-30T13:37:33.913",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AX",
+          "Value": "Akrotiri Sovereign Base Area",
+          "LastModified": "2011-08-30T13:37:33.913",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AY",
+          "Value": "Antarctica",
+          "LastModified": "2011-08-30T13:37:33.917",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BA",
+          "Value": "Bahrain",
+          "LastModified": "2011-08-30T13:37:33.917",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BB",
+          "Value": "Barbados",
+          "LastModified": "2011-08-30T13:37:33.917",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BC",
+          "Value": "Botswana",
+          "LastModified": "2011-08-30T13:37:33.917",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BD",
+          "Value": "Bermuda",
+          "LastModified": "2011-08-30T13:37:33.917",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BE",
+          "Value": "Belgium",
+          "LastModified": "2011-08-30T13:37:33.92",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BG",
+          "Value": "Bangladesh",
+          "LastModified": "2011-08-30T13:37:33.92",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BH",
+          "Value": "Belize",
+          "LastModified": "2011-08-30T13:37:33.92",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BK",
+          "Value": "Bosnia and Herzegovina",
+          "LastModified": "2011-08-30T13:37:33.92",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BL",
+          "Value": "Bolivia",
+          "LastModified": "2011-08-30T13:37:33.92",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BM",
+          "Value": "Burma",
+          "LastModified": "2011-08-30T13:37:33.92",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BN",
+          "Value": "Benin",
+          "LastModified": "2011-08-30T13:37:33.923",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BO",
+          "Value": "Belarus",
+          "LastModified": "2011-08-30T13:37:33.923",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BP",
+          "Value": "Solomon Islands",
+          "LastModified": "2011-08-30T13:37:33.923",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BR",
+          "Value": "Brazil",
+          "LastModified": "2011-08-30T13:37:33.927",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BS",
+          "Value": "Bassas Da India",
+          "LastModified": "2011-08-30T13:37:33.927",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BT",
+          "Value": "Bhutan",
+          "LastModified": "2011-08-30T13:37:33.927",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BU",
+          "Value": "Bulgaria",
+          "LastModified": "2011-08-30T13:37:33.927",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BV",
+          "Value": "Bouvet Island",
+          "LastModified": "2011-08-30T13:37:33.93",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BX",
+          "Value": "Brunei",
+          "LastModified": "2011-08-30T13:37:33.93",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BY",
+          "Value": "Burundi",
+          "LastModified": "2011-08-30T13:37:33.93",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CA",
+          "Value": "Canada",
+          "LastModified": "2011-08-30T13:37:33.93",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CB",
+          "Value": "Cambodia",
+          "LastModified": "2011-08-30T13:37:33.93",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CD",
+          "Value": "Chad",
+          "LastModified": "2011-08-30T13:37:33.93",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CE",
+          "Value": "Sri Lanka",
+          "LastModified": "2011-08-30T13:37:33.93",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CF",
+          "Value": "Congo",
+          "LastModified": "2011-08-30T13:37:33.933",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CH",
+          "Value": "China",
+          "LastModified": "2011-08-30T13:37:33.933",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CI",
+          "Value": "Chile",
+          "LastModified": "2011-08-30T13:37:33.933",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CJ",
+          "Value": "Cayman Islands",
+          "LastModified": "2011-08-30T13:37:33.933",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CK",
+          "Value": "Cocos (Keeling) Islands",
+          "LastModified": "2011-08-30T13:37:33.937",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CM",
+          "Value": "Cameroon",
+          "LastModified": "2011-08-30T13:37:33.937",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CN",
+          "Value": "Comoros",
+          "LastModified": "2011-08-30T13:37:33.937",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CO",
+          "Value": "Colombia",
+          "LastModified": "2011-08-30T13:37:33.937",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CR",
+          "Value": "Coral Sea Islands",
+          "LastModified": "2011-08-30T13:37:33.94",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CS",
+          "Value": "Costa Rica",
+          "LastModified": "2011-08-30T13:37:33.94",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CT",
+          "Value": "Central African Republic",
+          "LastModified": "2011-08-30T13:37:33.94",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CU",
+          "Value": "Cuba",
+          "LastModified": "2011-08-30T13:37:33.94",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CV",
+          "Value": "Cape Verde",
+          "LastModified": "2011-08-30T13:37:33.94",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CW",
+          "Value": "Cook Islands",
+          "LastModified": "2011-08-30T13:37:33.94",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CY",
+          "Value": "Cyprus",
+          "LastModified": "2011-08-30T13:37:33.943",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DA",
+          "Value": "Denmark",
+          "LastModified": "2011-08-30T13:37:33.943",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DJ",
+          "Value": "Djibouti",
+          "LastModified": "2011-08-30T13:37:33.943",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DO",
+          "Value": "Dominica",
+          "LastModified": "2011-08-30T13:37:33.943",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DR",
+          "Value": "Dominican Republic",
+          "LastModified": "2011-08-30T13:37:33.947",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DX",
+          "Value": "Dhekelia Sovereign Base Area",
+          "LastModified": "2011-08-30T13:37:33.947",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EC",
+          "Value": "Ecuador",
+          "LastModified": "2011-08-30T13:37:33.947",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EG",
+          "Value": "Egypt",
+          "LastModified": "2011-08-30T13:37:33.947",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EI",
+          "Value": "Ireland",
+          "LastModified": "2011-08-30T13:37:33.947",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EK",
+          "Value": "Equatorial Guinea",
+          "LastModified": "2011-08-30T13:37:33.95",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EN",
+          "Value": "Estonia",
+          "LastModified": "2011-08-30T13:37:33.95",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ER",
+          "Value": "Eritrea",
+          "LastModified": "2011-08-30T13:37:33.95",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ES",
+          "Value": "El Salvador",
+          "LastModified": "2011-08-30T13:37:33.95",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ET",
+          "Value": "Ethiopia",
+          "LastModified": "2011-08-30T13:37:33.95",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EU",
+          "Value": "Europa Island",
+          "LastModified": "2011-08-30T13:37:33.95",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EZ",
+          "Value": "Czech Republic",
+          "LastModified": "2011-08-30T13:37:33.953",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FG",
+          "Value": "French Guiana",
+          "LastModified": "2011-08-30T13:37:33.953",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FI",
+          "Value": "Finland",
+          "LastModified": "2011-08-30T13:37:33.953",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FJ",
+          "Value": "Fiji",
+          "LastModified": "2011-08-30T13:37:33.953",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FO",
+          "Value": "Faroe Islands",
+          "LastModified": "2011-08-30T13:37:33.957",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FP",
+          "Value": "French Polynesia",
+          "LastModified": "2011-08-30T13:37:33.957",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FR",
+          "Value": "France",
+          "LastModified": "2011-08-30T13:37:33.96",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FS",
+          "Value": "French Southern and Antarctic Lands",
+          "LastModified": "2011-08-30T13:37:33.96",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GB",
+          "Value": "Gabon",
+          "LastModified": "2011-08-30T13:37:33.96",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GG",
+          "Value": "Republic of Georgia",
+          "LastModified": "2011-08-30T13:37:33.96",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GH",
+          "Value": "Ghana",
+          "LastModified": "2011-08-30T13:37:33.96",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GI",
+          "Value": "Gibraltar",
+          "LastModified": "2011-08-30T13:37:33.963",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GJ",
+          "Value": "Grenada",
+          "LastModified": "2011-08-30T13:37:33.963",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GK",
+          "Value": "Guernsey",
+          "LastModified": "2011-08-30T13:37:33.963",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GL",
+          "Value": "Greenland",
+          "LastModified": "2011-08-30T13:37:33.963",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GM",
+          "Value": "Germany",
+          "LastModified": "2011-08-30T13:37:33.963",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GO",
+          "Value": "Glorioso Islands",
+          "LastModified": "2011-08-30T13:37:33.963",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GP",
+          "Value": "Guadeloupe",
+          "LastModified": "2011-08-30T13:37:33.967",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GR",
+          "Value": "Greece",
+          "LastModified": "2011-08-30T13:37:33.967",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GT",
+          "Value": "Guatemala",
+          "LastModified": "2011-08-30T13:37:33.967",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GV",
+          "Value": "Guinea",
+          "LastModified": "2011-08-30T13:37:33.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GY",
+          "Value": "Guyana",
+          "LastModified": "2011-08-30T13:37:33.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GZ",
+          "Value": "Gaza Strip",
+          "LastModified": "2011-08-30T13:37:33.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "HA",
+          "Value": "Haiti",
+          "LastModified": "2011-08-30T13:37:33.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "HK",
+          "Value": "Hong Kong",
+          "LastModified": "2011-08-30T13:37:33.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "HM",
+          "Value": "Heard Island and McDonald Islands",
+          "LastModified": "2011-08-30T13:37:33.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "HO",
+          "Value": "Honduras",
+          "LastModified": "2011-08-30T13:37:33.973",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "HR",
+          "Value": "Croatia",
+          "LastModified": "2011-08-30T13:37:33.973",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "HU",
+          "Value": "Hungary",
+          "LastModified": "2011-08-30T13:37:33.973",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IC",
+          "Value": "Iceland",
+          "LastModified": "2011-08-30T13:37:33.973",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ID",
+          "Value": "Indonesia",
+          "LastModified": "2011-08-30T13:37:33.977",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IM",
+          "Value": "Isle of Man",
+          "LastModified": "2011-08-30T13:37:33.977",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IN",
+          "Value": "India",
+          "LastModified": "2011-08-30T13:37:33.977",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IO",
+          "Value": "British Indian Ocean Territory",
+          "LastModified": "2011-08-30T13:37:33.977",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IP",
+          "Value": "Clipperton Island",
+          "LastModified": "2011-08-30T13:37:33.977",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IR",
+          "Value": "Iran",
+          "LastModified": "2011-08-30T13:37:33.98",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IS",
+          "Value": "Israel",
+          "LastModified": "2011-08-30T13:37:33.98",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IT",
+          "Value": "Italy",
+          "LastModified": "2011-08-30T13:37:33.98",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IZ",
+          "Value": "Iraq",
+          "LastModified": "2011-08-30T13:37:33.98",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JE",
+          "Value": "Jersey",
+          "LastModified": "2011-08-30T13:37:33.98",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JA",
+          "Value": "Japan",
+          "LastModified": "2011-08-30T13:37:33.99",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JM",
+          "Value": "Jamaica",
+          "LastModified": "2011-08-30T13:37:33.99",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JN",
+          "Value": "Jan Mayen",
+          "LastModified": "2011-08-30T13:37:33.99",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JO",
+          "Value": "Jordan",
+          "LastModified": "2011-08-30T13:37:33.993",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JU",
+          "Value": "Juan De Nova Island",
+          "LastModified": "2011-08-30T13:37:33.993",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KE",
+          "Value": "Kenya",
+          "LastModified": "2011-08-30T13:37:33.993",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KG",
+          "Value": "Kyrgyzstan",
+          "LastModified": "2011-08-30T13:37:33.997",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KN",
+          "Value": "North Korea",
+          "LastModified": "2011-08-30T13:37:33.997",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KR",
+          "Value": "Kiribati",
+          "LastModified": "2011-08-30T13:37:33.997",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KS",
+          "Value": "South Korea",
+          "LastModified": "2011-08-30T13:37:34",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KT",
+          "Value": "Christmas Island",
+          "LastModified": "2011-08-30T13:37:34",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KU",
+          "Value": "Kuwait",
+          "LastModified": "2011-08-30T13:37:34",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KZ",
+          "Value": "Kazakhstan",
+          "LastModified": "2011-08-30T13:37:34",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LA",
+          "Value": "Laos",
+          "LastModified": "2011-08-30T13:37:34",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LE",
+          "Value": "Lebanon",
+          "LastModified": "2011-08-30T13:37:34",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LG",
+          "Value": "Latvia",
+          "LastModified": "2011-08-30T13:37:34",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LH",
+          "Value": "Lithuania",
+          "LastModified": "2011-08-30T13:37:34",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LI",
+          "Value": "Liberia",
+          "LastModified": "2011-08-30T13:37:34.003",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LO",
+          "Value": "Slovakia",
+          "LastModified": "2011-08-30T13:37:34.003",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LS",
+          "Value": "Liechtenstein",
+          "LastModified": "2011-08-30T13:37:34.003",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LT",
+          "Value": "Lesotho",
+          "LastModified": "2011-08-30T13:37:34.007",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LU",
+          "Value": "Luxembourg",
+          "LastModified": "2011-08-30T13:37:34.007",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LY",
+          "Value": "Libya",
+          "LastModified": "2011-08-30T13:37:34.007",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MA",
+          "Value": "Madagascar",
+          "LastModified": "2011-08-30T13:37:34.007",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MB",
+          "Value": "Martinique",
+          "LastModified": "2011-08-30T13:37:34.007",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MC",
+          "Value": "Macau",
+          "LastModified": "2011-08-30T13:37:34.007",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MD",
+          "Value": "Moldova",
+          "LastModified": "2011-08-30T13:37:34.01",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MF",
+          "Value": "Mayotte",
+          "LastModified": "2011-08-30T13:37:34.01",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MG",
+          "Value": "Mongolia",
+          "LastModified": "2011-08-30T13:37:34.01",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MH",
+          "Value": "Montserrat",
+          "LastModified": "2011-08-30T13:37:34.01",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MI",
+          "Value": "Malawi",
+          "LastModified": "2011-08-30T13:37:34.01",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MJ",
+          "Value": "Montenegro",
+          "LastModified": "2011-08-30T13:37:34.01",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ML",
+          "Value": "Mali",
+          "LastModified": "2011-08-30T13:37:34.013",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MN",
+          "Value": "Monaco",
+          "LastModified": "2011-08-30T13:37:34.013",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MO",
+          "Value": "Morocco",
+          "LastModified": "2011-08-30T13:37:34.013",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MP",
+          "Value": "Mauritius",
+          "LastModified": "2011-08-30T13:37:34.013",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MR",
+          "Value": "Mauritania",
+          "LastModified": "2011-08-30T13:37:34.017",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MT",
+          "Value": "Malta",
+          "LastModified": "2011-08-30T13:37:34.017",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MU",
+          "Value": "Oman",
+          "LastModified": "2011-08-30T13:37:34.017",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MV",
+          "Value": "Maldives",
+          "LastModified": "2011-08-30T13:37:34.017",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MX",
+          "Value": "Mexico",
+          "LastModified": "2011-08-30T13:37:34.017",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MY",
+          "Value": "Malaysia",
+          "LastModified": "2011-08-30T13:37:34.02",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MZ",
+          "Value": "Mozambique",
+          "LastModified": "2011-08-30T13:37:34.02",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NC",
+          "Value": "New Caledonia",
+          "LastModified": "2011-08-30T13:37:34.02",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NE",
+          "Value": "Niue",
+          "LastModified": "2011-08-30T13:37:34.02",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NF",
+          "Value": "Norfolk Island",
+          "LastModified": "2011-08-30T13:37:34.02",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NG",
+          "Value": "Niger",
+          "LastModified": "2011-08-30T13:37:34.02",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NH",
+          "Value": "Vanuatu",
+          "LastModified": "2011-08-30T13:37:34.02",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NI",
+          "Value": "Nigeria",
+          "LastModified": "2011-08-30T13:37:34.023",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NL",
+          "Value": "Netherlands",
+          "LastModified": "2011-08-30T13:37:34.023",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NO",
+          "Value": "Norway",
+          "LastModified": "2011-08-30T13:37:34.023",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NP",
+          "Value": "Nepal",
+          "LastModified": "2011-08-30T13:37:34.023",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NR",
+          "Value": "Nauru",
+          "LastModified": "2011-08-30T13:37:34.023",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NS",
+          "Value": "Suriname",
+          "LastModified": "2011-08-30T13:37:34.027",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NT",
+          "Value": "Netherlands Antilles",
+          "LastModified": "2011-08-30T13:37:34.027",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NU",
+          "Value": "Nicaragua",
+          "LastModified": "2011-08-30T13:37:34.027",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NZ",
+          "Value": "New Zealand",
+          "LastModified": "2011-08-30T13:37:34.027",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PA",
+          "Value": "Paraguay",
+          "LastModified": "2011-08-30T13:37:34.027",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PC",
+          "Value": "Pitcairn Islands",
+          "LastModified": "2011-08-30T13:37:34.027",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PE",
+          "Value": "Peru",
+          "LastModified": "2011-08-30T13:37:34.03",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PF",
+          "Value": "Paracel Islands",
+          "LastModified": "2011-08-30T13:37:34.03",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PG",
+          "Value": "Spratly Islands",
+          "LastModified": "2011-08-30T13:37:34.03",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PK",
+          "Value": "Pakistan",
+          "LastModified": "2011-08-30T13:37:34.03",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PL",
+          "Value": "Poland",
+          "LastModified": "2011-08-30T13:37:34.033",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PM",
+          "Value": "Panama",
+          "LastModified": "2011-08-30T13:37:34.033",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PO",
+          "Value": "Portugal",
+          "LastModified": "2011-08-30T13:37:34.033",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PP",
+          "Value": "Papua New Guinea",
+          "LastModified": "2011-08-30T13:37:34.033",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PS",
+          "Value": "Palau",
+          "LastModified": "2011-08-30T13:37:34.033",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PU",
+          "Value": "Guinea-Bissau",
+          "LastModified": "2011-08-30T13:37:34.037",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "QA",
+          "Value": "Qatar",
+          "LastModified": "2011-08-30T13:37:34.037",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RB",
+          "Value": "Serbia",
+          "LastModified": "2011-08-30T13:37:34.037",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RE",
+          "Value": "Reunion",
+          "LastModified": "2011-08-30T13:37:34.037",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RM",
+          "Value": "Marshall Islands",
+          "LastModified": "2011-08-30T13:37:34.037",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RO",
+          "Value": "Romania",
+          "LastModified": "2011-08-30T13:37:34.04",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RP",
+          "Value": "Philippines",
+          "LastModified": "2011-08-30T13:37:34.04",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RS",
+          "Value": "Russia",
+          "LastModified": "2011-08-30T13:37:34.04",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RW",
+          "Value": "Rwanda",
+          "LastModified": "2011-08-30T13:37:34.04",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SA",
+          "Value": "Saudi Arabia",
+          "LastModified": "2011-08-30T13:37:34.04",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SB",
+          "Value": "Saint Pierre and Miquelon",
+          "LastModified": "2011-08-30T13:37:34.04",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SC",
+          "Value": "Saint Kitts And Nevis",
+          "LastModified": "2011-08-30T13:37:34.043",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SE",
+          "Value": "Seychelles",
+          "LastModified": "2011-08-30T13:37:34.043",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SF",
+          "Value": "South Africa",
+          "LastModified": "2011-08-30T13:37:34.043",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SG",
+          "Value": "Senegal",
+          "LastModified": "2011-08-30T13:37:34.043",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SH",
+          "Value": "Saint Helena",
+          "LastModified": "2011-08-30T13:37:34.043",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SI",
+          "Value": "Slovenia",
+          "LastModified": "2011-08-30T13:37:34.043",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SL",
+          "Value": "Sierra Leone",
+          "LastModified": "2011-08-30T13:37:34.047",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SM",
+          "Value": "San Marino",
+          "LastModified": "2011-08-30T13:37:34.047",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SN",
+          "Value": "Singapore",
+          "LastModified": "2011-08-30T13:37:34.047",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SO",
+          "Value": "Somalia",
+          "LastModified": "2011-08-30T13:37:34.047",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SP",
+          "Value": "Spain",
+          "LastModified": "2011-08-30T13:37:34.047",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ST",
+          "Value": "Saint Lucia",
+          "LastModified": "2011-08-30T13:37:34.05",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SU",
+          "Value": "Sudan",
+          "LastModified": "2011-08-30T13:37:34.05",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SV",
+          "Value": "Svalbard",
+          "LastModified": "2011-08-30T13:37:34.05",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SW",
+          "Value": "Sweden",
+          "LastModified": "2011-08-30T13:37:34.05",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SX",
+          "Value": "South Georgia and South Sandwich Islands",
+          "LastModified": "2011-08-30T13:37:34.05",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SY",
+          "Value": "Syria",
+          "LastModified": "2011-08-30T13:37:34.05",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SZ",
+          "Value": "Switzerland",
+          "LastModified": "2011-08-30T13:37:34.05",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TD",
+          "Value": "Trinidad and Tobago",
+          "LastModified": "2011-08-30T13:37:34.053",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TE",
+          "Value": "Tromelin Island",
+          "LastModified": "2011-08-30T13:37:34.053",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TH",
+          "Value": "Thailand",
+          "LastModified": "2011-08-30T13:37:34.053",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TI",
+          "Value": "Tajikistan",
+          "LastModified": "2011-08-30T13:37:34.053",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TK",
+          "Value": "Turks and Caicos Islands",
+          "LastModified": "2011-08-30T13:37:34.057",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TL",
+          "Value": "Tokelau",
+          "LastModified": "2011-08-30T13:37:34.057",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TN",
+          "Value": "Tonga",
+          "LastModified": "2011-08-30T13:37:34.057",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TO",
+          "Value": "Togo",
+          "LastModified": "2011-08-30T13:37:34.057",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TP",
+          "Value": "Sao Tome and Principe",
+          "LastModified": "2011-08-30T13:37:34.057",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TS",
+          "Value": "Tunisia",
+          "LastModified": "2011-08-30T13:37:34.057",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TU",
+          "Value": "Turkey",
+          "LastModified": "2011-08-30T13:37:34.06",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TV",
+          "Value": "Tuvalu",
+          "LastModified": "2011-08-30T13:37:34.06",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TW",
+          "Value": "Taiwan",
+          "LastModified": "2011-08-30T13:37:34.06",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TX",
+          "Value": "Turkmenistan",
+          "LastModified": "2011-08-30T13:37:34.06",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TZ",
+          "Value": "Tanzania",
+          "LastModified": "2011-08-30T13:37:34.06",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "UG",
+          "Value": "Uganda",
+          "LastModified": "2011-08-30T13:37:34.063",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "UK",
+          "Value": "United Kingdom",
+          "LastModified": "2011-08-30T13:37:34.063",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "UP",
+          "Value": "Ukraine",
+          "LastModified": "2011-08-30T13:37:34.063",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "US",
+          "Value": "United States",
+          "LastModified": "2011-08-30T13:37:34.063",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "UU",
+          "Value": "Undesignated Sovereignty",
+          "LastModified": "2011-08-30T13:37:34.063",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "UV",
+          "Value": "Burkina Faso",
+          "LastModified": "2011-08-30T13:37:34.067",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "UY",
+          "Value": "Uruguay",
+          "LastModified": "2011-08-30T13:37:34.067",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "UZ",
+          "Value": "Uzbekistan",
+          "LastModified": "2011-08-30T13:37:34.067",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VC",
+          "Value": "Saint Vincent and The Grenadines",
+          "LastModified": "2011-08-30T13:37:34.067",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VE",
+          "Value": "Venezuela",
+          "LastModified": "2011-08-30T13:37:34.067",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VI",
+          "Value": "British Virgin Islands",
+          "LastModified": "2011-08-30T13:37:34.07",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VM",
+          "Value": "Vietnam",
+          "LastModified": "2011-08-30T13:37:34.07",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VT",
+          "Value": "Vatican City",
+          "LastModified": "2011-08-30T13:37:34.07",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WA",
+          "Value": "Namibia",
+          "LastModified": "2011-08-30T13:37:34.07",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WE",
+          "Value": "West Bank",
+          "LastModified": "2011-08-30T13:37:34.07",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WF",
+          "Value": "Wallis And Futuna",
+          "LastModified": "2011-08-30T13:37:34.07",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WI",
+          "Value": "Western Sahara",
+          "LastModified": "2011-08-30T13:37:34.07",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WS",
+          "Value": "Samoa",
+          "LastModified": "2011-08-30T13:37:34.073",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YM",
+          "Value": "Yemen",
+          "LastModified": "2011-08-30T13:37:34.073",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ZA",
+          "Value": "Zambia",
+          "LastModified": "2011-08-30T13:37:34.073",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ZI",
+          "Value": "Zimbabwe",
+          "LastModified": "2011-08-30T13:37:34.077",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KV",
+          "Value": "Kosovo",
+          "LastModified": "2011-08-30T13:37:34.077",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PT",
+          "Value": "Portuguese Timor",
+          "LastModified": "2011-08-30T13:37:34.087",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OD",
+          "Value": "South Sudan",
+          "LastModified": "2012-02-10T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BF",
+          "Value": "Bahamas",
+          "LastModified": "2012-05-07T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CG",
+          "Value": "Congo (DRC)",
+          "LastModified": "2012-05-07T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FK",
+          "Value": "Falkland Islands",
+          "LastModified": "2012-05-07T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FM",
+          "Value": "Micronesia (FSM)",
+          "LastModified": "2012-05-07T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IV",
+          "Value": "Cote D'Ivoire",
+          "LastModified": "2012-05-07T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PJ",
+          "Value": "Kuril Islands",
+          "LastModified": "2012-05-07T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TT",
+          "Value": "Timor-Leste",
+          "LastModified": "2012-12-02T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GA",
+          "Value": "Gambia, The",
+          "LastModified": "2019-10-07T16:03:53.91",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "98",
+          "Value": "Stateless Person",
+          "LastModified": "2020-09-18T10:31:14.377",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MK",
+          "Value": "North Macedonia",
+          "LastModified": "2022-09-16T15:06:31.18",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WZ",
+          "Value": "Eswatini",
+          "LastModified": "2024-06-07T14:51:47.27",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "CountryCode"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:02.0924716Z"
+}

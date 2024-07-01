@@ -1,0 +1,100 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "15317",
+          "Value": "Permanent",
+          "LastModified": "2018-07-27T06:13:07.677",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15318",
+          "Value": "Temporary",
+          "LastModified": "2018-07-27T06:13:07.677",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15319",
+          "Value": "Term",
+          "LastModified": "2018-07-27T06:13:07.68",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15320",
+          "Value": "Detail",
+          "LastModified": "2018-07-27T06:13:07.68",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15321",
+          "Value": "Temporary Promotion",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15322",
+          "Value": "Seasonal",
+          "LastModified": "2018-07-27T06:13:07.68",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15323",
+          "Value": "Summer",
+          "LastModified": "2018-07-27T06:13:07.683",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15324",
+          "Value": "Presidential Management Fellows",
+          "LastModified": "2018-07-27T06:13:07.683",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15326",
+          "Value": "Recent Graduates",
+          "LastModified": "2018-07-27T06:13:07.687",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15327",
+          "Value": "Multiple Appointment Types",
+          "LastModified": "2018-07-27T06:13:07.687",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15328",
+          "Value": "Internships",
+          "LastModified": "2018-07-27T06:13:07.687",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15522",
+          "Value": "Intermittent",
+          "LastModified": "2018-07-27T06:13:07.69",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15667",
+          "Value": "ICTAP Only",
+          "LastModified": "2018-07-27T06:13:07.693",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15668",
+          "Value": "Agency Employees Only",
+          "LastModified": "2018-07-27T06:13:07.693",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15669",
+          "Value": "Telework",
+          "LastModified": "2018-07-27T06:13:07.693",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "PositionOfferingType"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:12.4397872Z"
+}

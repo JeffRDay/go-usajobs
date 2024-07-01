@@ -1,0 +1,70 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "01",
+          "Value": "Cyber Security",
+          "LastModified": "2016-12-02T06:02:58.38",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "02",
+          "Value": "Data Scientist",
+          "LastModified": "2016-12-02T06:02:58.38",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "03",
+          "Value": "Economist",
+          "LastModified": "2016-12-02T06:02:58.38",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "04",
+          "Value": "Privacy",
+          "LastModified": "2016-12-02T06:02:58.38",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "05",
+          "Value": "Program/Project Management",
+          "LastModified": "2016-12-02T06:02:58.38",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "06",
+          "Value": "Grants Management",
+          "LastModified": "2016-12-02T06:02:58.38",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "07",
+          "Value": "STEM",
+          "LastModified": "2016-12-02T06:02:58.383",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "08",
+          "Value": "Intelligence",
+          "LastModified": "2020-04-03T10:34:09.54",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "09",
+          "Value": "COVID-19",
+          "LastModified": "2023-05-26T14:50:37.933",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "10",
+          "Value": "Infrastructure Act",
+          "LastModified": "2021-11-29T15:43:08.263",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "MissionCriticalCode"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:11.5716844Z"
+}

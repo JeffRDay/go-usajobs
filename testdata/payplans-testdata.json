@@ -1,0 +1,2308 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "AA",
+          "Value": "Administrative Appeals Judges",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AC",
+          "Value": "General Accounting Office Administrative Positions",
+          "LastModified": "1960-01-01T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AD",
+          "Value": "Administratively Determined",
+          "LastModified": "2017-08-10T17:02:55.987",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AE",
+          "Value": "Employees in unclassified non-Federal (Trust) positions at the Smithsonian Institution.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AF",
+          "Value": "American Family Members (Public Law 96-465, Section 311)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AG",
+          "Value": "Summer Program",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AI",
+          "Value": "Supervisory Inspection Career Path, Public Health Human Resources System Demonstration Project",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AJ",
+          "Value": "Administrative Judges",
+          "LastModified": "2017-08-10T17:02:56.043",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AL",
+          "Value": "Administrative Law Judges",
+          "LastModified": "2017-08-10T17:02:56.093",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AO",
+          "Value": "Management Support Career Path, Public Health Human Resources System Demonstration Project",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AP",
+          "Value": "Administrative, Professional. And Scientific Career Path, Public Health Human Resources System Demonstration Project ",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AS",
+          "Value": "Scientific And Technical Support Career Path, Public Health Human Resources System Demonstration Project",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "AT",
+          "Value": "Federal Aviation Administration Air Traffic Controller Compensation Plan",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BB",
+          "Value": "Nonsupervisory--Negotiated Pay Employees.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BK",
+          "Value": "Employees in the Naval Nuclear Propulsion Program Future Leaders Career Path under the National Nuclear Security Administration demonstration project. Code is for use by the Department of the Navy only.",
+          "LastModified": "2022-09-28T16:55:33.137",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BL",
+          "Value": "Leader--Negotiated Pay Employees.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BN",
+          "Value": " Employees in the Naval Nuclear Propulsion Program Engineering and Scientific Career Path under the National Nuclear Security Administration demonstration project. Code is for use by the Department of the Navy only.",
+          "LastModified": "2022-09-30T11:32:28.083",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BP",
+          "Value": "Printing And Lithographic--Negotiated Pay Employees.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BR",
+          "Value": "Employees in the Naval Nuclear Propulsion Program Professional, Technical, and Administrative Career Path under the National Nuclear Security Administration demonstration project. Code is for use by the Department of the Navy only.",
+          "LastModified": "2022-09-28T16:54:26.2",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BS",
+          "Value": "Supervisory--Negotiated Pay Employees.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BV",
+          "Value": "Employees in the Naval Nuclear Propulsion Program Technician and Administrative Support Career Path under the National Nuclear Security Administration demonstration project. Code is for use by the Department of the Navy only.",
+          "LastModified": "2022-09-28T16:53:52.853",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BX",
+          "Value": "Employees in the Naval Nuclear Propulsion Program Nuclear Materials Courier Career Path under the National Nuclear Security Administration demonstration project. Code is for use by the Department of the Navy only.",
+          "LastModified": "2022-09-28T16:53:15.39",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CA",
+          "Value": "Board Of Contract Appeals.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CB",
+          "Value": "FDIC Wage Grade Non-Supervisory Pay Schedules Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CC",
+          "Value": "Commissioned Corps Of The Public Health Service",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CD",
+          "Value": "SES Candidate Development Programs",
+          "LastModified": "2017-08-10T17:02:56.153",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "CE",
+          "Value": "Contract Education--Year Long",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CF",
+          "Value": "FDIC Wage Grade Supervisory Pay Schedules Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CG",
+          "Value": "Corporate Graded",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CH",
+          "Value": "FDIC Wage Grade Supervisory Special Schedule Printing Employees Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CI",
+          "Value": "FDIC Wage Grade Leader Special Schedule Printing Employees Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CJ",
+          "Value": "FDIC Wage Grade Non-Supervisory Special Schedule Printing Employees Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CL",
+          "Value": "FDIC Wage Grade Leader Pay Schedules Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CM",
+          "Value": "FDIC Supervisory And Managerial Positions Below The Executive Level Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CN",
+          "Value": "Bureau of Consumer Financial Protection (CFPB) an Independent Agency within the Federal Reserve System. ",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CO",
+          "Value": "Non-Federal County Employees Of The Farm Service Agency ",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CP",
+          "Value": "U.S. Capitol Police",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CR",
+          "Value": "U.S. Capitol Police",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CS",
+          "Value": "Communications Analysts",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CT",
+          "Value": "Commodity Futures Trading Commission Positions",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CU",
+          "Value": "Credit Union Employees",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CX",
+          "Value": "Senior Expert Positions In The Federal Deposit Insurance Corporation",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CY",
+          "Value": "Contract Education--School Year",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CZ",
+          "Value": "Canal Zone General Schedule - Type Positions",
+          "LastModified": "2017-08-10T16:47:01.643",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "DA",
+          "Value": "Demonstration Administrative",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DB",
+          "Value": "Demonstration Engineers And Scientists",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DC",
+          "Value": "Positions designated and paid rates of basic pay under 6 U.S.C. 658 in which the incumbent performs, manages, or supervises functions that execute the responsibilities of the Department of Homeland Security (DHS) relating to cybersecurity. Code is for use by DHS only.",
+          "LastModified": "2019-06-24T15:22:42.93",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DE",
+          "Value": "Demonstration Engineers And Scientists Technicians",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DG",
+          "Value": "Demonstration General",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DH",
+          "Value": "Demonstration Hourly",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "DJ",
+          "Value": "Demonstration Administrative",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DK",
+          "Value": "Demonstration General Support",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DL",
+          "Value": "Positions designated and paid rates of basic pay under 6 U.S.C. 658 in which the incumbent is a senior leader/senior technical expert that executes the responsibilities of the Department of Homeland Security (DHS) relating to cybersecurity. Code is for use by DHS only.",
+          "LastModified": "2021-06-03T09:17:52.813",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DN",
+          "Value": "Defense Nuclear Facilities Safety Board Excepted Service Employees",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DO",
+          "Value": "Business Management And Professional Career Path, Air Force Research Laboratory",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DP",
+          "Value": "Demonstration Professional",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DQ",
+          "Value": "Demonstration Artisan Leader",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DR",
+          "Value": "Demonstration Air Force Scientist And Engineer",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DS",
+          "Value": "Demonstration Specialist",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DT",
+          "Value": "Demonstration Technician",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DU",
+          "Value": "Mission Support Career Path, Air Force Research Laboratory",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DV",
+          "Value": "Demonstration Artisan",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DW",
+          "Value": "Demonstration Salaried",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "DX",
+          "Value": "Technician Career Path, Air Force Research Laboratory",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DZ",
+          "Value": "Demonstration Artisan Supervisor",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EA",
+          "Value": "Administrative Schedule (Excluded)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EB",
+          "Value": "Clerical Schedule (Excluded)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EC",
+          "Value": "Engineering And Computing Schedule (Excluded)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ED",
+          "Value": "Expert (5 U.S.C. 3109)",
+          "LastModified": "2017-08-10T17:02:56.203",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EE",
+          "Value": "Expert (Other)",
+          "LastModified": "2017-08-10T17:02:56.26",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EF",
+          "Value": "Consultant (5 U.S.C. 3109)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EG",
+          "Value": "Consultant (Other)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EH",
+          "Value": "Advisory Committee Member (5 U.S.C. 3109)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EI",
+          "Value": "Advisory Committee Member (Other)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EJ",
+          "Value": "The Department Of Energy Organization Act Excepted Service",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EK",
+          "Value": "The National Defense Authorization Act Of 1995 Department Of Energy Excepted Service",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EL",
+          "Value": "Non-Executive Positions at the Federal Housing Finance Agency. ",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EM",
+          "Value": "FDIC Executive-Level Positions Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EN",
+          "Value": "National Nuclear Security Administration Excepted Service Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EO",
+          "Value": "FDIC Executive Pay",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EP",
+          "Value": "Defense Intelligence Senior Executive Service",
+          "LastModified": "2017-08-10T17:02:56.313",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EQ",
+          "Value": "Exceptionally well qualified individuals appointed under section 313 of division D of the Consolidated Appropriations Act, 2014 (Public Law 113-76), to scientific, engineering, or other critical technical positions. Code is for use by the Department of Energy only",
+          "LastModified": "2022-02-04T10:44:47.683",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ER",
+          "Value": "Scientific, Engineering, and Professional Personnel of the Advanced Research projects Agency.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ES",
+          "Value": "Senior Executive Service (Ses)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ET",
+          "Value": "Program Directors for the Advanced Research Projects Agency.",
+          "LastModified": "2017-08-10T17:02:56.367",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EV",
+          "Value": "Federal Aviation Administration Executive Compensation Plan",
+          "LastModified": "2017-08-10T17:02:56.42",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EX",
+          "Value": "Executive Pay (Subch. II, CH. 53, 5 U.S.C)",
+          "LastModified": "2017-08-10T17:02:56.477",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "EZ",
+          "Value": "Professional Economist",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FA",
+          "Value": "Foreign Service Chiefs Of Mission (Public Law 96-465, Section 103(1))",
+          "LastModified": "2017-08-10T17:02:56.54",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FB",
+          "Value": "Officers (Similar To The Senior Executive Service)",
+          "LastModified": "2017-08-10T17:02:56.593",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FC",
+          "Value": "Foreign Compensation",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FD",
+          "Value": "Foreign Defense",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FE",
+          "Value": "Senior Foreign Service (SFS) (Public Law 96-465, Section 103(3))",
+          "LastModified": "2017-08-10T17:02:56.647",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FF",
+          "Value": "Nonsupervisory Production Facilitators (Similar To The Nonsupervisory Production Facilitating WD Pay Schedule Under The Federal Wage System)",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FG",
+          "Value": "Similar To The General Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FH",
+          "Value": "Members Of The Foreign Service Employed By The Department Of State",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FJ",
+          "Value": "Officials On Noncareer Appointments (Similar To The Senior Executive Service)",
+          "LastModified": "2017-08-10T17:02:56.7",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FL",
+          "Value": "Wage Leaders (Similar To The Leader Pay Schedule Under The Federal Wage System)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FM",
+          "Value": "Former Performance Management And Recognition Service Employees (Similar To Former PMRS Employees In The GM Pay Plan)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FN",
+          "Value": "Supervisory Production Facilitators (Similar To The Supervisory Production Facilitating Wn Pay Schedule Under The Federal Wage System)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FO",
+          "Value": "Foreign Service Officers (Public Law 96-465, Section 103(4))",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FP",
+          "Value": "Foreign Service Personnel (Public Law 96-465, Section 103(5))",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FR",
+          "Value": "Federal Reserve Board Employees",
+          "LastModified": "2012-08-26T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FS",
+          "Value": "Wage Supervisors (Similar To The Supervisory Pay Schedule Under The Federal Wage System)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FT",
+          "Value": "Senior Technical And Senior Level (Similar To The Senior-Level And Scientific Or Professional Positions Paid Under 5 U.S.C. 5376)",
+          "LastModified": "2017-08-10T17:02:56.753",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FV",
+          "Value": "Federal Aviation Administration Core Compensation Plan",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FW",
+          "Value": "Wage Grade (Similar To The Nonsupervisory Pay Schedule Under The Federal Wage System)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FX",
+          "Value": "Executives (Similar To The Senior Executive Service)",
+          "LastModified": "2017-08-10T17:02:56.807",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FZ",
+          "Value": "Consular Agent. ",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GE",
+          "Value": "U.S. Government Printing Office Employees Formerly Under Pay Plan SL (Senior Level Positions)",
+          "LastModified": "2017-08-10T17:02:56.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GG",
+          "Value": "Grades Similar To General Schedule.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GH",
+          "Value": "GG Employees Converted To The Former Performance Management And Recognition System (PMRS)",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GI",
+          "Value": "GS Employees In Grades 3 Through 10 Paid A Law Enforcement Officer Special Base Rate Under Section 403 Of The Federal Law Enforcement Pay Reform Act Of 1990. ",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GL",
+          "Value": "General Law Enforcement",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GM",
+          "Value": "Employees Covered By The Performance Management And Recognition System (PMRS) Termination Provisions.",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GN",
+          "Value": "Nursing At The Warren G. Magnuson Clinical Center. ",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GP",
+          "Value": "GS Physicians And Dentists Paid Market Pay Under 38 U.S.C. 7431(C).",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GR",
+          "Value": "GM Physicians And Dentists Paid Market Pay Under 38 U.S.C. 7431(C).",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GS",
+          "Value": "General Schedule (Ch. 51, 5 U.S.C.).",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GW",
+          "Value": "Employment Under Schedule A 213.3102(W) Classified Under And Paid A GS Rate",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HA",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HB",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HC",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HD",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HE",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HF",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HG",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HH",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HI",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HJ",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HK",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HL",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HM",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HN",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HO",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HP",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HQ",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HR",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HS",
+          "Value": "House Of Representatives Pay Plan",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "HT",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HU",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HV",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HW",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HX",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HY",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "HZ",
+          "Value": "DHS - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "IA",
+          "Value": "Defense Civilian Intelligence Personnel System",
+          "LastModified": "2013-02-12T21:02:30.42",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IB",
+          "Value": "Defense Civilian Intelligence Personnel System",
+          "LastModified": "2013-02-12T21:02:49.8",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IC",
+          "Value": "Incident Management Cadre",
+          "LastModified": "2015-11-16T14:53:19.607",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ID",
+          "Value": "Indigent Defense",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IE",
+          "Value": "Senior Intelligence Executive Service (SIES) Program",
+          "LastModified": "2017-08-10T17:02:56.917",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IF",
+          "Value": "Defense Civilian Intelligence Personnel System",
+          "LastModified": "2013-02-12T21:03:10.31",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IG",
+          "Value": "Inspectors General In Establishments (As Defined In Section 12 Of The Inspector General Act Of 1978)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IH",
+          "Value": "This pay plan code is for Federal Emergency Management Agency's use only.",
+          "LastModified": "2018-01-09T06:32:20.083",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "II",
+          "Value": "Defense Civilian Intelligence Personnel System",
+          "LastModified": "2013-02-12T21:03:27.893",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IJ",
+          "Value": "Immigration Judge Schedule",
+          "LastModified": "2017-08-10T17:02:56.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IK",
+          "Value": "Defense Civilian Intelligence Personnel System",
+          "LastModified": "2013-02-12T21:03:43.143",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IL",
+          "Value": "Defense Civilian Intelligence Personnel System",
+          "LastModified": "2013-02-12T21:04:00.44",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IM",
+          "Value": "Incident Management",
+          "LastModified": "2015-11-16T14:53:19.607",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IP",
+          "Value": "Senior Intelligence Professional (SIP) Program",
+          "LastModified": "2017-08-10T17:02:57.023",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IR",
+          "Value": "Internal Revenue Service Broadband Classification And Pay System Positions Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IS",
+          "Value": "Employees in classified non-Federal (Trust) positions at the Smithsonian Institution",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "IT",
+          "Value": "Employees appointed and compensated under Section 306 (B)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. This pay plan code is for Federal Emergency Management Agency's use only.",
+          "LastModified": "2018-01-09T12:14:46.287",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JA",
+          "Value": "Demonstration FBI Scientific And Engineering Positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JB",
+          "Value": "Demonstration FBI Technical Positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JC",
+          "Value": "Demonstration FBI Intelligence Analyst Positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JD",
+          "Value": "Demonstration FBI Language Translator Positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JE",
+          "Value": "Demonstration FBI Medical Positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JG",
+          "Value": "Graded Tradesmen And Craftsmen (Excluding Lithographers And Printers)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JL",
+          "Value": "Leaders Of Tradesmen And Craftsmen",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JP",
+          "Value": "Nonsupervisory Lithographers And Printers",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JQ",
+          "Value": "Lead Lithographers And Printers",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JR",
+          "Value": "Supervisory Lithographers And Printers",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JS",
+          "Value": "Judicial Salary Plan",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JT",
+          "Value": "Supervisors Of Tradesmen And Craftsmen",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KA",
+          "Value": "Kiess Act",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KB",
+          "Value": "Government Printing Office Negotiated Rates For Bookbinders",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KE",
+          "Value": "Non-Craft--Nonsupervisory",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KG",
+          "Value": "Government Printing Office Negotiated Rates For Electricians",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KI",
+          "Value": "Government Printing Office Negotiated Rates For Compositors",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KJ",
+          "Value": "Government Printing Office Negotiated Rates For Machinists",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KL",
+          "Value": "Treasury - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KM",
+          "Value": "Government Printing Office Negotiated Rates For Presspersons",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KN",
+          "Value": "Government Printing Office Negotiated Rates For Offset Strippers",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KO",
+          "Value": "Government Printing Office Negotiated Rates For Offset Platemaker Strippers",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KP",
+          "Value": "Government Printing Office Negotiated Rates For Engineering Journeypersons",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KS",
+          "Value": "Non-Craft--Supervisory",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KT",
+          "Value": "Government Printing Office Negotiated Rates For Printing Plant Workers, 80%",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KU",
+          "Value": "Government Printing Office Negotiated Rates For Printing Plant Workers, 85%",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KV",
+          "Value": "Government Printing Office Negotiated Rates For Printing Plant Workers, 90%",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KW",
+          "Value": "Government Printing Office Negotiated Rates For Printing Plant Workers, 95%",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KX",
+          "Value": "Government Printing Office Negotiated Rates For Printing Plant Workers, 100%",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "KY",
+          "Value": "Government Printing Office Negotiated Rates For Printing Plant Workers, Equity Pay",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LE",
+          "Value": "United States Secret Service Uniformed Division",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LG",
+          "Value": "Liquidation Graded",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LL",
+          "Value": "Executive at the Federal Housing Finance Agency.",
+          "LastModified": "2017-08-10T17:02:57.077",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LP",
+          "Value": "U.S. Capital Police",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "LX",
+          "Value": "General Accounting Office Senior-Level Excepted Service Position",
+          "LastModified": "2017-08-10T17:02:57.14",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MA",
+          "Value": "Milk Marketing",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MC",
+          "Value": "Employees Of The Millennium Challenge Corporation Appointed Under Public Law 108-199 Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MG",
+          "Value": "OMHAR Compensation Plan (Dept of HUD Only)",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MH",
+          "Value": "USPS Mail Handler",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MK",
+          "Value": "General Accounting Office Managerial And Supervisory Positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ML",
+          "Value": "Supervisors And Managers Of The National Credit Union Administration",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MS",
+          "Value": "Omhar Executive Compensation Plan",
+          "LastModified": "2017-08-10T17:02:57.19",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MX",
+          "Value": "Omhar Executive Director Compensation Plan",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NA",
+          "Value": "Nonappropriated Funds--Nonsupervisory And Nonleader--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NB",
+          "Value": "Office Of The Comptroller Of The Currency Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NC",
+          "Value": "NRL Administrative Support",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ND",
+          "Value": "Demonstration Scientific And Engineering",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NF",
+          "Value": "Employees in the National Nuclear Security Administration’s Future Leaders Career Path.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NG",
+          "Value": "Demonstration General Support",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NH",
+          "Value": "Business Management And Technical Management Professional",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NI",
+          "Value": "National Geospatial-Intelligence Agency Pay Plan.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NJ",
+          "Value": "Technical Management Support",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NK",
+          "Value": "Administration Support",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NL",
+          "Value": "Nonappropriated Funds--Leader--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NM",
+          "Value": "Supervisors and Managers",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NN",
+          "Value": "Employees in the National Nuclear Security Administration’s Engineering and Scientific Career Path.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NO",
+          "Value": "Administrative Specialist/Professional (Naval Research Laboratory and similar pay demonstration projects)",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NP",
+          "Value": "NRL Science And Engineering Professional",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NQ",
+          "Value": "Employees in the National Nuclear Security Administration’s Professional, Technical, and Administrative Career Path.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NR",
+          "Value": "NRL Science And Engineering Technical",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NS",
+          "Value": "Nonappropriated Funds--Supervisory--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NT",
+          "Value": "Demonstration Administrative And Technical",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NU",
+          "Value": "Employees in the National Nuclear Security Administration’s Technician and Administrative Support Career Path.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NV",
+          "Value": "Employees in the National Nuclear Security Administration’s Nuclear Materials Courier Career Path.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NX",
+          "Value": "Executive-Level And Managerial Positions In The Corporation For National And Community Service (Public Law 103-82, Subtitle G, Section 195(B))",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NY",
+          "Value": "All Other Positions In The Corporation For National And Community Service (Public Law 103-82, Subtitle G, Section 195(B))",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "NZ",
+          "Value": "National Zoological Park Police",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OC",
+          "Value": "Office Of Comptroller Of Currency",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OE",
+          "Value": "Executives Of The Office Of Federal Housing Enterprise Oversight",
+          "LastModified": "2017-08-10T17:02:57.243",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OF",
+          "Value": "Office Of Federal Housing Enterprise Oversight",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OG",
+          "Value": "Employees in non-Federal (Trust) - Nonsupervisory pay schedule - equivalent to Federal Wage System (Smithsonian Institution Only)",
+          "LastModified": "2012-08-26T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OL",
+          "Value": "Employees in non-Federal (Trust) - Leader pay schedule - equivalent to Federal Wage System (Smithsonian Institution Only)",
+          "LastModified": "2012-08-26T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OR",
+          "Value": "Employees Of The Office Of Financial Research (OFR)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OS",
+          "Value": "Employees in non-Federal (Trust) - Supervisory pay schedule - equivalent to Federal Wage System (Smithsonian Institution Only)",
+          "LastModified": "2012-08-26T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OX",
+          "Value": "7306 Appointments",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "PA",
+          "Value": "Attorneys And Law Clerks",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PB",
+          "Value": "Administrative Office of the U.S. Courts (AOUSC) administrative and professional positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PD",
+          "Value": "Treasury Demonstration Project Positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PE",
+          "Value": "Evaluator And Evaluator Related",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PG",
+          "Value": "Printing Office Grades",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PI",
+          "Value": "Banded police pay structure within the Defense Civilian Intelligence Personnel System. Code is for use by the Defense Civilian Intelligence Personnel System only.",
+          "LastModified": "2014-10-24T13:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PJ",
+          "Value": "Government Printing Office, AFGE, 12% Night Rate",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PL",
+          "Value": "ANT Operators Schedule (Tennessee Valley Authority Only)",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PP",
+          "Value": "Graded police pay structure within the Defense Civilian Intelligence Personnel System. Code is for use by the Defense Civilian Intelligence Personnel System only.",
+          "LastModified": "2014-10-24T13:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PQ",
+          "Value": "Government Printing Office, Police, Day Rate",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PS",
+          "Value": "Excepted Service Positions",
+          "LastModified": "2023-05-26T10:50:43.08",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PT",
+          "Value": "Professional And Technical GAO Employees",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PU",
+          "Value": "Government Printing Office, White-Collar, 10% Night Rate",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PY",
+          "Value": "General Accounting Office Program And Technical Specialist Positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PZ",
+          "Value": "Government Printing Office, Police, 10% Night Rate",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "QC",
+          "Value": "USPS City Carrier (Postal Service Only)",
+          "LastModified": "2011-12-03T08:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RA",
+          "Value": "Department Of Agriculture Positions In The Senior Scientific Research Service",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RC",
+          "Value": "Rural Carrier",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RE",
+          "Value": "Managerial Positions Within The Senior Leadership Demonstration Project (SLDP) Senior Federal Service",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RF",
+          "Value": "Employees appointed and compensated as special consultant under 42 U.S.C.",
+          "LastModified": "2014-07-31T16:23:10.767",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RG",
+          "Value": "Scientists appointed as fellows and compensated under 42 U.S.C. 209(g). Includes non-citizens whose employment is authorized under 42 U.S.C. 209(h) and who are appointed under 42 U.S.C. 209(g).",
+          "LastModified": "2015-01-21T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RP",
+          "Value": "Technical Positions Within The Senior Leadership Demonstration Project (SLDP) Senior Federal Service",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RS",
+          "Value": "Senior Biomedical Research Service",
+          "LastModified": "2017-08-10T17:02:57.297",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SA",
+          "Value": "Administrative Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SB",
+          "Value": "Clerical Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SC",
+          "Value": "Engineering And Computing Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SD",
+          "Value": "Scientific And Programming Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SE",
+          "Value": "Aide And Technician Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SF",
+          "Value": "Custodial Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SG",
+          "Value": "Public Safety Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SH",
+          "Value": "Physicians Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SI",
+          "Value": "Security & Exchange Commission",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SJ",
+          "Value": "Scientific And Programming Schedule (Excluded)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SK",
+          "Value": "SEC Employees Formerly Under The GS, GM, And EZ Pay Plans",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SL",
+          "Value": "Senior Level Positions",
+          "LastModified": "2017-08-10T17:02:57.35",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SM",
+          "Value": "Management Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SN",
+          "Value": "Senior Level System",
+          "LastModified": "2017-08-10T17:02:57.407",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SO",
+          "Value": "Sec Employees Formerly Under The ES Pay Plan",
+          "LastModified": "2017-08-10T17:02:57.46",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SP",
+          "Value": "Park Police",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SQ",
+          "Value": "Physicians And Dentists Paid Under The Scientific And Professional (ST) Pay System Who Receive Market Pay Under 38 U.S.C. 7431",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SR",
+          "Value": "Statutory Rates Not Elsewhere Specified",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SS",
+          "Value": "Senior Staff Positions",
+          "LastModified": "2017-08-10T17:02:57.517",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ST",
+          "Value": "Scientific And Professional (5 U.S.C. 3104)",
+          "LastModified": "2017-08-10T17:02:57.57",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SU",
+          "Value": "Code Is For Use By The Government Accountability Office Only",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SV",
+          "Value": "Transportation Security Administration Employees Other Than Executives",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SW",
+          "Value": "Transportation Security Administration Executives",
+          "LastModified": "2017-08-10T17:02:57.623",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SY",
+          "Value": "Employees in Secretary designated senior management non-Federal (Trust) positions at the Smithsonian Institution.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SZ",
+          "Value": "Employees in Smithsonian executive non-Federal (Trust) positions at the Smithsonian Institution. ",
+          "LastModified": "2017-08-10T17:02:57.677",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TA",
+          "Value": "Construction Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TB",
+          "Value": "Operating And Maintenance Schedule (Power Generating Facilities)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TC",
+          "Value": "Chemical Operators Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TD",
+          "Value": "Plant Operators Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TE",
+          "Value": "Operating And Maintenance Schedule (Nonpower Generating Facilities)",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TF",
+          "Value": "Federal Housing Finance Agency.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TG",
+          "Value": "Office Of Thrift Supervision Salary Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TH",
+          "Value": "Excepted Service positions designated and paid rates of basic pay under the Department of Energy's (DOE's) National Energy Technology Laboratory authority under Section 4006 of the Consolidated Appropriations Act 2021 (Public Law 116-260. Employees must have (1) an advanced scientific or engineering",
+          "LastModified": "2024-06-21T14:53:10.433",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TM",
+          "Value": "Federal Housing Finance Board Merit Pay",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TP",
+          "Value": "Teaching Positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TR",
+          "Value": "Police Forces Of The U.S. Mint And Bureau Of Engraving And Printing",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TS",
+          "Value": "Federal Housing Finance Board Step System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TW",
+          "Value": "Bureau Of Engraving & Printing And U.S. Mint Police Officers In Wash, DC",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "UA",
+          "Value": "General Schedule For Non-Appropriated Agencies",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VC",
+          "Value": "Canteen Service",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VE",
+          "Value": "Veterans Canteen Service Executives Only",
+          "LastModified": "2017-08-10T17:02:57.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VG",
+          "Value": "Clerical And Administrative Support",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VH",
+          "Value": "Professional, Administrative, And Managerial",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VM",
+          "Value": "Medical And Dental",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VN",
+          "Value": "Nursing",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VP",
+          "Value": "Clinical Podiatrists And Optometrists Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WA",
+          "Value": "Navigation Lock And Dam Operation And Maintenance Positions In The U.S. Army Corps Of Engineers--Supervisory--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WB",
+          "Value": "Wage Positions Under The Federal Wage System Not Otherwise Designated",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WD",
+          "Value": "Production Facilitating Nonsupervisory--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WE",
+          "Value": "Currency Manufacturing",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WF",
+          "Value": "** Historical Entry **",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "WG",
+          "Value": "Nonsupervisory Pay Schedules--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WI",
+          "Value": "** Historical Entry **",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "WJ",
+          "Value": "Hopper Dredge Schedule--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WK",
+          "Value": "Hopper Dredge Schedule--Nonsupervisory--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WL",
+          "Value": "Leader Pay Schedules--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WM",
+          "Value": "Maritime Pay Schedules--5 U.S.C. 5348",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WN",
+          "Value": "Production Facilitating Supervisory--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WO",
+          "Value": "Navigational Lock And Dam Operation And Maintenance Positions In The U.S. Army Corps Of Engineers--Leader Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WP",
+          "Value": "** Historical Entry **",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "WQ",
+          "Value": "Aircraft, Electronic Equipment, And Optical Instrument Overhaul And Repair In Puerto Rico--Supervisory--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WR",
+          "Value": "Aircraft, Electronic Equipment, And Optical Instrument Overhaul And Repair In Puerto Rico--Leader--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WS",
+          "Value": "Supervisory Pay Schedules--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WT",
+          "Value": "Apprentices And Shop Trainees--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WU",
+          "Value": "Aircraft, Electronic Equipment, And Optical Instrument Overhaul And Repair In Puerto Rico--Nonsupervisory Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WW",
+          "Value": "Employment Under Schedule A 213.3102(W) Classified Under and Paid at a Regularly Establish",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "WX",
+          "Value": "** Historical Entry **",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "WY",
+          "Value": "Navigational Lock And Dam Operation And Maintenance Positions In The U.S. Army Corps Of Engineers--Non-Supervisory--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WZ",
+          "Value": "Canal Zone Wage System - Type Positions",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "XA",
+          "Value": "Special Overlap Area Rate Schedule--Nonsupervisory--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XB",
+          "Value": "Special Overlap Area Rate Schedule--Leader--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XC",
+          "Value": "Special Overlap Area Rate Schedule--Supervisory--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XD",
+          "Value": "Nonsupervisory Production Facilitating Special Schedule Printing Employees--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XE",
+          "Value": "Supervisors Of Negotiated Rate Employees--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XF",
+          "Value": "Floating Plant (Other Than Hopper Dredge) Schedule--Nonsupervisory--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XG",
+          "Value": "Floating Plant (Other Than Hopper Dredge) Schedule--Leader--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XH",
+          "Value": "Floating Plant (Other Than Hopper Dredge) Schedule--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XI",
+          "Value": "Non-Supervisory Schedule - Prevailing Rate System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XJ",
+          "Value": "Leader Schedule - Prevailing Rate System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XK",
+          "Value": "Supervisory Schedule - Prevailing Rate System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XL",
+          "Value": "Leader Special Schedule Printing Employees--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XN",
+          "Value": "Supervisory Production Facilitating Special Schedule Printing Employees--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XP",
+          "Value": "Nonsupervisory Special Schedule Printing Employees--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XR",
+          "Value": "Non-Supervisory U.S. Army Corps of Engineers prevailing rate system positions at the four flood control dams (also known as reservoir projects) in the Vicksburg District of the Mississippi Valley Division.",
+          "LastModified": "2017-10-16T09:47:46.74",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XS",
+          "Value": "Supervisory Special Schedule Printing Employees--Federal Wage System",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XT",
+          "Value": "Leader U.S. Army Corps of Engineers prevailing rate system positions at the four flood control dams (also known as reservoir projects) in the Vicksburg District of the Mississippi Valley Division.",
+          "LastModified": "2017-10-16T09:47:46.737",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XU",
+          "Value": "Supervisory U.S. Army Corps of Engineers prevailing rate system positions at the four flood control dams (also known as reservoir projects) in the Vicksburg District of the Mississippi Valley Division.",
+          "LastModified": "2017-10-16T09:47:46.7",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XW",
+          "Value": "Non-supervisory Department of Defense non-appropriated fund positions in the automotive mechanic 5823 series, that are paid on the flat rate pay system.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XY",
+          "Value": "Leader Department of Defense non-appropriated fund positions in the automotive mechanic 5823 series, that are paid on the flat rate pay system.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "XZ",
+          "Value": "Supervisory Department of Defense non-appropriated fund positions in the automotive mechanic 5823 series, that are paid on the flat rate pay system.",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YA",
+          "Value": "Standard Career Group – Professional/Analytical Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YB",
+          "Value": "Standard Career Group – Technician/Support Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YC",
+          "Value": "Standard Career Group – Supervisor/Manager Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YD",
+          "Value": "Scientific And Engineering Career Group – Professional Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YE",
+          "Value": "Scientific And Engineering Career Group – Technician/Support Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YF",
+          "Value": "Scientific And Engineering Career Group – Supervisor/Manager Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YG",
+          "Value": "Medical Career Group – Physician/Dentist Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YH",
+          "Value": "Medical Career Group – Professional Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YI",
+          "Value": "Medical Career Group – Technician/Support Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YJ",
+          "Value": "Medical Career Group – Supervisor/Manager Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YK",
+          "Value": "Investigative And Protective Career Group – Investigative Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YL",
+          "Value": "Investigative And Protective Career Group – Fire Protection Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YM",
+          "Value": "Investigative And Protective Career Group – Police/Security Guard Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YN",
+          "Value": "Investigative And Protective Career Group – Supervisor/Manager Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YO",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YP",
+          "Value": "Standard Career Group – Student Educational Employment Program Pay Schedule",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "YQ",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "YR",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "YS",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "YT",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "YU",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "YV",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "YW",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "YX",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "YY",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "YZ",
+          "Value": "DoD - Pending",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "ZA",
+          "Value": "Administrative",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ZP",
+          "Value": "Scientific And Engineering Professional",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ZS",
+          "Value": "Administrative Support",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ZT",
+          "Value": "Scientific And Engineering Technician",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ZY",
+          "Value": "Other",
+          "LastModified": "2013-01-27T00:00:00",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ZZ",
+          "Value": "Not Applicable - Without Compensation",
+          "LastModified": "2011-07-07T13:49:34.73",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "PayPlans"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:12.1389293Z"
+}

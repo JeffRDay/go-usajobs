@@ -1,0 +1,64 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "09",
+          "Value": "Student (College)",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "10",
+          "Value": "Student (Graduate/Post Graduate-Level)",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "11",
+          "Value": "Entry Level",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "12",
+          "Value": "Mid-Career Professional",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "13",
+          "Value": "Manager",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "14",
+          "Value": "Executive",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15",
+          "Value": "Senior Executive",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "16",
+          "Value": "Student (High School)",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "18",
+          "Value": "Subject Matter Expert",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "AcademicLevel"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:38:59.7524438Z"
+}

@@ -1,0 +1,52 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "0",
+          "Value": "Not required",
+          "LastModified": "2017-09-01T06:02:02.65",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "1",
+          "Value": "Occasional travel",
+          "LastModified": "2018-07-27T06:13:07.72",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "2",
+          "Value": "25% or less",
+          "LastModified": "2018-07-27T06:13:07.72",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "3",
+          "Value": "50% or greater",
+          "LastModified": "2018-06-01T06:05:31.48",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "5",
+          "Value": "50% or less",
+          "LastModified": "2018-07-27T06:13:07.72",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "7",
+          "Value": "75% or less",
+          "LastModified": "2018-07-27T06:13:07.723",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "8",
+          "Value": "76% or greater",
+          "LastModified": "2018-07-27T06:13:07.723",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "TravelPercentage"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:17.699025Z"
+}

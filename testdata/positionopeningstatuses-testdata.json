@@ -1,0 +1,40 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "3",
+          "Value": "Reviewing applications",
+          "LastModified": "2020-11-16T08:27:38.403",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "1",
+          "Value": "Accepting applications",
+          "LastModified": "2020-11-16T08:27:38.42",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "5",
+          "Value": "Hiring complete",
+          "LastModified": "2021-01-08T10:47:06.007",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "4",
+          "Value": "Job canceled",
+          "LastModified": "2020-12-11T10:42:26.18",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "2",
+          "Value": "Job closed",
+          "LastModified": "2021-12-29T10:38:39.907",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "PositionOpeningStatus"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:12.6687226Z"
+}

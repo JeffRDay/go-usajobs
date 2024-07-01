@@ -1,0 +1,22 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "0",
+          "Value": "Not Hispanic or Latino",
+          "LastModified": "2011-07-21T22:02:12.7",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "1",
+          "Value": "Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, South or Central American or other Spanish culture or origin, regardless of race.",
+          "LastModified": "2022-10-17T14:41:21.86",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "Ethnicity"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:05.5610816Z"
+}

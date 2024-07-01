@@ -1,0 +1,5764 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "0001",
+          "Value": "Special-10 Point Veteran",
+          "LastModified": "2021-11-29T10:43:31.883",
+          "IsDisabled": "Yes",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0002",
+          "Value": "Special Master",
+          "LastModified": "2021-11-29T10:43:31.887",
+          "IsDisabled": "Yes",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0006",
+          "Value": "Correctional Institution Administration",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0007",
+          "Value": "Correctional Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0011",
+          "Value": "Bond Sales Promotion",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0017",
+          "Value": "Explosives Safety Series",
+          "LastModified": "2011-11-10T08:29:00",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0018",
+          "Value": "Safety and Occupational Health Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0019",
+          "Value": "Safety Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0020",
+          "Value": "Community Planning ",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0021",
+          "Value": "Community Planning Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0023",
+          "Value": "Outdoor Recreation Planning",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0025",
+          "Value": "Park Ranger",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0028",
+          "Value": "Environmental Protection Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0029",
+          "Value": "Environmental Protection Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0030",
+          "Value": "Sports Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0050",
+          "Value": "Funeral Directing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0060",
+          "Value": "Chaplain",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0062",
+          "Value": "Clothing Design",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0072",
+          "Value": "Fingerprint Identification",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0080",
+          "Value": "Security Administration",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0081",
+          "Value": "Fire Protection and Prevention",
+          "LastModified": "2013-02-14T01:48:36.66",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0082",
+          "Value": "United States Marshal",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0083",
+          "Value": "Police",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0084",
+          "Value": "Nuclear Materials Courier",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0085",
+          "Value": "Security Guard",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0086",
+          "Value": "Security Clerical and Assistance",
+          "LastModified": "2013-02-14T01:48:36.9",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0089",
+          "Value": "Emergency Management Specialist",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0090",
+          "Value": "Guide",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0095",
+          "Value": "Foreign Law Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0099",
+          "Value": "General Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0000"
+        },
+        {
+          "Code": "0101",
+          "Value": "Social Science",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0102",
+          "Value": "Social Science Aid and Technician",
+          "LastModified": "2013-02-14T01:48:36.927",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0105",
+          "Value": "Social Insurance Administration",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0106",
+          "Value": "Unemployment Insurance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0107",
+          "Value": "Health Insurance Administration",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0110",
+          "Value": "Economist",
+          "LastModified": "2016-10-21T06:13:47.827",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0119",
+          "Value": "Economics Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0130",
+          "Value": "Foreign Affairs",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0131",
+          "Value": "International Relations",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0132",
+          "Value": "Intelligence",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0134",
+          "Value": "Intelligence Aid And Clerk",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0135",
+          "Value": "Foreign Agricultural Affairs",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0136",
+          "Value": "International Cooperation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0140",
+          "Value": "Workforce Research And Analysis",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0142",
+          "Value": "Workforce Development",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0150",
+          "Value": "Geography",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0160",
+          "Value": "Civil Rights Analysis",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0170",
+          "Value": "History",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0180",
+          "Value": "Psychology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0181",
+          "Value": "Psychology Aid And Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0182",
+          "Value": "Marriage and Family Therapist",
+          "LastModified": "2023-01-06T15:05:59.853",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0183",
+          "Value": "Licensed Professional Mental Health Counselor",
+          "LastModified": "2023-01-06T15:05:36.893",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0184",
+          "Value": "Sociology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0185",
+          "Value": "Social Work",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0186",
+          "Value": "Social Services Aid And Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0187",
+          "Value": "Social Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0188",
+          "Value": "Recreation Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0189",
+          "Value": "Recreation Aid And Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0190",
+          "Value": "General Anthropology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0193",
+          "Value": "Archeology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0199",
+          "Value": "Social Science Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0100"
+        },
+        {
+          "Code": "0201",
+          "Value": "Human Resources Management",
+          "LastModified": "2016-10-21T06:13:47.81",
+          "IsDisabled": "No",
+          "JobFamily": "0200"
+        },
+        {
+          "Code": "0203",
+          "Value": "Human Resources Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0200"
+        },
+        {
+          "Code": "0241",
+          "Value": "Mediation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0200"
+        },
+        {
+          "Code": "0243",
+          "Value": "Apprenticeship And Training",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0200"
+        },
+        {
+          "Code": "0244",
+          "Value": "Labor-Management Relations Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0200"
+        },
+        {
+          "Code": "0249",
+          "Value": "Wage And Hour Compliance",
+          "LastModified": "2021-11-29T10:43:31.91",
+          "IsDisabled": "Yes",
+          "JobFamily": "0200"
+        },
+        {
+          "Code": "0260",
+          "Value": "Equal Employment Opportunity",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0200"
+        },
+        {
+          "Code": "0299",
+          "Value": "Human Resources Management Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0200"
+        },
+        {
+          "Code": "0301",
+          "Value": "Miscellaneous Administration And Program",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0302",
+          "Value": "Messenger",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0303",
+          "Value": "Miscellaneous Clerk And Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0304",
+          "Value": "Information Receptionist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0305",
+          "Value": "Mail And File",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0306",
+          "Value": "Government Information Specialist",
+          "LastModified": "2012-03-22T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0308",
+          "Value": "Records & Information Management",
+          "LastModified": "2015-04-22T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0309",
+          "Value": "Correspondence Clerk",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0313",
+          "Value": "Work Unit Supervising",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0318",
+          "Value": "Secretary",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0319",
+          "Value": "Closed Microphone Reporter",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0322",
+          "Value": "Clerk-Typist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0326",
+          "Value": "Office Automation Clerical And Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0332",
+          "Value": "Computer Operation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0334",
+          "Value": "Computer Specialist (FAA Only)",
+          "LastModified": "2011-08-29T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0335",
+          "Value": "Computer Clerk And Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0340",
+          "Value": "Program Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0341",
+          "Value": "Administrative Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0342",
+          "Value": "Support Services Administration",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0343",
+          "Value": "Management And Program Analysis",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0344",
+          "Value": "Management And Program Clerical And Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0346",
+          "Value": "Logistics Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0347",
+          "Value": "GAO Evaluator",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0350",
+          "Value": "Equipment Operator",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0351",
+          "Value": "Printing Clerk",
+          "LastModified": "2021-11-29T10:43:31.917",
+          "IsDisabled": "Yes",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0352",
+          "Value": "Presidential Management Fellow",
+          "LastModified": "2021-11-29T10:43:31.917",
+          "IsDisabled": "Yes",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0356",
+          "Value": "Data Transcriber",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0357",
+          "Value": "Coding",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0360",
+          "Value": "Equal Opportunity Compliance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0361",
+          "Value": "Equal Opportunity Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0382",
+          "Value": "Telephone Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0390",
+          "Value": "Telecommunications Processing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0391",
+          "Value": "Telecommunications",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0392",
+          "Value": "General Telecommunications",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0394",
+          "Value": "Communications Clerical",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0399",
+          "Value": "Administration And Office Support Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0300"
+        },
+        {
+          "Code": "0401",
+          "Value": "General Natural Resources Management And Biological Sciences",
+          "LastModified": "2016-10-21T06:13:47.823",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0403",
+          "Value": "Microbiology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0404",
+          "Value": "Biological Science Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0405",
+          "Value": "Pharmacology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0406",
+          "Value": "Agricultural Extension Specialist",
+          "LastModified": "2021-11-29T10:43:31.923",
+          "IsDisabled": "Yes",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0408",
+          "Value": "Ecology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0410",
+          "Value": "Zoology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0413",
+          "Value": "Physiology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0414",
+          "Value": "Entomology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0415",
+          "Value": "Toxicology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0421",
+          "Value": "Plant Protection Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0430",
+          "Value": "Botany",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0434",
+          "Value": "Plant Pathology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0435",
+          "Value": "Plant Physiology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0436",
+          "Value": "Plant Protection And Quar",
+          "LastModified": "2021-11-29T10:43:31.927",
+          "IsDisabled": "Yes",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0437",
+          "Value": "Horticulture",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0440",
+          "Value": "Genetics",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0454",
+          "Value": "Rangeland Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0455",
+          "Value": "Range Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0456",
+          "Value": "Wildland Fire Management",
+          "LastModified": "2022-08-05T11:40:52.37",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0457",
+          "Value": "Soil Conservation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0458",
+          "Value": "Soil Conservation Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0459",
+          "Value": "Irrigation System Operation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0460",
+          "Value": "Forestry",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0462",
+          "Value": "Forestry Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0470",
+          "Value": "Soil Science",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0471",
+          "Value": "Agronomy",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0480",
+          "Value": "Fish And Wildlife Administration",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0482",
+          "Value": "Fish Biology",
+          "LastModified": "2019-08-26T06:18:32.53",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0485",
+          "Value": "Wildlife Refuge Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0486",
+          "Value": "Wildlife Biology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0487",
+          "Value": "Animal Science",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0493",
+          "Value": "Home Economist",
+          "LastModified": "2021-11-29T10:43:31.927",
+          "IsDisabled": "Yes",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0499",
+          "Value": "Biological Science Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0400"
+        },
+        {
+          "Code": "0501",
+          "Value": "Financial Administration And Program",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0503",
+          "Value": "Financial Clerical And Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0505",
+          "Value": "Financial Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0510",
+          "Value": "Accounting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0511",
+          "Value": "Auditing",
+          "LastModified": "2016-10-21T06:13:47.817",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0512",
+          "Value": "Internal Revenue Agent",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0525",
+          "Value": "Accounting Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0526",
+          "Value": "Tax Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0530",
+          "Value": "Cash Processing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0540",
+          "Value": "Voucher Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0544",
+          "Value": "Civilian Pay",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0545",
+          "Value": "Military Pay",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0560",
+          "Value": "Budget Analysis",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0561",
+          "Value": "Budget Clerical And Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0570",
+          "Value": "Financial Institution Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0580",
+          "Value": "Credit Union Examiner",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0592",
+          "Value": "Tax Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0593",
+          "Value": "Insurance Accounts",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0599",
+          "Value": "Financial Management Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0500"
+        },
+        {
+          "Code": "0601",
+          "Value": "General Health Science",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0602",
+          "Value": "Medical Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0603",
+          "Value": "Physician Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0605",
+          "Value": "Nurse Anesthetist (Title 38)",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0610",
+          "Value": "Nurse",
+          "LastModified": "2016-10-21T06:13:47.82",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0620",
+          "Value": "Practical Nurse",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0621",
+          "Value": "Nursing Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0622",
+          "Value": "Medical Supply Aide And Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0625",
+          "Value": "Autopsy Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0630",
+          "Value": "Dietitian And Nutritionist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0631",
+          "Value": "Occupational Therapist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0633",
+          "Value": "Physical Therapist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0635",
+          "Value": "Kinesiotherapy",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0636",
+          "Value": "Rehabilitation Therapy Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0637",
+          "Value": "Manual Arts Therapist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0638",
+          "Value": "Recreation/Creative Arts Therapist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0639",
+          "Value": "Educational Therapist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0640",
+          "Value": "Health Aid And Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0642",
+          "Value": "Nuclear Medicine Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0644",
+          "Value": "Clinical Laboratory Science",
+          "LastModified": "2018-11-21T10:09:44.747",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0645",
+          "Value": "Medical Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0646",
+          "Value": "Pathology Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0647",
+          "Value": "Diagnostic Radiologic Technologist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0648",
+          "Value": "Therapeutic Radiologic Technologist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0649",
+          "Value": "Medical Instrument Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0650",
+          "Value": "Medical Technical Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0651",
+          "Value": "Respiratory Therapist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0660",
+          "Value": "Pharmacist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0661",
+          "Value": "Pharmacy Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0662",
+          "Value": "Optometrist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0665",
+          "Value": "Speech Pathology And Audiology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0667",
+          "Value": "Orthotist And Prosthetist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0668",
+          "Value": "Podiatrist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0669",
+          "Value": "Medical Records Administration",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0670",
+          "Value": "Health System Administration",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0671",
+          "Value": "Health System Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0672",
+          "Value": "Prosthetic Representative",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0673",
+          "Value": "Hospital Housekeeping Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0675",
+          "Value": "Medical Records Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0679",
+          "Value": "Medical Support Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0680",
+          "Value": "Dental Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0681",
+          "Value": "Dental Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0682",
+          "Value": "Dental Hygiene",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0683",
+          "Value": "Dental Laboratory Aid And Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0685",
+          "Value": "Public Health Program Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0688",
+          "Value": "Sanitarian",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0690",
+          "Value": "Industrial Hygiene",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0696",
+          "Value": "Consumer Safety",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0698",
+          "Value": "Environmental Health Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0699",
+          "Value": "Medical And Health Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0600"
+        },
+        {
+          "Code": "0701",
+          "Value": "Veterinary Medical Science",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0700"
+        },
+        {
+          "Code": "0704",
+          "Value": "Animal Health Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0700"
+        },
+        {
+          "Code": "0799",
+          "Value": "Veterinary Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0700"
+        },
+        {
+          "Code": "0801",
+          "Value": "General Engineering",
+          "LastModified": "2019-08-26T06:18:32.53",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0802",
+          "Value": "Engineering Technical",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0803",
+          "Value": "Safety Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0804",
+          "Value": "Fire Protection Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0806",
+          "Value": "Materials Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0807",
+          "Value": "Landscape Architecture",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0808",
+          "Value": "Architecture",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0809",
+          "Value": "Construction Control Technical",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0810",
+          "Value": "Civil Engineering",
+          "LastModified": "2016-10-21T06:13:47.82",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0817",
+          "Value": "Survey Technical",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0818",
+          "Value": "Engineering Draftsman",
+          "LastModified": "2021-11-29T10:43:31.947",
+          "IsDisabled": "Yes",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0819",
+          "Value": "Environmental Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0828",
+          "Value": "Construction Analyst",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0830",
+          "Value": "Mechanical Engineering",
+          "LastModified": "2016-10-21T06:13:47.82",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0840",
+          "Value": "Nuclear Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0850",
+          "Value": "Electrical Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0854",
+          "Value": "Computer Engineering",
+          "LastModified": "2019-08-26T06:18:32.53",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0855",
+          "Value": "Electronics Engineering",
+          "LastModified": "2019-08-26T06:18:32.53",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0856",
+          "Value": "Electronics Technical",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0858",
+          "Value": "Bioengineering and Biomedical Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0861",
+          "Value": "Aerospace Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0871",
+          "Value": "Naval Architecture",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0873",
+          "Value": "Marine Survey Technical",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0880",
+          "Value": "Mining Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0881",
+          "Value": "Petroleum Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0890",
+          "Value": "Agricultural Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0892",
+          "Value": "Engineer, Ceramics",
+          "LastModified": "2021-11-29T10:43:31.947",
+          "IsDisabled": "Yes",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0893",
+          "Value": "Chemical Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0894",
+          "Value": "Engineer, Welding",
+          "LastModified": "2021-11-29T10:43:31.947",
+          "IsDisabled": "Yes",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0895",
+          "Value": "Industrial Engineering Technical",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0896",
+          "Value": "Industrial Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0898",
+          "Value": "Engineering Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0899",
+          "Value": "Engineering And Architecture Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0800"
+        },
+        {
+          "Code": "0901",
+          "Value": "General Legal And Kindred Administration",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0904",
+          "Value": "Law Clerk",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0905",
+          "Value": "Attorney",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0930",
+          "Value": "Hearings And Appeals",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0935",
+          "Value": "Administrative Law Judge",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0950",
+          "Value": "Paralegal Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0958",
+          "Value": "Employee Benefits Law",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0962",
+          "Value": "Contact Representative",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0963",
+          "Value": "Legal Instruments Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0965",
+          "Value": "Land Law Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0967",
+          "Value": "Passport And Visa Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0986",
+          "Value": "Legal Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0987",
+          "Value": "Tax Law Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0991",
+          "Value": "Worker's Compensation Claims Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0993",
+          "Value": "Railroad Retirement Claims Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0996",
+          "Value": "Veterans Claims Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0998",
+          "Value": "Claims Assistance And Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "0999",
+          "Value": "Legal Occupations Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "0900"
+        },
+        {
+          "Code": "1001",
+          "Value": "General Arts And Information",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1002",
+          "Value": "Arts and Information Support",
+          "LastModified": "2021-11-29T10:43:31.957",
+          "IsDisabled": "Yes",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1008",
+          "Value": "Interior Design",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1010",
+          "Value": "Exhibits Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1015",
+          "Value": "Museum Curator",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1016",
+          "Value": "Museum Specialist And Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1020",
+          "Value": "Illustrating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1021",
+          "Value": "Office Drafting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1035",
+          "Value": "Public Affairs",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1040",
+          "Value": "Language Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1046",
+          "Value": "Language Clerical",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1051",
+          "Value": "Music Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1054",
+          "Value": "Theater Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1056",
+          "Value": "Art Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1060",
+          "Value": "Photography",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1071",
+          "Value": "Audiovisual Production",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1082",
+          "Value": "Writing And Editing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1083",
+          "Value": "Technical Writing And Editing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1084",
+          "Value": "Visual Information",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1087",
+          "Value": "Editorial Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1099",
+          "Value": "Information And Arts Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1000"
+        },
+        {
+          "Code": "1101",
+          "Value": "General Business And Industry",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1102",
+          "Value": "Contracting",
+          "LastModified": "2019-08-26T06:18:32.53",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1103",
+          "Value": "Industrial Property Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1104",
+          "Value": "Property Disposal",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1105",
+          "Value": "Purchasing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1106",
+          "Value": "Procurement Clerical And Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1107",
+          "Value": "Property Disposal Clerical And Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1108",
+          "Value": "Business Support",
+          "LastModified": "2021-11-29T10:43:31.963",
+          "IsDisabled": "Yes",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1109",
+          "Value": "Grants Management",
+          "LastModified": "2010-12-01T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1130",
+          "Value": "Public Utilities Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1140",
+          "Value": "Trade Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1144",
+          "Value": "Commissary Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1145",
+          "Value": "Agricultural Program Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1146",
+          "Value": "Agricultural Marketing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1147",
+          "Value": "Agricultural Market Reporting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1150",
+          "Value": "Industrial Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1152",
+          "Value": "Production Control",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1160",
+          "Value": "Financial Analysis",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1163",
+          "Value": "Insurance Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1165",
+          "Value": "Loan Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1169",
+          "Value": "Internal Revenue Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1170",
+          "Value": "Realty",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1171",
+          "Value": "Appraising",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1173",
+          "Value": "Housing Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1176",
+          "Value": "Building Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1199",
+          "Value": "Business And Industry Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1100"
+        },
+        {
+          "Code": "1202",
+          "Value": "Patent Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1200"
+        },
+        {
+          "Code": "1210",
+          "Value": "Copyright",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1200"
+        },
+        {
+          "Code": "1211",
+          "Value": "Copyright Technician",
+          "LastModified": "2021-11-29T10:43:31.97",
+          "IsDisabled": "Yes",
+          "JobFamily": "1200"
+        },
+        {
+          "Code": "1220",
+          "Value": "Patent Administration",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1200"
+        },
+        {
+          "Code": "1221",
+          "Value": "Patent Adviser",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1200"
+        },
+        {
+          "Code": "1222",
+          "Value": "Patent Attorney",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1200"
+        },
+        {
+          "Code": "1223",
+          "Value": "Patent Classifying",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1200"
+        },
+        {
+          "Code": "1224",
+          "Value": "Patent Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1200"
+        },
+        {
+          "Code": "1226",
+          "Value": "Design Patent Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1200"
+        },
+        {
+          "Code": "1299",
+          "Value": "Copyright And Patent Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1200"
+        },
+        {
+          "Code": "1301",
+          "Value": "General Physical Science",
+          "LastModified": "2016-10-21T06:13:47.823",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1306",
+          "Value": "Health Physics",
+          "LastModified": "2019-08-26T06:18:32.53",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1310",
+          "Value": "Physics",
+          "LastModified": "2019-08-26T06:18:32.53",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1311",
+          "Value": "Physical Science Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1313",
+          "Value": "Geophysics",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1315",
+          "Value": "Hydrology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1316",
+          "Value": "Hydrologic Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1320",
+          "Value": "Chemistry",
+          "LastModified": "2016-10-21T06:13:47.823",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1321",
+          "Value": "Metallurgy",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1330",
+          "Value": "Astronomy And Space Science",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1340",
+          "Value": "Meteorology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1341",
+          "Value": "Meteorological Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1350",
+          "Value": "Geology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1360",
+          "Value": "Oceanography",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1361",
+          "Value": "Navigational Information",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1370",
+          "Value": "Cartography",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1371",
+          "Value": "Cartographic Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1372",
+          "Value": "Geodesy",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1373",
+          "Value": "Land Surveying",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1374",
+          "Value": "Geodetic Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1380",
+          "Value": "Forest Products Technology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1382",
+          "Value": "Food Technology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1384",
+          "Value": "Textile Technology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1386",
+          "Value": "Photographic Technology",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1397",
+          "Value": "Document Analysis",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1398",
+          "Value": "Physical Science Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1399",
+          "Value": "Physical Science Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1300"
+        },
+        {
+          "Code": "1410",
+          "Value": "Librarian",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1400"
+        },
+        {
+          "Code": "1411",
+          "Value": "Library Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1400"
+        },
+        {
+          "Code": "1412",
+          "Value": "Technical Information Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1400"
+        },
+        {
+          "Code": "1420",
+          "Value": "Archivist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1400"
+        },
+        {
+          "Code": "1421",
+          "Value": "Archives Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1400"
+        },
+        {
+          "Code": "1499",
+          "Value": "Library And Archives Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1400"
+        },
+        {
+          "Code": "1501",
+          "Value": "General Mathematics And Statistics",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1510",
+          "Value": "Actuarial Science",
+          "LastModified": "2019-08-26T06:18:32.53",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1515",
+          "Value": "Operations Research",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1520",
+          "Value": "Mathematics",
+          "LastModified": "2019-08-26T06:18:32.53",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1521",
+          "Value": "Mathematics Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1529",
+          "Value": "Mathematical Statistics",
+          "LastModified": "2016-10-21T06:13:47.82",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1530",
+          "Value": "Statistics",
+          "LastModified": "2016-10-21T06:13:47.82",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1531",
+          "Value": "Statistical Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1540",
+          "Value": "Cryptographer",
+          "LastModified": "2021-11-29T10:43:31.987",
+          "IsDisabled": "Yes",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1541",
+          "Value": "Cryptanalysis",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1550",
+          "Value": "Computer Science",
+          "LastModified": "2016-10-21T06:13:47.823",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1560",
+          "Value": "Data Science Series",
+          "LastModified": "2022-01-10T12:35:01.647",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1598",
+          "Value": "Mathematics Or Computer Science Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1599",
+          "Value": "Mathematics And Statistics Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1500"
+        },
+        {
+          "Code": "1601",
+          "Value": "Equipment Facilities, And Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1600"
+        },
+        {
+          "Code": "1603",
+          "Value": "Equipment, Facilities, And Services Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1600"
+        },
+        {
+          "Code": "1630",
+          "Value": "Cemetery Administration Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1600"
+        },
+        {
+          "Code": "1640",
+          "Value": "Facility Operations Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1600"
+        },
+        {
+          "Code": "1654",
+          "Value": "Printing Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1600"
+        },
+        {
+          "Code": "1658",
+          "Value": "Laundry Operations Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1600"
+        },
+        {
+          "Code": "1667",
+          "Value": "Food Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1600"
+        },
+        {
+          "Code": "1670",
+          "Value": "Equipment Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1600"
+        },
+        {
+          "Code": "1699",
+          "Value": "Equipment And Facilities Management Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1600"
+        },
+        {
+          "Code": "1701",
+          "Value": "General Education And Training",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1702",
+          "Value": "Education And Training Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1703",
+          "Value": "Education Specialist (DoD Only)",
+          "LastModified": "2021-11-29T10:43:31.997",
+          "IsDisabled": "Yes",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1710",
+          "Value": "Education And Vocational Training",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1712",
+          "Value": "Training Instruction",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1715",
+          "Value": "Vocational Rehabilitation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1720",
+          "Value": "Education Program",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1725",
+          "Value": "Public Health Educator",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1730",
+          "Value": "Education Research",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1740",
+          "Value": "Education Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1750",
+          "Value": "Instructional Systems",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1799",
+          "Value": "Education Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1700"
+        },
+        {
+          "Code": "1801",
+          "Value": "General Inspection, Investigation, Enforcement, And Compliance Series",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1802",
+          "Value": "Compliance Inspection And Support",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1805",
+          "Value": "Investigative Analysis",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1810",
+          "Value": "General Investigation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1811",
+          "Value": "Criminal Investigation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1812",
+          "Value": "Game Law Enforcement Series",
+          "LastModified": "2021-11-29T10:43:32.003",
+          "IsDisabled": "Yes",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1815",
+          "Value": "Air Safety Investigating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1822",
+          "Value": "Mine Safety And Health Inspection Series",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1825",
+          "Value": "Aviation Safety",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1831",
+          "Value": "Securities Compliance Examining",
+          "LastModified": "2009-04-01T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1849",
+          "Value": "Wage And Hour Investigation Series",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1850",
+          "Value": "Agricultural Warehouse Inspection Series",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1860",
+          "Value": "Equal Opportunity Investigation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1862",
+          "Value": "Consumer Safety Inspection",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1863",
+          "Value": "Food Inspection",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1864",
+          "Value": "Public Health Quarantine",
+          "LastModified": "2021-11-29T10:43:32.003",
+          "IsDisabled": "Yes",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1881",
+          "Value": "Customs And Border Protection Interdiction",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1889",
+          "Value": "Import Compliance Series",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1890",
+          "Value": "Customs Inspection Series",
+          "LastModified": "2021-11-29T10:43:32.007",
+          "IsDisabled": "Yes",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1894",
+          "Value": "Customs Entry And Liquidating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1895",
+          "Value": "Customs And Border Protection",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1896",
+          "Value": "Border Patrol Enforcement Series",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1899",
+          "Value": "Investigation Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1800"
+        },
+        {
+          "Code": "1910",
+          "Value": "Quality Assurance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1900"
+        },
+        {
+          "Code": "1980",
+          "Value": "Agricultural Commodity Grading",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1900"
+        },
+        {
+          "Code": "1981",
+          "Value": "Agricultural Commodity Aid",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1900"
+        },
+        {
+          "Code": "1999",
+          "Value": "Quality Inspection Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "1900"
+        },
+        {
+          "Code": "2001",
+          "Value": "General Supply",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2000"
+        },
+        {
+          "Code": "2003",
+          "Value": "Supply Program Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2000"
+        },
+        {
+          "Code": "2005",
+          "Value": "Supply Clerical And Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2000"
+        },
+        {
+          "Code": "2010",
+          "Value": "Inventory Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2000"
+        },
+        {
+          "Code": "2030",
+          "Value": "Distribution Facilities and Storage Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2000"
+        },
+        {
+          "Code": "2032",
+          "Value": "Packaging",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2000"
+        },
+        {
+          "Code": "2050",
+          "Value": "Supply Cataloging Series",
+          "LastModified": "2021-11-29T10:43:32.127",
+          "IsDisabled": "Yes",
+          "JobFamily": "2000"
+        },
+        {
+          "Code": "2091",
+          "Value": "Sales Store Clerical",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2000"
+        },
+        {
+          "Code": "2099",
+          "Value": "Supply Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2000"
+        },
+        {
+          "Code": "2101",
+          "Value": "Transportation Specialist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2102",
+          "Value": "Transportation Clerk And Assistant",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2110",
+          "Value": "Transportation Industry Analysis",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2121",
+          "Value": "Railroad Safety",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2123",
+          "Value": "Motor Carrier Safety",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2125",
+          "Value": "Highway Safety",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2130",
+          "Value": "Traffic Management",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2131",
+          "Value": "Freight Rate",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2135",
+          "Value": "Transportation Loss and Damage Claims Examining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2144",
+          "Value": "Cargo Scheduling",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2150",
+          "Value": "Transportation Operations",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2151",
+          "Value": "Dispatching",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2152",
+          "Value": "Air Traffic Control",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2154",
+          "Value": "Air Traffic Assistance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2161",
+          "Value": "Marine Cargo",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2181",
+          "Value": "Aircraft Operation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2183",
+          "Value": "Air Navigation",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2185",
+          "Value": "Aircrew Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2186",
+          "Value": "Technical Systems Program Manager",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2199",
+          "Value": "Transportation Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2100"
+        },
+        {
+          "Code": "2203",
+          "Value": "Computer Operator",
+          "LastModified": "2021-11-29T10:43:32.16",
+          "IsDisabled": "Yes",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2204",
+          "Value": "Computer Technician",
+          "LastModified": "2021-11-29T10:43:32.163",
+          "IsDisabled": "Yes",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2210",
+          "Value": "Information Technology Management",
+          "LastModified": "2016-10-21T06:13:47.827",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2212",
+          "Value": "Cybersecurity Defensive Operations ICA (DHS Only)",
+          "LastModified": "2020-07-10T11:03:54.913",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2213",
+          "Value": "Cybersecurity Defensive Operations PEA (DHS Only)",
+          "LastModified": "2020-07-10T11:03:55.007",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2214",
+          "Value": "Cybersecurity Threat Analysis (DHS Only)",
+          "LastModified": "2020-07-10T11:03:55.02",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2215",
+          "Value": "Digital Forensics (DHS Only)",
+          "LastModified": "2020-07-10T11:03:55.03",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2216",
+          "Value": "Mitigation and Response (DHS Only)",
+          "LastModified": "2020-07-10T11:03:55.043",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2217",
+          "Value": "Network Operations (DHS Only)",
+          "LastModified": "2020-07-10T11:03:55.053",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2218",
+          "Value": "Security System Operations and Maintenance (DHS Only)",
+          "LastModified": "2020-07-10T11:03:55.07",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2219",
+          "Value": "Vulnerability Assessment (DHS Only)",
+          "LastModified": "2020-07-10T11:03:55.073",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2220",
+          "Value": "Cybersecurity Architecture (For DHS use only)",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2221",
+          "Value": "Cybersecurity Learning and Development (For DHS use only) ",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2222",
+          "Value": "Cybersecurity Engineering (For DHS use only) ",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2223",
+          "Value": "Cybersecurity Policy (For DHS use only)",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2224",
+          "Value": "Cybersecurity Program Management (For DHS use only)",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2225",
+          "Value": "Cybersecurity Research and Development (For DHS use only)",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2226",
+          "Value": "Cybersecurity Risk Management and Compliance (For DHS use only)",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2227",
+          "Value": "Cybersecurity Data Science (For DHS use only)",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2228",
+          "Value": "Physical, Embedded and Control Systems Security (For DHS use only)",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2229",
+          "Value": "Early-Career Cybersecurity Specialist (For DHS use only)",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2230",
+          "Value": "DHS Cybersecurity Specialist (For DHS use only)",
+          "LastModified": "2020-09-17T13:55:51.57",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2299",
+          "Value": "Information Technology Student Trainee",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2200"
+        },
+        {
+          "Code": "2310",
+          "Value": "City Carrier",
+          "LastModified": "2021-11-29T10:43:32.167",
+          "IsDisabled": "Yes",
+          "JobFamily": "2300"
+        },
+        {
+          "Code": "2315",
+          "Value": "Clerk And Mail Handler",
+          "LastModified": "2021-11-29T10:43:32.17",
+          "IsDisabled": "Yes",
+          "JobFamily": "2300"
+        },
+        {
+          "Code": "2320",
+          "Value": "Sales and Service Distribution",
+          "LastModified": "2021-11-29T10:43:32.17",
+          "IsDisabled": "Yes",
+          "JobFamily": "2300"
+        },
+        {
+          "Code": "2325",
+          "Value": "Rural Carrier",
+          "LastModified": "2021-11-29T10:43:32.17",
+          "IsDisabled": "Yes",
+          "JobFamily": "2300"
+        },
+        {
+          "Code": "2340",
+          "Value": "Post Office Clerk",
+          "LastModified": "2021-11-29T10:43:32.173",
+          "IsDisabled": "Yes",
+          "JobFamily": "2300"
+        },
+        {
+          "Code": "2501",
+          "Value": "Miscellaneous Wire Communications Equipment Install and Maintenance",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "2500"
+        },
+        {
+          "Code": "2502",
+          "Value": "Telecommunications Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2500"
+        },
+        {
+          "Code": "2504",
+          "Value": "Wire Communications Cable Splicing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2500"
+        },
+        {
+          "Code": "2508",
+          "Value": "Communications Line Installing and Repairing",
+          "LastModified": "2021-11-29T10:43:32.177",
+          "IsDisabled": "Yes",
+          "JobFamily": "2500"
+        },
+        {
+          "Code": "2601",
+          "Value": "Miscellaneous Electronic Equipment Install and Maintenance",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "2600"
+        },
+        {
+          "Code": "2602",
+          "Value": "Electronic Measurement Equipment Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2600"
+        },
+        {
+          "Code": "2604",
+          "Value": "Electronics Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2600"
+        },
+        {
+          "Code": "2606",
+          "Value": "Electronic Industrial Controls Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2600"
+        },
+        {
+          "Code": "2608",
+          "Value": "Electronic Digital Computer Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2600"
+        },
+        {
+          "Code": "2610",
+          "Value": "Electronic Integrated Systems Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2600"
+        },
+        {
+          "Code": "2801",
+          "Value": "Miscellaneous Electrical Installation and Maintenance",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "2800"
+        },
+        {
+          "Code": "2805",
+          "Value": "Electrician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2800"
+        },
+        {
+          "Code": "2810",
+          "Value": "High Voltage Electrician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2800"
+        },
+        {
+          "Code": "2854",
+          "Value": "Electrical Equipment Repairer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2800"
+        },
+        {
+          "Code": "2892",
+          "Value": "Aircraft Electrician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "2800"
+        },
+        {
+          "Code": "3101",
+          "Value": "Miscellaneous Fabric and Leather Work",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "3100"
+        },
+        {
+          "Code": "3105",
+          "Value": "Fabric Working",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3100"
+        },
+        {
+          "Code": "3106",
+          "Value": "Upholstering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3100"
+        },
+        {
+          "Code": "3111",
+          "Value": "Sewing Machine Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3100"
+        },
+        {
+          "Code": "3119",
+          "Value": "Broom And Brush Making",
+          "LastModified": "2021-11-29T10:43:32.19",
+          "IsDisabled": "Yes",
+          "JobFamily": "3100"
+        },
+        {
+          "Code": "3301",
+          "Value": "Miscellaneous Instrument Work",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3300"
+        },
+        {
+          "Code": "3306",
+          "Value": "Optical Instrument Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3300"
+        },
+        {
+          "Code": "3314",
+          "Value": "Instrument Making",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3300"
+        },
+        {
+          "Code": "3359",
+          "Value": "Instrument Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3300"
+        },
+        {
+          "Code": "3378",
+          "Value": "Precision Measurement Equipment Calibrating",
+          "LastModified": "2011-11-10T08:29:00",
+          "IsDisabled": "No",
+          "JobFamily": "3300"
+        },
+        {
+          "Code": "3401",
+          "Value": "Miscellaneous Machine Tool Work",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3400"
+        },
+        {
+          "Code": "3414",
+          "Value": "Machining",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3400"
+        },
+        {
+          "Code": "3416",
+          "Value": "Toolmaking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3400"
+        },
+        {
+          "Code": "3417",
+          "Value": "Tool Grinding",
+          "LastModified": "2021-11-29T10:43:32.197",
+          "IsDisabled": "Yes",
+          "JobFamily": "3400"
+        },
+        {
+          "Code": "3428",
+          "Value": "Die Sinking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3400"
+        },
+        {
+          "Code": "3501",
+          "Value": "Miscellaneous General Services and Support Work",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "3500"
+        },
+        {
+          "Code": "3502",
+          "Value": "Laboring",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3500"
+        },
+        {
+          "Code": "3511",
+          "Value": "Laboratory Working",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3500"
+        },
+        {
+          "Code": "3513",
+          "Value": "Coin/Currency Checking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3500"
+        },
+        {
+          "Code": "3515",
+          "Value": "Laboratory Support Working",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3500"
+        },
+        {
+          "Code": "3546",
+          "Value": "Railroad Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3500"
+        },
+        {
+          "Code": "3566",
+          "Value": "Custodial Working",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3500"
+        },
+        {
+          "Code": "3601",
+          "Value": "Miscellaneous Structural and Finishing Work",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3600"
+        },
+        {
+          "Code": "3602",
+          "Value": "Cement Finishing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3600"
+        },
+        {
+          "Code": "3603",
+          "Value": "Masonry",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3600"
+        },
+        {
+          "Code": "3604",
+          "Value": "Tile Setting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3600"
+        },
+        {
+          "Code": "3605",
+          "Value": "Plastering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3600"
+        },
+        {
+          "Code": "3606",
+          "Value": "Roofing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3600"
+        },
+        {
+          "Code": "3610",
+          "Value": "Insulating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3600"
+        },
+        {
+          "Code": "3701",
+          "Value": "Miscellaneous Metal Processing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3703",
+          "Value": "Welding",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3705",
+          "Value": "Non-Destructive Testing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3707",
+          "Value": "Metalizing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3711",
+          "Value": "Electroplating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3712",
+          "Value": "Heat Treating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3716",
+          "Value": "Leadburning",
+          "LastModified": "2021-11-29T10:43:32.21",
+          "IsDisabled": "Yes",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3725",
+          "Value": "Battery Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3727",
+          "Value": "Buffing And Polishing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3735",
+          "Value": "Metal Phototransferring",
+          "LastModified": "2021-11-29T10:43:32.21",
+          "IsDisabled": "Yes",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3736",
+          "Value": "Circuit Board Making",
+          "LastModified": "2021-11-29T10:43:32.21",
+          "IsDisabled": "Yes",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3769",
+          "Value": "Shot Peening Machine Operating",
+          "LastModified": "2011-11-17T20:29:00",
+          "IsDisabled": "No",
+          "JobFamily": "3700"
+        },
+        {
+          "Code": "3801",
+          "Value": "Miscellaneous Metal Work",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3802",
+          "Value": "Metal Forging",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3806",
+          "Value": "Sheet Metal Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3807",
+          "Value": "Structural/Ornamental Iron Working",
+          "LastModified": "2021-11-29T10:43:32.217",
+          "IsDisabled": "Yes",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3808",
+          "Value": "Boilermaking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3809",
+          "Value": "Mobile Equipment Metal Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3816",
+          "Value": "Engraving",
+          "LastModified": "2021-11-29T10:43:32.217",
+          "IsDisabled": "Yes",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3819",
+          "Value": "Airframe Jig Fitting",
+          "LastModified": "2021-11-29T10:43:32.22",
+          "IsDisabled": "Yes",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3820",
+          "Value": "Shipfitting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3858",
+          "Value": "Metal Tank And Radiator Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3869",
+          "Value": "Metal Forming Machine Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3872",
+          "Value": "Metal Tube Making, Installing, and Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3800"
+        },
+        {
+          "Code": "3901",
+          "Value": "Miscellaneous Motion Picture, Radio, TV, and Sound Equipment Operating",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "3900"
+        },
+        {
+          "Code": "3910",
+          "Value": "Motion Picture Projection",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3900"
+        },
+        {
+          "Code": "3940",
+          "Value": "Broadcasting Equipment Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "3900"
+        },
+        {
+          "Code": "4001",
+          "Value": "Miscellaneous Lens And Crystal Work",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4000"
+        },
+        {
+          "Code": "4005",
+          "Value": "Optical Element Working",
+          "LastModified": "2021-11-29T10:43:32.227",
+          "IsDisabled": "Yes",
+          "JobFamily": "4000"
+        },
+        {
+          "Code": "4010",
+          "Value": "Prescription Eyeglass Making",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4000"
+        },
+        {
+          "Code": "4101",
+          "Value": "Miscellaneous Painting And Paperhanging",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4100"
+        },
+        {
+          "Code": "4102",
+          "Value": "Painting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4100"
+        },
+        {
+          "Code": "4104",
+          "Value": "Sign Painting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4100"
+        },
+        {
+          "Code": "4201",
+          "Value": "Miscellaneous Plumbing And Pipefitting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4200"
+        },
+        {
+          "Code": "4204",
+          "Value": "Pipefitting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4200"
+        },
+        {
+          "Code": "4206",
+          "Value": "Plumbing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4200"
+        },
+        {
+          "Code": "4255",
+          "Value": "Fuel Distribution System Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4200"
+        },
+        {
+          "Code": "4301",
+          "Value": "Miscellaneous Pliable Materials Work",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4300"
+        },
+        {
+          "Code": "4352",
+          "Value": "Composite/Plastic Fabricating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4300"
+        },
+        {
+          "Code": "4360",
+          "Value": "Rubber Products Molding",
+          "LastModified": "2021-11-29T10:43:32.237",
+          "IsDisabled": "Yes",
+          "JobFamily": "4300"
+        },
+        {
+          "Code": "4361",
+          "Value": "Rubber Equipment Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4300"
+        },
+        {
+          "Code": "4373",
+          "Value": "Molding",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4300"
+        },
+        {
+          "Code": "4401",
+          "Value": "Miscellaneous Printing And Reproduction",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4402",
+          "Value": "Bindery Working",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4403",
+          "Value": "Hand Composing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4406",
+          "Value": "Letterpress Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4413",
+          "Value": "Negative Engraving",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4414",
+          "Value": "Offset Photography",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4416",
+          "Value": "Platemaking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4417",
+          "Value": "Offset Press Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4419",
+          "Value": "Silk Screen Making And Printing",
+          "LastModified": "2021-11-29T10:43:32.243",
+          "IsDisabled": "Yes",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4425",
+          "Value": "Photoengraving",
+          "LastModified": "2021-11-29T10:43:32.247",
+          "IsDisabled": "Yes",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4440",
+          "Value": "Stereotype Platemaking",
+          "LastModified": "2021-11-29T10:43:32.247",
+          "IsDisabled": "Yes",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4441",
+          "Value": "Bookbinding",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4446",
+          "Value": "Bank Note Engraving",
+          "LastModified": "2021-11-29T10:43:32.247",
+          "IsDisabled": "Yes",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4449",
+          "Value": "Electrolytic Intaglio Platemaking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4450",
+          "Value": "Intaglio Die And Plate Finishing",
+          "LastModified": "2021-11-29T10:43:32.25",
+          "IsDisabled": "Yes",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4454",
+          "Value": "Intaglio Press Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4400"
+        },
+        {
+          "Code": "4601",
+          "Value": "Miscellaneous Woodwork",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4600"
+        },
+        {
+          "Code": "4602",
+          "Value": "Blocking And Bracing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4600"
+        },
+        {
+          "Code": "4604",
+          "Value": "Wood Working",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4600"
+        },
+        {
+          "Code": "4605",
+          "Value": "Wood Crafting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4600"
+        },
+        {
+          "Code": "4607",
+          "Value": "Carpentry",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4600"
+        },
+        {
+          "Code": "4616",
+          "Value": "Patternmaking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4600"
+        },
+        {
+          "Code": "4639",
+          "Value": "Timber Working",
+          "LastModified": "2021-11-29T10:43:32.257",
+          "IsDisabled": "Yes",
+          "JobFamily": "4600"
+        },
+        {
+          "Code": "4654",
+          "Value": "Form Block Making",
+          "LastModified": "2021-11-29T10:43:32.257",
+          "IsDisabled": "Yes",
+          "JobFamily": "4600"
+        },
+        {
+          "Code": "4701",
+          "Value": "Miscellaneous General Maintenance and Operations Work",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4714",
+          "Value": "Model Making",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4715",
+          "Value": "Exhibits Making/Modeling",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4716",
+          "Value": "Railroad Car Repairing",
+          "LastModified": "2021-11-29T10:43:32.26",
+          "IsDisabled": "Yes",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4717",
+          "Value": "Boat Building And Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4737",
+          "Value": "General Equipment Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4741",
+          "Value": "General Equipment Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4742",
+          "Value": "Utility Systems Repairing-Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4745",
+          "Value": "Research Laboratory Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4749",
+          "Value": "Maintenance Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4754",
+          "Value": "Cemetery Caretaking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4700"
+        },
+        {
+          "Code": "4801",
+          "Value": "Miscellaneous General Equipment Maintenance",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4804",
+          "Value": "Locksmithing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4805",
+          "Value": "Medical Equipment Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4806",
+          "Value": "Office Appliance Repairing",
+          "LastModified": "2021-11-29T10:43:32.267",
+          "IsDisabled": "Yes",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4807",
+          "Value": "Chemical Equipment Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4808",
+          "Value": "Custodial Equipment Servicing",
+          "LastModified": "2021-11-29T10:43:32.267",
+          "IsDisabled": "Yes",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4816",
+          "Value": "Protective & Safe Equipment Fabricating & Repair",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4818",
+          "Value": "Aircraft Survival Flight Equipment Repair",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4819",
+          "Value": "Bowling Equipment Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4820",
+          "Value": "Vending Machine Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4840",
+          "Value": "Tool And Equipment Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4848",
+          "Value": "Mechanical Parts Repairing",
+          "LastModified": "2021-11-29T10:43:32.267",
+          "IsDisabled": "Yes",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4850",
+          "Value": "Bearing Reconditioning",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "4855",
+          "Value": "Domestic Appliance Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "4800"
+        },
+        {
+          "Code": "5001",
+          "Value": "Miscellaneous Plant And Animal Work",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5000"
+        },
+        {
+          "Code": "5002",
+          "Value": "Farming",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5000"
+        },
+        {
+          "Code": "5003",
+          "Value": "Gardening",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5000"
+        },
+        {
+          "Code": "5026",
+          "Value": "Pest Controlling",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5000"
+        },
+        {
+          "Code": "5031",
+          "Value": "Insects Production Working",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5000"
+        },
+        {
+          "Code": "5034",
+          "Value": "Dairy Farming",
+          "LastModified": "2021-11-29T10:43:32.27",
+          "IsDisabled": "Yes",
+          "JobFamily": "5000"
+        },
+        {
+          "Code": "5035",
+          "Value": "Livestock Ranching/Wrangling",
+          "LastModified": "2021-11-29T10:43:32.273",
+          "IsDisabled": "Yes",
+          "JobFamily": "5000"
+        },
+        {
+          "Code": "5042",
+          "Value": "Tree Trimming And Removing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5000"
+        },
+        {
+          "Code": "5048",
+          "Value": "Animal Caretaking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5000"
+        },
+        {
+          "Code": "5201",
+          "Value": "Miscellaneous Occupations",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5200"
+        },
+        {
+          "Code": "5205",
+          "Value": "Gas And Radiation Detecting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5200"
+        },
+        {
+          "Code": "5210",
+          "Value": "Rigging",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5200"
+        },
+        {
+          "Code": "5220",
+          "Value": "Shipwright",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5200"
+        },
+        {
+          "Code": "5221",
+          "Value": "Lofting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5200"
+        },
+        {
+          "Code": "5235",
+          "Value": "Test Range Tracking",
+          "LastModified": "2021-11-29T10:43:32.277",
+          "IsDisabled": "Yes",
+          "JobFamily": "5200"
+        },
+        {
+          "Code": "5301",
+          "Value": "Miscellaneous Industrial Equipment Maintenance",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5306",
+          "Value": "Air Conditioning Equipment Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5309",
+          "Value": "Heating & Boiler Plant Equipment Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5310",
+          "Value": "Kitchen/Bakery Equipment Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5313",
+          "Value": "Elevator Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5317",
+          "Value": "Laundry & Dry Cleaning Equipment Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5318",
+          "Value": "Lock And Dam Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5323",
+          "Value": "Oiling And Greasing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5334",
+          "Value": "Marine Machinery Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5341",
+          "Value": "Industrial Furnace Building And Repairing",
+          "LastModified": "2021-11-29T10:43:32.283",
+          "IsDisabled": "Yes",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5350",
+          "Value": "Production Machinery Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5352",
+          "Value": "Industrial Equipment Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5364",
+          "Value": "Door Systems Mechanic",
+          "LastModified": "2021-11-29T10:43:32.287",
+          "IsDisabled": "Yes",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5365",
+          "Value": "Physiological Trainer Mechanic",
+          "LastModified": "2021-11-29T10:43:32.287",
+          "IsDisabled": "Yes",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5378",
+          "Value": "Powered Support Systems Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5384",
+          "Value": "Gasdynamic Facility Installing and Repairing",
+          "LastModified": "2021-11-29T10:43:32.287",
+          "IsDisabled": "Yes",
+          "JobFamily": "5300"
+        },
+        {
+          "Code": "5401",
+          "Value": "Miscellaneous Industrial Equipment Operation",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5402",
+          "Value": "Boiler Plant Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5406",
+          "Value": "Utility Systems Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5407",
+          "Value": "Electrical Power Controlling",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5408",
+          "Value": "Sewage Disposal Plant Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5409",
+          "Value": "Water Treatment Plant Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5413",
+          "Value": "Fuel Distribution System Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5415",
+          "Value": "Air Conditioning Equipment Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5419",
+          "Value": "Stationary-Engine Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5423",
+          "Value": "Sandblasting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5426",
+          "Value": "Lock And Dam Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5427",
+          "Value": "Chemical Plant Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5435",
+          "Value": "Carton/Bag Making Machine",
+          "LastModified": "2021-11-29T10:43:32.293",
+          "IsDisabled": "Yes",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5438",
+          "Value": "Elevator Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5439",
+          "Value": "Testing Equipment Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5440",
+          "Value": "Packaging Machine Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5446",
+          "Value": "Textile Equipment Operating",
+          "LastModified": "2021-11-29T10:43:32.293",
+          "IsDisabled": "Yes",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5485",
+          "Value": "Aircraft Weight And Balance Operating",
+          "LastModified": "2021-11-29T10:43:32.297",
+          "IsDisabled": "Yes",
+          "JobFamily": "5400"
+        },
+        {
+          "Code": "5701",
+          "Value": "Miscellaneous Transportation/Mobile Equipment Operating",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5703",
+          "Value": "Motor Vehicle Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5704",
+          "Value": "Fork Lift Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5705",
+          "Value": "Tractor Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5716",
+          "Value": "Engineering Equipment Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5725",
+          "Value": "Crane Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5729",
+          "Value": "Drill Rig Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5736",
+          "Value": "Braking-Switching And Conducting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5737",
+          "Value": "Locomotive Engineering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5738",
+          "Value": "Railroad Maintenance Vehicle Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5767",
+          "Value": "Airfield Clearing Equipment Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5782",
+          "Value": "Ship Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5784",
+          "Value": "Riverboat Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5786",
+          "Value": "Small Craft Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5788",
+          "Value": "Deckhand",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5700"
+        },
+        {
+          "Code": "5801",
+          "Value": "Miscellaneous Transportation/Mobile Equipment Maintenance",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "5800"
+        },
+        {
+          "Code": "5803",
+          "Value": "Heavy Mobile Equipment Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5800"
+        },
+        {
+          "Code": "5806",
+          "Value": "Mobile Equipment Servicing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5800"
+        },
+        {
+          "Code": "5823",
+          "Value": "Automotive Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5800"
+        },
+        {
+          "Code": "5876",
+          "Value": "Electromotive Equipment Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "5800"
+        },
+        {
+          "Code": "6501",
+          "Value": "Miscellaneous Ammunitions, Explosives, and Toxic Matter Work",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "6500"
+        },
+        {
+          "Code": "6502",
+          "Value": "Explosives Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6500"
+        },
+        {
+          "Code": "6505",
+          "Value": "Munitions Destroying",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6500"
+        },
+        {
+          "Code": "6511",
+          "Value": "Missile/Toxic Materials Handling",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6500"
+        },
+        {
+          "Code": "6517",
+          "Value": "Explosives Test Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6500"
+        },
+        {
+          "Code": "6601",
+          "Value": "Miscellaneous Armament Work",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6600"
+        },
+        {
+          "Code": "6605",
+          "Value": "Artillery Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6600"
+        },
+        {
+          "Code": "6606",
+          "Value": "Artillery Testing",
+          "LastModified": "2021-11-29T10:43:32.427",
+          "IsDisabled": "Yes",
+          "JobFamily": "6600"
+        },
+        {
+          "Code": "6610",
+          "Value": "Small Arms Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6600"
+        },
+        {
+          "Code": "6641",
+          "Value": "Ordnance Equipment Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6600"
+        },
+        {
+          "Code": "6652",
+          "Value": "Aircraft Ordnance Systems Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6600"
+        },
+        {
+          "Code": "6656",
+          "Value": "Special Weapons Systems Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6600"
+        },
+        {
+          "Code": "6901",
+          "Value": "Miscellaneous Warehousing and Stock Handling",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "6900"
+        },
+        {
+          "Code": "6903",
+          "Value": "Coal Handling",
+          "LastModified": "2021-11-29T10:43:32.43",
+          "IsDisabled": "Yes",
+          "JobFamily": "6900"
+        },
+        {
+          "Code": "6904",
+          "Value": "Tools And Parts Attending",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6900"
+        },
+        {
+          "Code": "6907",
+          "Value": "Materials Handler",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6900"
+        },
+        {
+          "Code": "6910",
+          "Value": "Materials Expediting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6900"
+        },
+        {
+          "Code": "6912",
+          "Value": "Materials Examining And Identifying",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6900"
+        },
+        {
+          "Code": "6913",
+          "Value": "Hazardous Waste Disposing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6900"
+        },
+        {
+          "Code": "6914",
+          "Value": "Store Working",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6900"
+        },
+        {
+          "Code": "6941",
+          "Value": "Bulk Money Handling",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6900"
+        },
+        {
+          "Code": "6968",
+          "Value": "Aircraft Freight Loading",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "6900"
+        },
+        {
+          "Code": "7001",
+          "Value": "Miscellaneous Packing And Processing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7000"
+        },
+        {
+          "Code": "7002",
+          "Value": "Packing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7000"
+        },
+        {
+          "Code": "7006",
+          "Value": "Preservation Servicing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7000"
+        },
+        {
+          "Code": "7009",
+          "Value": "Equipment Cleaning",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7000"
+        },
+        {
+          "Code": "7301",
+          "Value": "Miscellaneous Laundry, Dry Cleaning, and Pressing",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "7300"
+        },
+        {
+          "Code": "7304",
+          "Value": "Laundry Working",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7300"
+        },
+        {
+          "Code": "7305",
+          "Value": "Laundry Machine Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7300"
+        },
+        {
+          "Code": "7401",
+          "Value": "Miscellaneous Food Preparation and Serving",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "7400"
+        },
+        {
+          "Code": "7402",
+          "Value": "Baking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7400"
+        },
+        {
+          "Code": "7404",
+          "Value": "Cooking",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7400"
+        },
+        {
+          "Code": "7405",
+          "Value": "Bartending",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7400"
+        },
+        {
+          "Code": "7407",
+          "Value": "Meatcutting",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7400"
+        },
+        {
+          "Code": "7408",
+          "Value": "Food Service Working",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7400"
+        },
+        {
+          "Code": "7420",
+          "Value": "Waiter",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7400"
+        },
+        {
+          "Code": "7601",
+          "Value": "Miscellaneous Personal Services",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7600"
+        },
+        {
+          "Code": "7603",
+          "Value": "Barbering",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "7600"
+        },
+        {
+          "Code": "8201",
+          "Value": "Miscellaneous Fluid Systems Maintenance",
+          "LastModified": "2012-11-10T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "8200"
+        },
+        {
+          "Code": "8255",
+          "Value": "Pneudraulic Systems Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "8200"
+        },
+        {
+          "Code": "8268",
+          "Value": "Aircraft Pneudraulic Systems Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "8200"
+        },
+        {
+          "Code": "8601",
+          "Value": "Miscellaneous Engine Overhaul",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "8600"
+        },
+        {
+          "Code": "8602",
+          "Value": "Aircraft Engine Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "8600"
+        },
+        {
+          "Code": "8610",
+          "Value": "Small Engine Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "8600"
+        },
+        {
+          "Code": "8675",
+          "Value": "Liquid Fuel Rocket Engine Mechanic",
+          "LastModified": "2021-11-29T10:43:32.45",
+          "IsDisabled": "Yes",
+          "JobFamily": "8600"
+        },
+        {
+          "Code": "8801",
+          "Value": "Miscellaneous Aircraft Overhaul",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "8800"
+        },
+        {
+          "Code": "8810",
+          "Value": "Aircraft Propeller Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "8800"
+        },
+        {
+          "Code": "8840",
+          "Value": "Aircraft Mechanical Parts Repairing",
+          "LastModified": "2012-05-07T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "8800"
+        },
+        {
+          "Code": "8852",
+          "Value": "Aircraft Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "8800"
+        },
+        {
+          "Code": "8862",
+          "Value": "Aircraft Attending",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "8800"
+        },
+        {
+          "Code": "8882",
+          "Value": "Airframe Test Operating",
+          "LastModified": "2021-11-29T10:43:32.457",
+          "IsDisabled": "Yes",
+          "JobFamily": "8800"
+        },
+        {
+          "Code": "8999",
+          "Value": "United States Probation Officer",
+          "LastModified": "2021-11-29T10:43:32.457",
+          "IsDisabled": "Yes",
+          "JobFamily": "8800"
+        },
+        {
+          "Code": "9001",
+          "Value": "Miscellaneous Film Processing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9000"
+        },
+        {
+          "Code": "9003",
+          "Value": "Film Assembling And Repairing",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9000"
+        },
+        {
+          "Code": "9004",
+          "Value": "Motion Picture Developing/Printing Machine Operating",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9000"
+        },
+        {
+          "Code": "9901",
+          "Value": "Miscellaneous Vessel Jobs",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9902",
+          "Value": "Master",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9903",
+          "Value": "Chief Officer Cable",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9904",
+          "Value": "Ship Pilot",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9905",
+          "Value": "First Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9906",
+          "Value": "Second Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9907",
+          "Value": "Third Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9908",
+          "Value": "Ship's Communication Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9909",
+          "Value": "Radio Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9910",
+          "Value": "First Assistant Radio Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9911",
+          "Value": "Radio Electronics Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9912",
+          "Value": "First Assistant Radio Electronics Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9913",
+          "Value": "Relief Deck Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9914",
+          "Value": "Damage Control Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9915",
+          "Value": "Assistant Damage Control Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9916",
+          "Value": "Master-Mate (Fishing Vessel)",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9917",
+          "Value": "Deck Midshipman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9918",
+          "Value": "Damage Control Leader",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9919",
+          "Value": "Damage Control Assistant Leader",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9920",
+          "Value": "Boatswain",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9921",
+          "Value": "Carpenter",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9922",
+          "Value": "Carpenter-Maintenance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9923",
+          "Value": "Boatswain's Mate",
+          "LastModified": "2012-05-07T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9924",
+          "Value": "Able Seaman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9925",
+          "Value": "Able Seaman-Maintenance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9926",
+          "Value": "Quartermaster",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9927",
+          "Value": "Seaman-Fisherman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9928",
+          "Value": "Ordinary Seaman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9929",
+          "Value": "Damage Controlman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9930",
+          "Value": "Operations Chief (OC)",
+          "LastModified": "2012-11-13T00:00:00",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9931",
+          "Value": "Chief Engineer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9932",
+          "Value": "First Assistant Engineer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9933",
+          "Value": "Second Assistant Engineer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9934",
+          "Value": "Third Assistant Engineer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9935",
+          "Value": "Relief Engineer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9936",
+          "Value": "Engine Midshipman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9939",
+          "Value": "Chief Electrician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9940",
+          "Value": "Electrician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9941",
+          "Value": "Electrician-Maintenance",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9942",
+          "Value": "Second Electrician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9943",
+          "Value": "Third Electrician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9944",
+          "Value": "Electronics Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9945",
+          "Value": "Refrigeration Engineer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9946",
+          "Value": "Second Refrigeration Engineer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9947",
+          "Value": "Third Refrigeration Engineer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9948",
+          "Value": "Plumber",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9949",
+          "Value": "Assistant Plumber",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9950",
+          "Value": "Plumber-Machinist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9951",
+          "Value": "Deck Engineer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9952",
+          "Value": "Deck Engineer-Machinist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9953",
+          "Value": "Deck Engineer-Mechanic",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9954",
+          "Value": "Unlicensed Junior Engineer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9955",
+          "Value": "Pumpman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9956",
+          "Value": "Engineman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9957",
+          "Value": "Engine Utilityman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9958",
+          "Value": "Evaporator-Utilityman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9959",
+          "Value": "Machinist",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9960",
+          "Value": "Oiler",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9961",
+          "Value": "Oiler Diesel",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9962",
+          "Value": "Refrigeration Oiler",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9963",
+          "Value": "Fireman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9964",
+          "Value": "Fireman-Watertender",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9965",
+          "Value": "Wiper",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9968",
+          "Value": "Chief Steward",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9969",
+          "Value": "Third Steward",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9971",
+          "Value": "Chief Cook",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9972",
+          "Value": "Steward Cook",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9973",
+          "Value": "Second Cook",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9974",
+          "Value": "Third Cook",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9975",
+          "Value": "Assistant Cook",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9976",
+          "Value": "Cook-Baker",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9977",
+          "Value": "Second Cook-Baker",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9978",
+          "Value": "Night Cook And Baker",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9979",
+          "Value": "Steward Baker",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9980",
+          "Value": "Third Pantryman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9981",
+          "Value": "Galleyman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9982",
+          "Value": "Laundryman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9983",
+          "Value": "Assistant Laundryman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9984",
+          "Value": "Messman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9985",
+          "Value": "Steward Utilityman",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9988",
+          "Value": "Purser",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9989",
+          "Value": "Junior Purser",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9990",
+          "Value": "Disbursing Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9991",
+          "Value": "Supply Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9992",
+          "Value": "Assistant Supply Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9993",
+          "Value": "Junior Supply Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9994",
+          "Value": "Assistant Storekeeper",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9995",
+          "Value": "Chief Radio Electronics Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9996",
+          "Value": "Medical Services Officer",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9997",
+          "Value": "First Radio Electronics Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9998",
+          "Value": "Yeoman-Storekeeper",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        },
+        {
+          "Code": "9999",
+          "Value": "Second Radio Electronics Technician",
+          "LastModified": "2011-07-06T21:35:26.23",
+          "IsDisabled": "No",
+          "JobFamily": "9900"
+        }
+      ],
+      "id": "OccupationalSeries"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:11.8305789Z"
+}

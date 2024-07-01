@@ -27,11 +27,10 @@ import (
 	usajobs "github.com/JeffRDay/go-usajobs/client"
 )
 
-var agencyTestDataPath = "../testdata/agencysubelements-testdata.json"
-
 func TestAgency(t *testing.T) {
+	testdata := "../testdata/agencysubelements-testdata.json"
 	// Read the JSON file from testdata directory
-	file, err := os.Open(agencyTestDataPath)
+	file, err := os.Open(testdata)
 	if err != nil {
 		t.Fatalf("could not open test data: %v", err)
 	}

@@ -1,0 +1,52 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "1",
+          "Value": "No, I do not claim Veterans' Preference",
+          "LastModified": "2018-07-27T06:13:07.727",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "2",
+          "Value": "5-point preference based on active duty in the U.S. Armed Forces (TP)",
+          "LastModified": "2018-07-27T06:13:07.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "3",
+          "Value": "10-point preference for non-compensable disability or Purple Heart (XP)",
+          "LastModified": "2018-07-27T06:13:07.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "4",
+          "Value": "10-point preference based on a compensable service connected disability of at least 10% but less than 30% (CP)",
+          "LastModified": "2018-07-27T06:13:07.73",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "5",
+          "Value": "10 point preference based on widow/widower or parent of a deceased veteran, or spouse or parent of a disabled veteran (XP)",
+          "LastModified": "2018-07-27T06:13:07.733",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "6",
+          "Value": "10-point preference based on a compensable service connected disability of 30% or more (CPS)",
+          "LastModified": "2018-07-27T06:13:07.733",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "7",
+          "Value": "0-point Sole Survivorship Preference (SSP)",
+          "LastModified": "2018-07-27T06:13:07.753",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "MilitaryStatusCode"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:11.3616682Z"
+}

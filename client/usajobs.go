@@ -16,9 +16,13 @@ limitations under the License.
 package usajobs
 
 import (
+	"encoding/json"
 	"errors"
+	"fmt"
 	"net/http"
 	"net/url"
+
+	"github.com/google/go-querystring/query"
 )
 
 const (
@@ -51,9 +55,46 @@ type Client struct {
 
 	// services used for communicating with different aspects of the
 	// usajobs api.
-	Search *SearchService
-	Agency *AgencySubelementsService
-    AcademicHonors *AcademicHonorsService
+	Search                        *SearchService
+	Agency                        *AgencySubelementsService
+	AcademicHonors                *AcademicHonorsService
+	AcademicLevels                *AcademicLevelsService
+	ApplicantSuppliers            *ApplicantSuppliersService
+	ApplicationStatuses           *ApplicationStatusesService
+	Countries                     *CountriesService
+	CountrySubdivisions           *CountrySubdivisionsService
+	CyberWorkGroupings            *CyberWorkGroupingsService
+	CyberWorkRoles                *CyberWorkRolesService
+	DegreeTypeCode                *DegreeTypeCodeService
+	Disabilities                  *DisabilitiesService
+	Documentations                *DocumentationsService
+	DocumentFormats               *DocumentFormatsService
+	Ethnicities                   *EthnicitiesService
+	FederalEmploymentStatuses     *FederalEmploymentStatusesService
+	GeoLocCodes                   *GeoLocCodesService
+	GsaGeoLocCodes                *GsaGeoLocCodesService
+	HiringPaths                   *HiringPathsService
+	KeyStandardRequirements       *KeyStandardRequirementsService
+	LanguageCodes                 *LanguageCodesService
+	LanguageProficiencies         *LanguageProficienciesService
+	LocationExpansions            *LocationExpansionsService
+	MilitaryStatusCodes           *MilitaryStatusCodesService
+	MissionCriticalCodes          *MissionCriticalCodesService
+	OccupationalSeries            *OccupationalSeriesService
+	PayPlans                      *PayPlansService
+	PositionOfferingTypes         *PositionOfferingTypesService
+	PositionOpeningStatuses       *PositionOpeningsStatusesService
+	PositionScheduleTypes         *PositionScheduleTypesService
+	PostalCodes                   *PostalCodesService
+	RaceCodes                     *RaceCodesService
+	RefereeTypeCodes              *RefereeTypeCodesService
+	RemunerationRateIntervalCodes *RemunerationRateIntervalCodesService
+	RequiredStandardDocuments     *RequiredStandardDocumentsService
+	SecurityClearances            *SecurityClearancesService
+	ServiceTypes                  *ServiceTypesService
+	SpecialHirings                *SpecialHiringsService
+	TravelPercentages             *TravelPercentagesService
+	WhoMayApply                   *WhoMayApplyService
 }
 
 // NewClient requires a user agent and api token string variables and returns
@@ -81,7 +122,44 @@ func NewClient(userAgent, apiToken string) (*Client, error) {
 
 	c.Search = NewSearchService(&c)
 	c.Agency = NewAgencySubelementsService(&c)
-    c.AcademicHonors = NewAcademicHonorsService(&c)
+	c.AcademicHonors = NewAcademicHonorsService(&c)
+	c.AcademicLevels = NewAcademicLevelsService(&c)
+	c.ApplicantSuppliers = NewApplicantSuppliersService(&c)
+	c.ApplicationStatuses = NewApplicationStatusesService(&c)
+	c.Countries = NewCountriesService(&c)
+	c.CountrySubdivisions = NewCountrySubdivisionsService(&c)
+	c.CyberWorkGroupings = NewCyberWorkGroupingsService(&c)
+	c.CyberWorkRoles = NewCyberWorkRolesService(&c)
+	c.DegreeTypeCode = NewDegreeTypeCodeService(&c)
+	c.Disabilities = NewDisabilitiesService(&c)
+	c.Documentations = NewDocumentationsService(&c)
+	c.DocumentFormats = NewDocumentFormatsService(&c)
+	c.Ethnicities = NewEthnicitiesService(&c)
+	c.FederalEmploymentStatuses = NewFederalEmploymentStatusesService(&c)
+	c.GeoLocCodes = NewGeoLocCodesService(&c)
+	c.GsaGeoLocCodes = NewGsaGeoLocCodesService(&c)
+	c.HiringPaths = NewHiringPathsService(&c)
+	c.KeyStandardRequirements = NewKeyStandardRequirementsService(&c)
+	c.LanguageCodes = NewLanguageCodesService(&c)
+	c.LanguageProficiencies = NewLanguageProficienciesService(&c)
+	c.LocationExpansions = NewLocationExpansionsService(&c)
+	c.MilitaryStatusCodes = NewMilitaryStatusCodesService(&c)
+	c.MissionCriticalCodes = NewMissionCriticalCodesService(&c)
+	c.OccupationalSeries = NewOccupationalSeriesService(&c)
+	c.PayPlans = NewPayPlansService(&c)
+	c.PositionOfferingTypes = NewPositionOfferingTypesService(&c)
+	c.PositionOpeningStatuses = NewPositionOpeningsStatusesService(&c)
+	c.PositionScheduleTypes = NewPositionScheduleTypesService(&c)
+	c.PostalCodes = NewPostalCodesService(&c)
+	c.RaceCodes = NewRaceCodesService(&c)
+	c.RefereeTypeCodes = NewRefereeTypeCodesService(&c)
+	c.RemunerationRateIntervalCodes = NewRemunerationRateIntervalCodesService(&c)
+	c.RequiredStandardDocuments = NewRequiredStandardDocumentsService(&c)
+	c.SecurityClearances = NewSecurityClearancesService(&c)
+	c.ServiceTypes = NewServiceTypesService(&c)
+	c.SpecialHirings = NewSpecialHiringsService(&c)
+	c.TravelPercentages = NewTravelPercentagesService(&c)
+	c.WhoMayApply = NewWhoMayApplyService(&c)
 
 	return &c, nil
 }
@@ -104,4 +182,34 @@ func (c *Client) NewRequest(method, urlStr string) (*http.Request, error) {
 	req.Header.Set("User-Agent", c.UserAgent)
 	req.Header.Set("Authorization-Key", c.ApiToken)
 	return req, nil
+}
+
+func (c *Client) NewResponse(endpoint string, opt interface{}, resp interface{}) (*http.Response, interface{}, error) {
+
+	requestURL := endpoint
+	if opt != nil {
+		qs, err := query.Values(opt)
+		if err != nil {
+			return nil, resp, err
+		}
+		requestURL = fmt.Sprintf("%s?%s", endpoint, qs.Encode())
+	}
+
+	req, err := c.NewRequest("GET", requestURL)
+	if err != nil {
+		return nil, resp, err
+	}
+
+	response, err := c.Client.Do(req)
+	if err != nil {
+		return nil, resp, err
+	}
+	defer response.Body.Close()
+
+	err = json.NewDecoder(response.Body).Decode(&resp)
+	if err != nil {
+		return response, resp, err
+	}
+
+	return response, resp, nil
 }

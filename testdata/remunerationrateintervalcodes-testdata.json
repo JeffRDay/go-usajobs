@@ -1,0 +1,70 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "BW",
+          "Value": "Bi-weekly",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FB",
+          "Value": "Fee Basis",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PA",
+          "Value": "Per Year",
+          "LastModified": "2020-11-16T08:27:36.61",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PD",
+          "Value": "Per Day",
+          "LastModified": "2011-04-18T08:17:46.88",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PH",
+          "Value": "Per Hour",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PM",
+          "Value": "Per Month",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PW",
+          "Value": "Piece Work",
+          "LastModified": "2011-04-18T08:18:12.683",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ST",
+          "Value": "Student Stipend Paid",
+          "LastModified": "2011-04-18T08:18:43.04",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SY",
+          "Value": "School Year",
+          "LastModified": "2011-04-18T08:20:22.543",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WC",
+          "Value": "Without Compensation",
+          "LastModified": "2011-04-18T08:20:39.91",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "RemunerationRateIntervalCode"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:15.5591528Z"
+}

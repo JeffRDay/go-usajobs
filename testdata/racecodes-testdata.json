@@ -1,0 +1,40 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "2",
+          "Value": "American Indian or Alaska Native - A person having origins in any of the original peoples of North or South America (including Central America) and who maintains tribal affiliation or community attachment.",
+          "LastModified": "2022-10-17T14:41:21.89",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "3",
+          "Value": "Asian - A person having origins in any of the original peoples of the Far East, Southeast Asia or the Indian subcontinent, including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand or Vietnam.",
+          "LastModified": "2022-10-17T14:41:21.893",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "4",
+          "Value": "Black or African American - A person having origins in any of the black racial groups of Africa.",
+          "LastModified": "2022-10-17T14:41:21.9",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "5",
+          "Value": "Native Hawaiian or other Pacific Islander - A person having origins in any of the original peoples of Hawaii, Guam, Samoa or other Pacific islands.",
+          "LastModified": "2022-10-17T14:41:21.907",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "6",
+          "Value": "White - A person having origins in any of the original peoples of Europe, the Middle East or North Africa.",
+          "LastModified": "2022-10-17T14:41:21.913",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "Race"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:14.6371387Z"
+}

@@ -1,0 +1,160 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "ACCOMMODATIONS",
+          "Value": "Reasonable accommodation documentation",
+          "LastModified": "2023-07-07T14:45:36.13",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "BIA-4432",
+          "Value": "Form BIA-4432",
+          "LastModified": "2023-07-07T14:45:35.977",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "CERTIFICATION",
+          "Value": "Professional certification(s)",
+          "LastModified": "2023-07-07T14:45:36.073",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "COVER",
+          "Value": "Cover Letter",
+          "LastModified": "2023-07-07T14:45:35.857",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DD-214",
+          "Value": "DD-214 or Statement of Service",
+          "LastModified": "2023-07-07T14:45:35.88",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DIPLOMA_GED",
+          "Value": "High school diploma or GED",
+          "LastModified": "2023-07-07T14:45:35.983",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DISABILITY",
+          "Value": "Disability Letter",
+          "LastModified": "2023-07-07T14:45:36.013",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DRIVERS_LICENSE",
+          "Value": "Driver's license",
+          "LastModified": "2023-07-07T14:45:36.02",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DVA_LETTER",
+          "Value": "Department of Veterans Affairs (DVA) disability letter",
+          "LastModified": "2023-07-07T14:45:35.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "ECQ",
+          "Value": "Executive Core Qualifications (ECQs)",
+          "LastModified": "2023-07-07T14:45:35.883",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MARITAL_STATUS",
+          "Value": "Proof of marital status",
+          "LastModified": "2023-07-07T14:45:36.113",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MTQ",
+          "Value": "Mandatory technical qualifications (MTQ)",
+          "LastModified": "2023-07-07T14:45:36.043",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OF-306",
+          "Value": "Official Form 306",
+          "LastModified": "2023-07-07T14:45:35.89",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OTHER",
+          "Value": "Other documents",
+          "LastModified": "2023-07-07T14:45:35.91",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OTHERVET",
+          "Value": "Veteran Other",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PCS_ORDER",
+          "Value": "Permanent Change of Station (PCS) order",
+          "LastModified": "2023-07-07T14:45:36.06",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PERFORMANCE",
+          "Value": "Performance appraisal",
+          "LastModified": "2023-07-07T14:45:36.067",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PROOF_ENROLLMENT",
+          "Value": "Proof of enrollment",
+          "LastModified": "2023-07-07T14:45:36.09",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RIF",
+          "Value": "Separation notice (RIF)",
+          "LastModified": "2023-07-07T14:45:36.167",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SECURE_RESUME",
+          "Value": "Resume",
+          "LastModified": "2023-07-07T14:45:35.92",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SF-15",
+          "Value": "SF-15",
+          "LastModified": "2023-07-07T14:45:35.943",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SF-50",
+          "Value": "SF-50",
+          "LastModified": "2023-07-07T14:45:35.947",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SUPPLEMENTAL_APPLICATION",
+          "Value": "Supplemental application",
+          "LastModified": "2023-07-07T14:45:36.143",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "TRANSCRIPTS",
+          "Value": "College or university transcripts",
+          "LastModified": "2023-07-07T14:45:35.953",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "WRITING_SAMPLE",
+          "Value": "Writing samples",
+          "LastModified": "2023-07-07T14:45:36.153",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "Documentation"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:04.9854046Z"
+}

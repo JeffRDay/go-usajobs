@@ -1,0 +1,250 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "01",
+          "Value": "Deaf or serious difficulty hearing",
+          "LastModified": "2014-06-14T00:21:53.633",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "02",
+          "Value": "Blind or serious difficulty seeing even when wearing glasses",
+          "LastModified": "2014-06-14T00:21:53.633",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "03",
+          "Value": "Missing an arm, leg, hand or foot",
+          "LastModified": "2021-09-03T14:46:55.177",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "04",
+          "Value": "Paralysis: partial or complete paralysis (any cause)",
+          "LastModified": "2021-09-03T14:46:55.21",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "05",
+          "Value": "Significant disfigurement: for example, severe disfigurements caused by burns, wounds, accidents or congenital disorders",
+          "LastModified": "2021-09-03T14:46:55.223",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "06",
+          "Value": "Significant mobility impairment: for example, uses a wheelchair, scooter, walker or uses a leg brace to walk",
+          "LastModified": "2021-09-03T14:46:55.223",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "07",
+          "Value": "Significant psychiatric disorder: for example, bipolar disorder, schizophrenia, PTSD or major depression",
+          "LastModified": "2021-09-03T14:46:55.24",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "08",
+          "Value": "Intellectual disability (formerly described as mental retardation)",
+          "LastModified": "2021-09-03T14:46:55.24",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "09",
+          "Value": "Developmental disability: for example, cerebral palsy or autism spectrum disorder",
+          "LastModified": "2021-09-03T14:46:55.24",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "10",
+          "Value": "Traumatic brain injury",
+          "LastModified": "2021-09-03T14:46:55.257",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "11",
+          "Value": "Dwarfism",
+          "LastModified": "2014-06-14T00:21:53.64",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "12",
+          "Value": "Epilepsy or other seizure disorder",
+          "LastModified": "2014-06-14T00:21:53.643",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "13",
+          "Value": "Other disability or serious health condition:  for example, diabetes, cancer, cardiovascular disease, anxiety disorder or HIV infection; a learning disability, a speech impairment or a hearing impairment",
+          "LastModified": "2022-07-08T15:05:14.567",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "14",
+          "Value": "Alcoholism",
+          "LastModified": "2014-06-14T00:21:53.643",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15",
+          "Value": "Cancer",
+          "LastModified": "2014-06-14T00:21:53.643",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "16",
+          "Value": "Cardiovascular or heart disease",
+          "LastModified": "2014-06-14T00:21:53.643",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "17",
+          "Value": "Crohn's disease, irritable bowel syndrome or other gastrointestinal impairment",
+          "LastModified": "2022-07-08T15:05:15.02",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "18",
+          "Value": "Depression, anxiety disorder or other psychological disorder",
+          "LastModified": "2022-07-08T15:05:15.03",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "19",
+          "Value": "Diabetes or other metabolic disease",
+          "LastModified": "2014-06-14T00:21:53.647",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "20",
+          "Value": "Difficulty seeing even when wearing glasses",
+          "LastModified": "2014-06-14T00:21:53.647",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "21",
+          "Value": "Hearing impairment",
+          "LastModified": "2014-06-14T00:21:53.647",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "22",
+          "Value": "History of drug addiction (but not currently using illegal drugs)",
+          "LastModified": "2014-06-14T00:21:53.647",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "23",
+          "Value": "HIV Infection/AIDS or other immune disorder",
+          "LastModified": "2014-06-14T00:21:53.65",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "24",
+          "Value": "Kidney dysfunction: for example, requires dialysis",
+          "LastModified": "2014-06-14T00:21:53.65",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "25",
+          "Value": "Learning disabilities or ADHD",
+          "LastModified": "2014-06-14T00:21:53.65",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "26",
+          "Value": "Liver disease: for example, hepatitis or cirrhosis",
+          "LastModified": "2014-06-14T00:21:53.65",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "27",
+          "Value": "Lupus, fibromyalgia, rheumatoid arthritis or other autoimmune disorder",
+          "LastModified": "2022-07-08T15:05:15.057",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "28",
+          "Value": "Morbid obesity",
+          "LastModified": "2014-06-14T00:21:53.65",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "29",
+          "Value": "Nervous system disorder: for example, migraine headaches, Parkinson's disease or multiple sclerosis",
+          "LastModified": "2022-07-08T15:05:15.077",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "30",
+          "Value": "Non-paralytic orthopedic impairments: for example, chronic pain, stiffness, weakness in bones or joints or some loss of ability to use parts of the body",
+          "LastModified": "2022-07-08T15:05:15.117",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "31",
+          "Value": "Orthopedic impairments or osteo-arthritis",
+          "LastModified": "2014-06-14T00:21:53.653",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "32",
+          "Value": "Pulmonary or respiratory impairment: for example, asthma, chronic bronchitis or TB",
+          "LastModified": "2022-07-08T15:05:15.133",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "33",
+          "Value": "Sickle cell anemia, hemophilia or other blood disease",
+          "LastModified": "2022-07-08T15:05:15.15",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "34",
+          "Value": "Speech impairment",
+          "LastModified": "2014-06-14T00:21:53.653",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "35",
+          "Value": "Spinal abnormalities: for example, spina bifida or scoliosis",
+          "LastModified": "2014-06-14T00:21:53.657",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "36",
+          "Value": "Thyroid dysfunction or other endocrine disorder",
+          "LastModified": "2014-06-14T00:21:53.657",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "37",
+          "Value": "Other",
+          "LastModified": "2014-06-14T00:21:53.657",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "38",
+          "Value": "None of the conditions listed above apply to me.",
+          "LastModified": "2018-07-27T06:13:07.627",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "39",
+          "Value": "I do not wish to answer questions regarding my disability/health conditions.",
+          "LastModified": "2022-10-17T14:41:21.85",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "40",
+          "Value": "I do not wish to specify any condition.",
+          "LastModified": "2023-06-09T14:42:45.46",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "Disability"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:04.6849412Z"
+}

@@ -1,0 +1,46 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "DOCX",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "LastModified": "2011-07-21T21:57:03.697",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "GIF",
+          "Value": "image/gif",
+          "LastModified": "2011-07-21T21:57:03.697",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "JPG",
+          "Value": "image/jpeg",
+          "LastModified": "2011-07-21T21:57:03.697",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PDF",
+          "Value": "application/pdf",
+          "LastModified": "2011-07-21T21:57:03.697",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PNG",
+          "Value": "image/png",
+          "LastModified": "2011-07-21T21:57:03.697",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "RTF",
+          "Value": "application/rtf",
+          "LastModified": "2011-07-21T21:57:03.697",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "DocumentFormats"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:05.2587742Z"
+}

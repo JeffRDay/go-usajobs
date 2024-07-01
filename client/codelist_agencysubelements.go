@@ -16,11 +16,7 @@ limitations under the License.
 package usajobs
 
 import (
-	"encoding/json"
-	"fmt"
 	"net/http"
-
-	"github.com/google/go-querystring/query"
 )
 
 // AgencySubelementsService is used for interacting with the /codelist/agencysubelements
@@ -61,35 +57,8 @@ type AgencySubelementsResponse struct {
 // WithOptions executes a request to the usajobs /codelist/agencysubelements endpoint
 // with the provided options. Pass nil if no options desired.
 func (as *AgencySubelementsService) WithOptions(opt *AgencySubelementsOptions) (*http.Response, *AgencySubelementsResponse, error) {
-
 	usajobsEndpoint := "/codelist/agencysubelements"
-
-	asr := new(AgencySubelementsResponse)
-
-	requestURL := usajobsEndpoint
-	if opt != nil {
-		qs, err := query.Values(opt)
-		if err != nil {
-			return nil, asr, err
-		}
-		requestURL = fmt.Sprintf("%s?%s", usajobsEndpoint, qs.Encode())
-	}
-
-	req, err := as.Client.NewRequest("GET", requestURL)
-	if err != nil {
-		return nil, asr, err
-	}
-
-	response, err := as.Client.Client.Do(req)
-	if err != nil {
-		return nil, asr, err
-	}
-	defer response.Body.Close()
-
-	err = json.NewDecoder(response.Body).Decode(&asr)
-	if err != nil {
-		return response, asr, err
-	}
-
-	return response, asr, nil
+	responseObject := new(AgencySubelementsResponse)
+	r, object, err := as.Client.NewResponse(usajobsEndpoint, opt, responseObject)
+	return r, object.(*AgencySubelementsResponse), err
 }

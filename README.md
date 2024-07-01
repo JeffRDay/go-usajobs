@@ -95,45 +95,45 @@ func main() {
 - [X] /search
 - [ ] /historicjoa (usajobs needs to fix)
 - [X] /codelist/academichonors
-- [ ] /codelist/academiclevels
+- [-] /codelist/academiclevels
 - [X] /codelist/agencysubelements
-- [ ] /codelist/announcementclosingtype
-- [ ] /codelist/applicantsuppliers
-- [ ] /codelist/applicationstatuses
-- [ ] /codelist/countries
-- [ ] /codelist/countrysubdivisions
-- [ ] /codelist/cyberworkgroupings
-- [ ] /codelist/cyberworkroles
-- [ ] /codelist/degreetypecode
-- [ ] /codelist/disabilities
-- [ ] /codelist/documentations
-- [ ] /codelist/documentformats
-- [ ] /codelist/ethnicity
-- [ ] /codelist/federalemploymentstatuses
-- [ ] /codelist/geoloccodes
-- [ ] /codelist/gsageoloccodes
-- [ ] /codelist/hiringpaths
-- [ ] /codelist/keystandardrequirements
-- [ ] /codelist/languagecodes
-- [ ] /codelist/languageproficiency
-- [ ] /codelist/locationexpansions
-- [ ] /codelist/militarystatuscodes
-- [ ] /codelist/missioncriticalcodes
-- [ ] /codelist/occupationalseries
-- [ ] /codelist/payplans
-- [ ] /codelist/positionofferingtypes
-- [ ] /codelist/positionopeningstatuses
-- [ ] /codelist/positionscheduletypes
-- [ ] /codelist/postalcodes
-- [ ] /codelist/racecodes
-- [ ] /codelist/refereetypecodes
-- [ ] /codelist/remunerationrateintervalcodes
-- [ ] /codelist/requiredstandarddocuments
-- [ ] /codelist/securityclearances
-- [ ] /codelist/servicetypes
-- [ ] /codelist/specialhirings
-- [ ] /codelist/travelpercentages
-- [ ] /codelist/whomayapply
+- [ ] /codelist/announcementclosingtype (404, usajobs needs to remove from docs)
+- [-] /codelist/applicantsuppliers
+- [-] /codelist/applicationstatuses
+- [-] /codelist/countries
+- [-] /codelist/countrysubdivisions
+- [-] /codelist/cyberworkgroupings
+- [-] /codelist/cyberworkroles
+- [-] /codelist/degreetypecode
+- [-] /codelist/disabilities
+- [-] /codelist/documentations
+- [-] /codelist/documentformats
+- [-] /codelist/ethnicity
+- [-] /codelist/federalemploymentstatuses
+- [-] /codelist/geoloccodes
+- [-] /codelist/gsageoloccodes
+- [-] /codelist/hiringpaths
+- [-] /codelist/keystandardrequirements
+- [-] /codelist/languagecodes
+- [-] /codelist/languageproficiency
+- [-] /codelist/locationexpansions
+- [-] /codelist/militarystatuscodes
+- [-] /codelist/missioncriticalcodes
+- [-] /codelist/occupationalseries
+- [-] /codelist/payplans
+- [-] /codelist/positionofferingtypes
+- [-] /codelist/positionopeningstatuses
+- [-] /codelist/positionscheduletypes
+- [-] /codelist/postalcodes
+- [-] /codelist/racecodes
+- [-] /codelist/refereetypecodes
+- [-] /codelist/remunerationrateintervalcodes
+- [-] /codelist/requiredstandarddocuments
+- [-] /codelist/securityclearances
+- [-] /codelist/servicetypes
+- [-] /codelist/specialhirings
+- [-] /codelist/travelpercentages
+- [-] /codelist/whomayapply
 
 ## Contributing
 

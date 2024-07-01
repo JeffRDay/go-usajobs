@@ -1,0 +1,46 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "DISVET30",
+          "Value": "30 Percent or More Disabled Veteran",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DISVETTR",
+          "Value": "Disabled veterans who have completed a VA training program",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MILSPOUSE",
+          "Value": "Military Spouse",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "MILSPOUSEOS",
+          "Value": "Certain former overseas military spouse employees",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SCHEDA",
+          "Value": "Schedule A Disabled",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VRA",
+          "Value": "Veterans Recruitment Appointment (VRA)",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "SpecialHiring"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:17.2350264Z"
+}

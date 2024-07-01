@@ -1,0 +1,28 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "01",
+          "Value": "Competitive",
+          "LastModified": "2017-09-01T06:02:02.673",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "02",
+          "Value": "Excepted",
+          "LastModified": "2017-09-01T06:02:02.673",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "03",
+          "Value": "Senior Executive",
+          "LastModified": "2017-09-01T06:02:02.67",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "ServiceType"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:16.8274813Z"
+}

@@ -1,0 +1,232 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "11112",
+          "Value": "Applicant Declined Appointment",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11312",
+          "Value": "Minimum Qualification Requirements Met",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11313",
+          "Value": "Multiple Grades/Status/Agencies – Eligible-Application Not Referred to Selecting Official",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11314",
+          "Value": "Multiple Grades/Status/Agencies – Eligible-Application Referred to Selecting Official",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11315",
+          "Value": "Multiple Grades/Status/Agencies – Ineligible – “Who May Apply” Requirements Not Met",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11316",
+          "Value": "Multiple Grades/Status/Agencies – Minimum Qualifications Requirements Not Met",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11317",
+          "Value": "Multiple Grades/Status/Agencies – Minimum Qualifications Requirements Met",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11318",
+          "Value": "Multiple Grades/Status/Agencies – Ineligible – Application Incomplete",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11319",
+          "Value": "Multiple Grades/Status/Agencies – Not Selected",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11320",
+          "Value": "Multiple Grades/Status/Agencies – Selected",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11321",
+          "Value": "Multiple Grades/Status/Agencies – Announcement Cancelled",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11322",
+          "Value": "Multiple Grades/Status/Agencies – Applicant Declined Appointment",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11537",
+          "Value": "Not Referred/Not Among the Top Candidates",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11538",
+          "Value": "Multiple Grades/Status/Agencies – Not Referred/Not Among the Top Candidates",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11539",
+          "Value": "Eligible – Referred for Structured Interview",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11540",
+          "Value": "Eligible – Referred to Next Step in Selection Process",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "11541",
+          "Value": "Hired",
+          "LastModified": "2016-10-21T06:12:50.98",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "11542",
+          "Value": "Application Status Not Available",
+          "LastModified": "2016-10-21T06:12:50.937",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "12001",
+          "Value": "Received",
+          "LastModified": "2016-10-21T06:12:50.92",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "12002",
+          "Value": "Reviewed",
+          "LastModified": "2016-10-21T06:12:50.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "12003",
+          "Value": "Referred",
+          "LastModified": "2016-10-21T06:12:50.973",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "12004",
+          "Value": "Not Referred",
+          "LastModified": "2016-10-21T06:12:50.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "12005",
+          "Value": "Not Hired",
+          "LastModified": "2016-10-21T06:12:50.973",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "3417",
+          "Value": "Application Withdrawn",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "3418",
+          "Value": "Resume Received",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "3419",
+          "Value": "Application Incomplete",
+          "LastModified": "2016-10-21T06:12:50.97",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "3420",
+          "Value": "Application Received",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "3422",
+          "Value": "Eligible - Application Referred to Selecting Official",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "3423",
+          "Value": "Canceled",
+          "LastModified": "2016-10-21T06:12:50.937",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "3425",
+          "Value": "Not Selected",
+          "LastModified": "2016-10-21T06:12:50.973",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "3426",
+          "Value": "Selected",
+          "LastModified": "2016-10-21T06:12:50.973",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "9004",
+          "Value": "Reviewing Applications",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "9005",
+          "Value": "Eligible - Application Not Referred to Selecting Official",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "9006",
+          "Value": "Ineligible - \"Who May Apply\" Requirements Not Met",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "9007",
+          "Value": "Minimum Qualification Requirements Not Met",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "9008",
+          "Value": "Ineligible - Application Incomplete",
+          "LastModified": "2013-12-07T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "9999",
+          "Value": "Application In Progress",
+          "LastModified": "2016-10-21T06:12:50.937",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "ApplicationStatus"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:01.6467134Z"
+}

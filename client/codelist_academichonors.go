@@ -16,14 +16,10 @@ limitations under the License.
 package usajobs
 
 import (
-	"encoding/json"
-	"fmt"
 	"net/http"
-
-	"github.com/google/go-querystring/query"
 )
 
-// AcademicHonorsService is used for interacting with the /codelist/academichonors 
+// AcademicHonorsService is used for interacting with the /codelist/academichonors
 // endpoint of the usajobs api.
 type AcademicHonorsService struct {
 	Client *Client
@@ -43,7 +39,7 @@ type AcademicHonorsOptions struct {
 }
 
 // AcademicHonorsResponse is the golang struct implementation of all possible response
-// fields from /codelist/academicHonors. Consumers are responsible for ensuring omitted fields
+// fields from /codelist/academichonors. Consumers are responsible for ensuring omitted fields
 // do not cause errors in consumer implementations.
 type AcademicHonorsResponse struct {
 	CodeList []struct {
@@ -57,38 +53,12 @@ type AcademicHonorsResponse struct {
 	} `json:"CodeList,omitempty"`
 	DateGenerated string `json:"DateGenerated,omitempty"`
 }
+
 // WithOptions executes a request to the usajobs /codelist/academichonors endpoint
 // with the provided options. Pass nil if no options desired.
 func (as *AcademicHonorsService) WithOptions(opt *AcademicHonorsOptions) (*http.Response, *AcademicHonorsResponse, error) {
-
 	usajobsEndpoint := "/codelist/academichonors"
-
-	asr := new(AcademicHonorsResponse)
-
-	requestURL := usajobsEndpoint
-	if opt != nil {
-		qs, err := query.Values(opt)
-		if err != nil {
-			return nil, asr, err
-		}
-		requestURL = fmt.Sprintf("%s?%s", usajobsEndpoint, qs.Encode())
-	}
-
-	req, err := as.Client.NewRequest("GET", requestURL)
-	if err != nil {
-		return nil, asr, err
-	}
-
-	response, err := as.Client.Client.Do(req)
-	if err != nil {
-		return nil, asr, err
-	}
-	defer response.Body.Close()
-
-	err = json.NewDecoder(response.Body).Decode(&asr)
-	if err != nil {
-		return response, asr, err
-	}
-
-	return response, asr, nil
+	responseObject := new(AcademicHonorsResponse)
+	r, object, err := as.Client.NewResponse(usajobsEndpoint, opt, responseObject)
+	return r, object.(*AcademicHonorsResponse), err
 }

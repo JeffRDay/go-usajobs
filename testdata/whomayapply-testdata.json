@@ -1,0 +1,118 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "15509",
+          "Value": "Agency Employees Only",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15510",
+          "Value": "Qualified Current Civil Service Employees",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15511",
+          "Value": "Agency Employees Only",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15513",
+          "Value": "Status Candidates (Merit Promotion and VEOA Eligibles) ",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15514",
+          "Value": "United States Citizens ",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15515",
+          "Value": "US Citizens and Non-Citizens ",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15516",
+          "Value": "Student/Internship Program Eligibles ",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15523",
+          "Value": "US Citizens and Status Candidates ",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15580",
+          "Value": "Current members of the Senior Executive Service",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15590",
+          "Value": "Veterans/Family members with qualifying military service only",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "15669",
+          "Value": "Public",
+          "LastModified": "2011-04-18T08:45:33.4",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "26985",
+          "Value": "United States Citizens ",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "29555",
+          "Value": "Qualified CTAP Eligibles",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "29556",
+          "Value": "Qualified ICTAP or VEOA Eligibles",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "45575",
+          "Value": "All groups of qualified individuals ",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "45576",
+          "Value": "All groups of qualified individuals within the civil service ",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "45577",
+          "Value": "Qualified ICTAP Eligibles",
+          "LastModified": "2013-10-27T00:39:34.93",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "45578",
+          "Value": "Qualified VEOA Eligibles",
+          "LastModified": "2013-10-27T00:39:34.93",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "WhoMayApply"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:18.2370901Z"
+}

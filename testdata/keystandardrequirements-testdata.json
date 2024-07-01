@@ -1,0 +1,64 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "DRUGTEST",
+          "Value": "Designated or Random Drug Testing required.",
+          "LastModified": "2013-10-27T00:38:38.997",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "FITNESS",
+          "Value": "Pre-employment Fitness Exam is required.",
+          "LastModified": "2013-10-27T00:38:38.997",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "OGE278",
+          "Value": "Public Financial Disclosure Required (OGE Form 278)",
+          "LastModified": "2013-10-27T00:38:38.997",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PHYSICAL",
+          "Value": "Pre-employment Physical is required.",
+          "LastModified": "2013-10-27T00:38:38.997",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PROBATION",
+          "Value": "A 1-year probationary period is required.",
+          "LastModified": "2013-10-27T00:38:38.997",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SCREENING",
+          "Value": "Pre-employment Screening Assessment is required.",
+          "LastModified": "2013-10-27T00:38:38.997",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SF278",
+          "Value": "Public Financial Disclosure Required (SF-278)",
+          "LastModified": "2013-10-27T00:38:39",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SSR",
+          "Value": "Selective Service Registration is required for males born after 12/31/1959.",
+          "LastModified": "2013-10-27T00:38:39",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "USCITIZEN",
+          "Value": "US Citizenship is required.",
+          "LastModified": "2013-10-27T00:38:39",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "KeyStandardRequirements"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:09.024818Z"
+}

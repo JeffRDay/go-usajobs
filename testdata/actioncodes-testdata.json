@@ -1,0 +1,40 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "Accepted",
+          "Value": "Accepted",
+          "LastModified": "2011-07-21T21:50:07.023",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "Add",
+          "Value": "Add",
+          "LastModified": "2011-07-21T21:50:07.023",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "Change",
+          "Value": "Change",
+          "LastModified": "2011-07-21T21:50:07.023",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "Delete",
+          "Value": "Delete",
+          "LastModified": "2011-07-21T21:50:07.023",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "Rejected",
+          "Value": "Rejected",
+          "LastModified": "2011-07-21T21:50:07.023",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "ActionCode"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:00.1804471Z"
+}

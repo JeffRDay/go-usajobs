@@ -1,0 +1,46 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "1",
+          "Value": "Full-time",
+          "LastModified": "2021-03-19T10:35:31.407",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "2",
+          "Value": "Part-time",
+          "LastModified": "2021-03-19T10:35:31.423",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "3",
+          "Value": "Shift work",
+          "LastModified": "2021-03-19T10:35:31.44",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "4",
+          "Value": "Intermittent",
+          "LastModified": "2018-07-27T06:13:07.7",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "5",
+          "Value": "Job sharing",
+          "LastModified": "2021-03-19T10:35:31.453",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "6",
+          "Value": "Multiple Schedules",
+          "LastModified": "2018-07-27T06:13:07.703",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "PositionScheduleType"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:12.9454839Z"
+}

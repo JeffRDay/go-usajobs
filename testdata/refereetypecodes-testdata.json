@@ -1,0 +1,22 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "PERSONAL",
+          "Value": "Personal",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "PROFESSIONAL",
+          "Value": "Professional",
+          "LastModified": "2010-07-13T10:13:29.86",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "RefereeTypeCode"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:15.1434137Z"
+}

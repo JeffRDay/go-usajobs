@@ -1,0 +1,76 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "COVER",
+          "Value": "A cover letter may be provided to introduce your skills and goals associated with this application.",
+          "LastModified": "2013-10-27T00:38:39",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DD-214",
+          "Value": "If you are a veteran claiming Veterans' Preference, please attach your DD-214 \"Certificate of Release or Discharge from Active Duty,\" showing all dates of service, receipt of medals and campaign badges, as well as character of service (Honorable, General, etc.). The member 4 copy of your DD-214, “Certificate of Release or Discharge from Active Duty,” is preferable.",
+          "LastModified": "2013-10-27T00:38:39",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DISIBILITY",
+          "Value": "Please provide your proof of disability.",
+          "LastModified": "2013-10-27T00:38:39",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "DVA-LETTER",
+          "Value": "For a disabled veteran, you must submit a Department of Veterans Affairs (DVA) letter on DVA letterhead that states your overall combined service-connected disability rating.",
+          "LastModified": "2013-10-27T00:38:39",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "O-TRANSCRIPT",
+          "Value": "Please provide a copy of your Official College transcript(s) which support those qualifications for which you wish to have considered.",
+          "LastModified": "2014-03-01T00:00:00",
+          "IsDisabled": "Yes"
+        },
+        {
+          "Code": "RESUME",
+          "Value": "A resume should be provided.  It should include relevant work experience (start/end dates stated in month/year, description of duties and salary), applicable education at a minimum, and your contact information.  For current or previous Federal employees, it should also include the Pay Plan, Series and Grade for each work experience entry.",
+          "LastModified": "2014-01-16T13:39:22.08",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SF-15",
+          "Value": "When applying for Federal Jobs, eligible veterans should claim preference on their application or resume.  Applicants claiming 10-point preference must complete Standard Form (SF) 15, \"Application for 10-Point Veteran Preference\", and submit the requested documentation.",
+          "LastModified": "2013-10-27T00:38:39.003",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SF-50",
+          "Value": "For current or previous Federal employees, please attach a copy of your most recent SF-50 or agency notification of personnel action form that provides current position, grade level, and duty location.",
+          "LastModified": "2013-10-27T00:38:39.003",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "SSP-DOCUMENTATION",
+          "Value": "If you are a veteran claiming Sole Survivor Preference, please attach your SSP documentation.",
+          "LastModified": "2013-10-27T00:38:39.003",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "U-TRANSCRIPT",
+          "Value": "Please provide a copy of your College transcript(s) which support those qualifications for which you wish to have considered.",
+          "LastModified": "2013-10-27T00:38:39.003",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "VOW-LETTER",
+          "Value": "If you are a service member who expects to be discharged or released from active duty under honorable conditions, you may submit a certification letter to receive veterans' preference under the VOW (Veterans Opportunity to Work) to Hire Heroes Act of 2011.",
+          "LastModified": "2013-10-27T00:38:39.003",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "RequiredStandardDocuments"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:15.9729113Z"
+}

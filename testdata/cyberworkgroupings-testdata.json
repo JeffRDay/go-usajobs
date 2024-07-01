@@ -1,0 +1,46 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "GroupingName": "IT",
+          "Code": "1",
+          "LastModified": "2021-01-22T12:13:09.87",
+          "IsDisabled": "No"
+        },
+        {
+          "GroupingName": "Cybersecurity",
+          "Code": "2",
+          "LastModified": "2021-01-22T12:13:09.917",
+          "IsDisabled": "No"
+        },
+        {
+          "GroupingName": "Cyber Effects",
+          "Code": "3",
+          "LastModified": "2021-01-22T12:13:09.917",
+          "IsDisabled": "No"
+        },
+        {
+          "GroupingName": "Intel (Cyber)",
+          "Code": "4",
+          "LastModified": "2021-01-22T12:13:09.933",
+          "IsDisabled": "No"
+        },
+        {
+          "GroupingName": "Cross Functional",
+          "Code": "5",
+          "LastModified": "2021-01-22T12:13:09.947",
+          "IsDisabled": "No"
+        },
+        {
+          "GroupingName": "Not Applicable",
+          "Code": "6",
+          "LastModified": "2024-06-21T14:53:14.283",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "CyberWorkGrouping"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:03.4843859Z"
+}

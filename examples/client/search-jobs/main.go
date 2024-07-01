@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"net/http"
 	"os"
 
 	usajobs "github.com/JeffRDay/go-usajobs/client"
@@ -22,9 +23,14 @@ func main() {
 		JobCategoryCode: []string{"2210", "0854"},
 	}
 
-	_, r, err := c.Search.WithOptions(&opt)
+	httpResponse, r, err := c.Search.WithOptions(&opt)
 	if err != nil {
 		panic(err.Error())
+	}
+
+	if httpResponse.StatusCode != http.StatusOK {
+		fmt.Printf("received non-200 response code: %d\n", httpResponse.StatusCode)
+		os.Exit(1)
 	}
 
 	prettyJSON, err := json.MarshalIndent(r, "", "    ")

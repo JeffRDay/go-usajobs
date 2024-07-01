@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"net/http"
 	"os"
 
 	usajobs "github.com/JeffRDay/go-usajobs/client"
@@ -17,9 +18,14 @@ func main() {
 		panic(err.Error())
 	}
 
-	_, r, err := c.AcademicHonors.WithOptions(nil)
+	httpResponse, r, err := c.AcademicHonors.WithOptions(nil)
 	if err != nil {
 		panic(err.Error())
+	}
+
+	if httpResponse.StatusCode != http.StatusOK {
+		fmt.Printf("received non-200 response code: %d\n", httpResponse.StatusCode)
+		os.Exit(1)
 	}
 
 	prettyJSON, err := json.MarshalIndent(r, "", "    ")

@@ -1,0 +1,64 @@
+{
+  "CodeList": [
+    {
+      "ValidValue": [
+        {
+          "Code": "03",
+          "Value": "Some high school (no diploma)",
+          "LastModified": "2021-02-19T10:30:10.263",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "04",
+          "Value": "High school diploma or equivalent",
+          "LastModified": "2021-02-19T10:30:10.263",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "06",
+          "Value": "Technical or occupational certificate",
+          "LastModified": "2021-02-19T10:30:10.297",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "10",
+          "Value": "Associate's degree",
+          "LastModified": "2021-02-19T10:30:10.297",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "12",
+          "Value": "Some college (no degree)",
+          "LastModified": "2021-02-19T10:30:10.297",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "13",
+          "Value": "Bachelor's degree",
+          "LastModified": "2021-02-19T10:30:10.31",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "17",
+          "Value": "Master's degree",
+          "LastModified": "2021-02-19T10:30:10.31",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "21",
+          "Value": "Doctorate degree",
+          "LastModified": "2021-02-19T10:30:10.31",
+          "IsDisabled": "No"
+        },
+        {
+          "Code": "22",
+          "Value": "Professional degree (e.g. MD, JD, DDS)",
+          "LastModified": "2021-02-19T10:30:10.31",
+          "IsDisabled": "No"
+        }
+      ],
+      "id": "DegreeTypeCode"
+    }
+  ],
+  "DateGenerated": "2024-07-01T16:39:04.3598269Z"
+}

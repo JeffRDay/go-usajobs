@@ -2,14 +2,104 @@ version: '3'
 
 tasks:
   build:
+    desc: generate golang binaries locally using goreleaser
     cmds:
       - goreleaser build --snapshot --clean
   test:
+    desc: run unit tests
     cmds:
       - go test $(go list ./... | grep -v /examples) -coverprofile=coverage.out && go tool cover -func=coverage.out
   test-display:
+    desc: run unit tests and display the coverage report
     cmds:
       - go test $(go list ./... | grep -v /examples) -coverprofile=coverage.out && go tool cover -func=coverage.out && go tool cover -html=coverage.out
+  int-client:
+    desc: |
+      [requires usajobs api token and user vars set - see examples/] integration tests
+      for the client based on the go scripts in the examples dir of this project. The point
+      is to exercise the client code. Combined with unit tests, this should cover most of
+      the testing needs for the client library.
+    cmds:
+      - echo "academic-honors"
+      - go run examples/client/academic-honors/main.go
+      - echo "academiclevels"
+      - go run examples/client/academiclevels/main.go 
+      - echo "applicant suppliers"
+      - go run examples/client/applicantsuppliers/main.go
+      - echo "application statuses"
+      - go run examples/client/applicationstatuses/main.go
+      - echo "countries"
+      - go run examples/client/countries/main.go
+      - echo "country subdivisions"
+      - go run examples/client/countrysubdivisions/main.go
+      - echo "cyber work groupings"
+      - go run examples/client/cyberworkgroupings/main.go
+      - echo "list agencies"
+      - go run examples/client/list-agencies/main.go
+      - echo "search"
+      - go run examples/client/search-jobs/main.go
+      - echo "cyber work groupings"
+      - go run examples/client/cyberworkgroupings/main.go
+      - echo "cyber work roles"
+      - go run examples/client/cyberworkroles/main.go
+      - echo "Degree Type Code"
+      - go run examples/client/degreetypecode/main.go
+      - echo "Disabilities"
+      - go run examples/client/disabilities/main.go
+      - echo "Documentations"
+      - go run examples/client/documentations/main.go
+      - echo "Documentat formats"
+      - go run examples/client/documentformats/main.go
+      - echo "Ethnicities"
+      - go run examples/client/ethnicities/main.go
+      - echo "Federal Employment statuses"
+      - go run examples/client/federalemploymentstatuses/main.go
+      - echo "geoloccodes"
+      - go run examples/client/geoloccodes/main.go
+      - echo "gsgeoloccodes"
+      - go run examples/client/gsageoloccodes/main.go
+      - echo "hiringpaths"
+      - go run examples/client/hiringpaths/main.go
+      - echo "keystandardrequirements"
+      - go run examples/client/keystandardrequirements/main.go
+      - echo "languagecodes"
+      - go run examples/client/languagecodes/main.go
+      - echo "languageproficiencies"
+      - go run examples/client/languageproficiencies/main.go
+      - echo "locationexpansions"
+      - go run examples/client/locationexpansions/main.go
+      - echo "militarystatuscodes"
+      - go run examples/client/militarystatuscodes/main.go
+      - echo "missioncriticalcodes"
+      - go run examples/client/missioncriticalcodes/main.go
+      - echo "occupationalseries"
+      - go run examples/client/occupationalseries/main.go
+      - echo "payplans"
+      - go run examples/client/payplans/main.go
+      - echo "positionofferingtypes"
+      - go run examples/client/positionofferingtypes/main.go
+      - echo "positionopeningstatuses"
+      - go run examples/client/positionopeningstatuses/main.go
+      - echo "positionscheduletypes"
+      - go run examples/client/positionscheduletypes/main.go
+      - echo "racecodes"
+      - go run examples/client/racecodes/main.go
+      - echo "refereetypecodes"
+      - go run examples/client/refereetypecodes/main.go
+      - echo "remunerationrateintervalcodes"
+      - go run examples/client/remunerationrateintervalcodes/main.go
+      - echo "requiredstandarddocuments"
+      - go run examples/client/requiredstandarddocuments/main.go
+      - echo "securityclearances"
+      - go run examples/client/securityclearances/main.go
+      - echo "servicetypes"
+      - go run examples/client/servicetypes/main.go
+      - echo "specialhirings"
+      - go run examples/client/specialhirings/main.go
+      - echo "travelpercentages"
+      - go run examples/client/travelpercentages/main.go
+      - echo "whomayapply"
+      - go run examples/client/whomayapply/main.go
   fmt:
     desc: format all golang files within the repository
     cmds:
