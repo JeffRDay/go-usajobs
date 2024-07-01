@@ -23,4 +23,7 @@ jobs:
         run: devbox run test
 
       - name: Run integration tests
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+          EMAIL: ${{ secrets.EMAIL }}
         run: devbox run integration
