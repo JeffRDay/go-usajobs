@@ -7,11 +7,12 @@
     "goreleaser@2.0.1",
     "ruby@3.3.2",
     "bundler@2.5.11",
-    "rubyPackages.jekyll@3.9.5"
+    "rubyPackages.jekyll@3.9.5",
+    "gosec@2.20.0"
   ],
   "shell": {
     "init_hook": [
-      "go install github.com/mattn/goveralls@latest",  
+      "go install github.com/mattn/goveralls@latest",
       "echo 'Welcome to devbox!'"
     ],
     "scripts": {
@@ -19,7 +20,8 @@
         "task test"
       ],
       "integration": [
-        "task int-client"
+        "task int-client",
+        "task int-cli"
       ],
       "build": [
         "task build"

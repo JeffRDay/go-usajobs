@@ -13,6 +13,10 @@ tasks:
     desc: run unit tests and display the coverage report
     cmds:
       - go test $(go list ./... | grep -v /examples) -coverprofile=coverage.out && go tool cover -func=coverage.out && go tool cover -html=coverage.out
+  sast:
+    desc: run gosec static code analysis
+    cmds:
+      - gosec ./...
   int-client:
     desc: |
       [requires usajobs api token and user vars set - see examples/] integration tests
@@ -100,6 +104,15 @@ tasks:
       - go run examples/client/travelpercentages/main.go
       - echo "whomayapply"
       - go run examples/client/whomayapply/main.go
+  int-cli:
+    desc: exercise the cli using examples/cli scripts
+    cmds:
+      - echo "academichonors"
+      - ./examples/cli/academichonors.sh
+      - echo "academiclevels"
+      - ./examples/cli/academiclevels.sh
+      - echo "agencysubelements"
+      - ./examples/cli/agencysubelements.sh
   fmt:
     desc: format all golang files within the repository
     cmds:

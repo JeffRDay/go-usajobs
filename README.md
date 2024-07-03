@@ -95,7 +95,7 @@ func main() {
 - [X] /search
 - [ ] /historicjoa (usajobs needs to fix)
 - [X] /codelist/academichonors
-- [-] /codelist/academiclevels
+- [X] /codelist/academiclevels
 - [X] /codelist/agencysubelements
 - [ ] /codelist/announcementclosingtype (404, usajobs needs to remove from docs)
 - [-] /codelist/applicantsuppliers
@@ -134,6 +134,10 @@ func main() {
 - [-] /codelist/specialhirings
 - [-] /codelist/travelpercentages
 - [-] /codelist/whomayapply
+
+## Other Tools
+
+- [fedscope](https://www.fedscope.opm.gov/ibmcognos/bi/?perspective=home)
 
 ## Contributing
 

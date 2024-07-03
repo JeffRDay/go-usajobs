@@ -16,8 +16,13 @@ limitations under the License.
 package cmd
 
 import (
+	"fmt"
 	"os"
+	"strings"
 
+	usajobs "github.com/JeffRDay/go-usajobs/client"
+	"github.com/charmbracelet/lipgloss"
+	"github.com/charmbracelet/lipgloss/table"
 	"github.com/spf13/cobra"
 )
 
@@ -63,10 +68,39 @@ func Execute() {
 
 }
 
+// Global Variables
 var (
-	userAgent string
-	apiToken  string
+	Client  *usajobs.Client
+	display string
 )
 
 func init() {
+	rootCmd.PersistentFlags().StringVar(&display, "display", "summary", "[summary|detail|csv] type of output supported")
+}
+
+func addNewLines(s string, n int) string {
+	var result strings.Builder
+	for len(s) > n {
+		result.WriteString(s[:n] + "\n")
+		s = s[n:]
+	}
+	result.WriteString(s)
+	return result.String()
+}
+
+func displayTable(headers []string, data [][]string) error {
+
+	t := table.New().
+		Border(lipgloss.NormalBorder()).
+		BorderRow(true).
+		BorderColumn(true).
+		BorderStyle(lipgloss.NewStyle().Foreground(lipgloss.Color("99"))).
+		Headers(headers...).
+		Rows(data...).
+		StyleFunc(func(row, col int) lipgloss.Style {
+			return lipgloss.NewStyle().Padding(0, 1).MaxWidth(120)
+		})
+
+	fmt.Println(t.Render())
+	return nil
 }

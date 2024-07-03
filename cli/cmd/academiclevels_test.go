@@ -21,16 +21,17 @@ import (
 	"net/http/httptest"
 	"net/url"
 	"os"
+	"strings"
 	"testing"
 
 	usajobs "github.com/JeffRDay/go-usajobs/client"
 )
 
-var searchTestDataPath = "../../testdata/search-testdata.json"
+func TestAcademicLevels(t *testing.T) {
+	testdata := "../../testdata/academiclevels-testdata.json"
 
-func TestSearch(t *testing.T) {
 	// Read the JSON file from testdata directory
-	file, err := os.Open(searchTestDataPath)
+	file, err := os.Open(testdata)
 	if err != nil {
 		t.Fatalf("could not open test data: %v", err)
 	}
@@ -44,9 +45,16 @@ func TestSearch(t *testing.T) {
 	// Create a mock server that returns the JSON data
 	mockServer := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		t.Log(r.URL.String())
-		w.Header().Set("Content-Type", "application/json")
-		w.WriteHeader(http.StatusOK)
-		w.Write(data)
+
+		if strings.Contains(r.URL.String(), "/codelist/academiclevels") {
+			// Return status OK for the specific URL
+			w.Header().Set("Content-Type", "application/json")
+			w.WriteHeader(http.StatusOK)
+			w.Write(data)
+		} else {
+			// Return status Not Found for any other URL
+			w.WriteHeader(http.StatusNotFound)
+		}
 	}))
 	defer mockServer.Close()
 
@@ -59,24 +67,12 @@ func TestSearch(t *testing.T) {
 	if err != nil {
 		panic(err.Error())
 	}
+
 	Client.BaseURL = u
 
-	opt := usajobs.SearchOptions{
-		Keyword: "Immigration and Customs Enforcement",
-	}
-
-	err = executeSearch(&opt)
+	err = executeAcademicLevels()
 	if err != nil {
-		t.Fatal(err.Error())
+		t.Fatalf("failed to execute: %v", err.Error())
 	}
-}
 
-func TestSetSearchOpts(t *testing.T) {
-
-	Keyword = "Army"
-	opt := setSearchOptions()
-
-	if opt.Keyword != "Army" {
-		t.Fatalf("expected %s, got %s", "Army", opt.Keyword)
-	}
 }

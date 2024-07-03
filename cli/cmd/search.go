@@ -19,10 +19,10 @@ import (
 	"errors"
 	"fmt"
 	"net/http"
-	"os"
 	"strings"
 
 	usajobs "github.com/JeffRDay/go-usajobs/client"
+	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 )
 
@@ -43,20 +43,16 @@ Example Usage:
     `,
 	Run: func(cmd *cobra.Command, args []string) {
 		opt := setSearchOptions()
-		r, err := executeSearch(&opt)
+		err := executeSearch(&opt)
 		if err != nil {
-			fmt.Printf("Error: %s\n", err.Error())
-			os.Exit(1)
-		}
-
-		for _, job := range r {
-			fmt.Println(job)
+			log.Fatal().Err(err).Msg("failed to execute search command")
 		}
 	},
 }
 
 var (
-	Client                    *usajobs.Client
+	userAgent                 string
+	apiToken                  string
 	Keyword                   string
 	PositionTitle             string
 	RemunerationMinimumAmount string
@@ -91,8 +87,16 @@ func init() {
 	rootCmd.AddCommand(searchCmd)
 	searchCmd.PersistentFlags().StringVar(&userAgent, "user-agent", "", "[required] email address used when obtaining a usajobs api token")
 	searchCmd.PersistentFlags().StringVar(&apiToken, "token", "", "[required] usajobs api token")
-	searchCmd.MarkPersistentFlagRequired("user-agent")
-	searchCmd.MarkPersistentFlagRequired("token")
+	err := searchCmd.MarkPersistentFlagRequired("user-agent")
+	if err != nil {
+		log.Fatal().Err(err).Msg("user-agent flag must be set")
+	}
+
+	err = searchCmd.MarkPersistentFlagRequired("token")
+	if err != nil {
+		log.Fatal().Err(err).Msg("token flag must be set")
+	}
+
 	searchCmd.PersistentFlags().StringVarP(&Keyword, "keyword", "k", "", "[optional] Words used to refine search (ex., Army Software Factory)")
 	searchCmd.PersistentFlags().StringVar(&PositionTitle, "title", "", "[optional] filter jobs by position title (ex., IT Specialist)")
 	searchCmd.PersistentFlags().StringVar(&RemunerationMinimumAmount, "min-salary", "", "[optional] Sets the lower limit for filtering jobs by salary (ex., 80,000)")
@@ -234,50 +238,51 @@ func setSearchOptions() usajobs.SearchOptions {
 	return opt
 }
 
-func executeSearch(opt *usajobs.SearchOptions) ([]string, error) {
+func executeSearch(opt *usajobs.SearchOptions) error {
 
 	var err error
 	if Client == nil {
 		Client, err = usajobs.NewClient(userAgent, apiToken)
 		if err != nil {
-			return nil, err
+			return err
 		}
 	}
 
-	response, r, err := Client.Search.WithOptions(opt)
+	response, data, err := Client.Search.WithOptions(opt)
 	if err != nil {
-		return nil, err
+		return err
 	}
 
 	if response.StatusCode != http.StatusOK {
-		return nil, errors.New(response.Status)
+		return errors.New(response.Status)
 	}
 
-	fmt.Printf(
-		"Displaying %v of %v job announcements matching this search\n",
-		r.SearchResult.SearchResultCount,
-		r.SearchResult.SearchResultCountAll,
-	)
-
-	var results []string
-	result := fmt.Sprintf(
-		"%s\t%s\t%s",
-		"PositionID",
-		"Organization",
-		"PositionTitle",
-	)
-	results = append(results, result)
-
-	for _, i := range r.SearchResult.SearchResultItems {
-		result := fmt.Sprintf(
-			"%s\t%s\t%s",
-			i.MatchedObjectID,
-			i.MatchedObjectDescriptor.DepartmentName,
-			i.MatchedObjectDescriptor.PositionTitle,
-		)
-
-		results = append(results, result)
+	headersSummary := []string{"DEPARTMENT", "JOB_TITLE", "CLOSE_DATE", "URL"}
+	var dataSummary [][]string
+	for _, item := range data.SearchResult.SearchResultItems {
+		dataSummary = append(dataSummary, []string{
+			addNewLines(item.MatchedObjectDescriptor.DepartmentName, 10),
+			addNewLines(item.MatchedObjectDescriptor.PositionTitle, 20),
+			addNewLines(item.MatchedObjectDescriptor.ApplicationCloseDate, 10),
+			addNewLines(item.MatchedObjectDescriptor.ApplyURI[0], 80)})
 	}
 
-	return results, nil
+	switch display {
+	case "summary":
+		err = displayTable(headersSummary, dataSummary)
+		if err != nil {
+			return err
+		}
+	case "detail":
+		log.Info().Msg("Detail view not supported for the search command due to the size of the output. Use 'csv' instead.")
+	case "csv":
+		log.Info().Msg("CSV support coming soon!")
+	default:
+		err = displayTable(headersSummary, dataSummary)
+		if err != nil {
+			return err
+		}
+	}
+
+	return nil
 }
