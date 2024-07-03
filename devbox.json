@@ -19,8 +19,10 @@
       "test": [
         "task test"
       ],
-      "integration": [
-        "task int-client",
+      "integration-client": [
+        "task int-client"
+      ],
+      "integration-cli": [
         "task int-cli"
       ],
       "build": [
