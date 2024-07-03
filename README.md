@@ -17,6 +17,10 @@ closer to this group of people while providing a minor contribution to the open
 source community to enable others to further expand the reach of these job
 announcements.
 
+## Roadmp
+
+Features loosely planned for inclusion on this project are [here](roadmap.md)
+
 ## Getting Started
 
 You can use the CLI to start querying the API immediately or integrate
@@ -98,7 +102,7 @@ func main() {
 - [X] /codelist/academiclevels
 - [X] /codelist/agencysubelements
 - [ ] /codelist/announcementclosingtype (404, usajobs needs to remove from docs)
-- [-] /codelist/applicantsuppliers
+- [X] /codelist/applicantsuppliers
 - [-] /codelist/applicationstatuses
 - [-] /codelist/countries
 - [-] /codelist/countrysubdivisions
