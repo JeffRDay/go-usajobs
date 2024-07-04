@@ -115,6 +115,8 @@ tasks:
       - ./examples/cli/agencysubelements.sh
       - echo "applicantsuppliers"
       - ./examples/cli/applicantsuppliers.sh
+      - echo "applicationstatuses"
+      - ./examples/cli/applicationstatuses.sh
   fmt:
     desc: format all golang files within the repository
     cmds:
