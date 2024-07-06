@@ -2,6 +2,7 @@
 <p align="center">
     <a href="https://github.com/JeffRDay/go-usajobs/releases" alt="Release">
         <img src="https://img.shields.io/github/v/release/jeffrday/go-usajobs" /></a>
+    <img src="lifecycle-developing.svg"
 </p>
 
 # go-usajobs
